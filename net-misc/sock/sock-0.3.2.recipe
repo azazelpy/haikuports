@@ -19,7 +19,7 @@ changes (such as additional features or similars).
 
 I'm happy to incorporate build fixes where feasible and necessary, but
 I do not give build support etc."
-HOMEPAGE="http://www.icir.org/christian/sock.html"
+HOMEPAGE="https://www.icir.org/christian/sock.html"
 COPYRIGHT="1993 W. R. Stevens
 	Mike Borella
 	Christian Kreibich"
