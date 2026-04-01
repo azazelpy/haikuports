@@ -12,7 +12,7 @@ Some of the features you will find in VCDGear are:
 * MPEG stream extractions from popular CD images
 * On the fly MPEG correction to fix certain types of MPEG errors
 * Super VideoCD and VideoCD image creation"
-HOMEPAGE="http://www.vcdgear.com"
+HOMEPAGE="https://www.vcdgear.com"
 COPYRIGHT="2000 Dracore
 	Be-NiB"
 LICENSE="MIT"

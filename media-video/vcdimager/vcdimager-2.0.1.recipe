@@ -16,7 +16,7 @@ lists)
 * Extraction of Video CDs into files (incl. the PBC information)
 * Runs on all major UNIX flavors and on Win32
 * Use of XML for the description of Video CDs"
-HOMEPAGE="http://www.vcdimager.org/"
+HOMEPAGE="https://www.vcdimager.org/"
 COPYRIGHT="2000-2004 Herbert Valerio Riedel
 	2001 Arnd Bergmann
 	2004-2011 Rocky Bernstein"
