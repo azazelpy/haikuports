@@ -4,7 +4,7 @@ sdl2_net s a network library that is used with the SDL library, \
 and almost as portable. It allows a programmer to use network functionality \
 without having to code different things for different platforms. It also \
 simplyfies the handling of network connections and data transfer."
-HOMEPAGE="http://www.libsdl.org/projects/SDL_net/"
+HOMEPAGE="https://www.libsdl.org/projects/SDL_net/"
 COPYRIGHT="1997-2022 Sam Lantinga"
 LICENSE="Zlib"
 REVISION="1"

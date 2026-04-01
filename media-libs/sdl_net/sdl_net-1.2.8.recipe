@@ -4,7 +4,7 @@ multiple platforms including Linux, Windows, and Haiku. The library makes \
 handling data transfer and network connections easy. It features a sample \
 chat client and server application; the chat client uses the GUIlib GUI \
 framework library."
-HOMEPAGE="http://www.libsdl.org/projects/SDL_net"
+HOMEPAGE="https://www.libsdl.org/projects/SDL_net"
 COPYRIGHT="1997-2012 Sam Lantinga"
 LICENSE="Zlib"
 REVISION="9"

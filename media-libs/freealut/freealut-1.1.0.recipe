@@ -1,6 +1,6 @@
 SUMMARY="Implementation of the OpenAL Utility Toolkit"
 DESCRIPTION="FreeALUT - a free implementation of OpenAL's ALUT standard."
-HOMEPAGE="http://connect.creativelabs.com/openal"
+HOMEPAGE="https://connect.creativelabs.com/openal"
 COPYRIGHT="2005-2006 Creative Technology Ltd."
 LICENSE="GNU GPL v2"
 REVISION="5"

@@ -5,7 +5,7 @@ International Color Consortium standard (ICC), which is the modern standard \
 when regarding to color management. The ICC specification is widely used and is \
 referred to in many International and other de-facto standards. It was \
 approved as an International Standard, ISO 15076-1, in 2005."
-HOMEPAGE="http://www.littlecms.com/"
+HOMEPAGE="https://www.littlecms.com/"
 COPYRIGHT="1998-2023 Marti Maria"
 LICENSE="MIT"
 REVISION="1"

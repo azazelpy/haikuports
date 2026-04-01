@@ -23,7 +23,7 @@ libquicktime requires only little brain load.
 Applications can get important information about the codecs, their \
 settable parameters etc. at runtime.
 "
-HOMEPAGE="http://libquicktime.sourceforge.net"
+HOMEPAGE="https://libquicktime.sourceforge.net"
 COPYRIGHT="
 	2002 Heroine Virtual Ltd.
 	2002-2007 Members of the libquicktime project.

@@ -1,7 +1,7 @@
 SUMMARY="An ASCII art rendering library"
 DESCRIPTION="libcaca is a software library which allows applications to \
 automatically convert still and moving images into colored ASCII art."
-HOMEPAGE="http://caca.zoy.org/wiki/libcaca"
+HOMEPAGE="https://caca.zoy.org/wiki/libcaca"
 COPYRIGHT="1998, 1999, 2001 Jan Hubicka
 	2003-2008 Sam Hocevar
 	2003-2008 Jean-Yves Lamoureux

@@ -3,7 +3,7 @@ DESCRIPTION="libmtp implements an MTP initiator, which means it initiates MTP \
 sessions with devices. The devices responding are known as MTP responders. \
 libmtp runs on something with a USB host controller interface, using libusb to \
 access the host controller."
-HOMEPAGE="http://libmtp.sourceforge.net/"
+HOMEPAGE="https://libmtp.sourceforge.net/"
 COPYRIGHT="2006-2011 Linus Walleij
 	2006-2010 Richard Low
 	2006-2009 Marcus Meissner

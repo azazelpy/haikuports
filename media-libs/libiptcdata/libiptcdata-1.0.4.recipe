@@ -5,7 +5,7 @@ multimedia files such as images. This metadata can include captions and \
 keywords, often used by popular photo management applications.
 The library provides routines for parsing, viewing, modifying, and saving \
 this metadata."
-HOMEPAGE="http://libiptcdata.sourceforge.net/"
+HOMEPAGE="https://libiptcdata.sourceforge.net/"
 COPYRIGHT="2005 David Moore"
 LICENSE="GNU LGPL v2.1"
 REVISION="4"

@@ -4,7 +4,7 @@ Alembic distills complex, animated scenes into a non-procedural, \
 application-independent set of baked geometric results. This \'distillation\' \
 of scenes into baked geometry is exactly analogous to the distillation of \
 lighting and rendering scenes into rendered image data."
-HOMEPAGE="http://www.alembic.io/"
+HOMEPAGE="https://www.alembic.io/"
 COPYRIGHT="2009-2016 Sony Pictures Imageworks
 	2009-2016 Industrial Light and Magic
 	2010-2012 Christopher Horvath

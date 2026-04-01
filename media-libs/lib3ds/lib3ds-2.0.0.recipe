@@ -6,7 +6,7 @@ Toolkit for managing 3DS files. It started out in 1996 to be released in \
 In 2000, the library was completely rewritten in ANSI-C to attain more \
 hardware platform independence. To enable commercial application the license \
 was changed to GNU Lesser General Public License (LGPL)."
-HOMEPAGE="http://lib3ds.org"
+HOMEPAGE="https://lib3ds.org"
 COPYRIGHT="2000-2010 Jan Eric Kyprianidis"
 LICENSE="GNU LGPL v2"
 REVISION="2"

@@ -2,7 +2,7 @@ SUMMARY="Open Source library project"
 DESCRIPTION="FreeImage is an Open Source library project for developers \
 who would like to support popular graphics image formats like PNG, BMP, \
 JPEG, TIFF and others as needed by today's multimedia applications"
-HOMEPAGE="http://freeimage.sourceforge.net"
+HOMEPAGE="https://freeimage.sourceforge.net"
 COPYRIGHT="2003-2018 FreeImage Project"
 LICENSE="GNU GPL v2
 	GNU GPL v3"

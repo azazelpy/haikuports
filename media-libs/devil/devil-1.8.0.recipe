@@ -6,7 +6,7 @@ developer to learn and use. Ultimate control of images is left to the \
 developer, so unnecessary conversions, etc. are not performed. DevIL utilizes \
 a simple, yet powerful, syntax. DevIL can load, save, convert, manipulate, \
 filter and display a wide variety of image formats."
-HOMEPAGE="http://openil.sourceforge.net/"
+HOMEPAGE="https://openil.sourceforge.net/"
 COPYRIGHT="2017 Denton Woods"
 LICENSE="GNU LGPL v2.1"
 REVISION="6"

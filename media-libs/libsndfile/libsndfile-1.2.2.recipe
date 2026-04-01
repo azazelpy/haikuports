@@ -1,7 +1,7 @@
 SUMMARY="C library for reading and writing of sampled sound"
 DESCRIPTION="libsndfile is a library of C routines for reading and writing \
 files containing sampled audio data."
-HOMEPAGE="http://libsndfile.github.io/libsndfile/"
+HOMEPAGE="https://libsndfile.github.io/libsndfile/"
 COPYRIGHT="1999-2021 Erik de Castro Lopo
 	2021-current the libsndfile team"
 LICENSE="GNU LGPL v2.1"

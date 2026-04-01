@@ -3,7 +3,7 @@ DESCRIPTION="smjpeg is short for the SDL Motion JPEG library, originally \
 developed by Loki Software, It is used to playback motion JPEGs and runs \
 on just about any platform. It comes with one sample decoder, smjpeg_decode \
 (console, no UI)."
-HOMEPAGE="http://www.icculus.org/smjpeg"
+HOMEPAGE="https://www.icculus.org/smjpeg"
 COPYRIGHT="1999-2004 Sam Lantinga, Joe Tennies."
 LICENSE="GNU LGPL v2"
 REVISION="4"
