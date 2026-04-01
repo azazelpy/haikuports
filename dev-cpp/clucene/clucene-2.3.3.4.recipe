@@ -16,7 +16,7 @@ Being written in pure cross-platform C++ code, and utilizing the flexible \
 CMake build system, CLucene can virtually be used for any purpose, on any \
 machine. From PCs running Windows or Linux to Mobile devices. The sky is the \
 limit."
-HOMEPAGE="http://clucene.sourceforge.net/"
+HOMEPAGE="https://clucene.sourceforge.net/"
 COPYRIGHT="2003-2006 Ben van Klinken
 	2003-2006 CLucene Team
 	2003-2006 Jos van den Oever"

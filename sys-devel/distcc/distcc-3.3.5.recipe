@@ -8,7 +8,7 @@ distcc does not require all machines to share a filesystem, have synchronized \
 clocks, or to have the same libraries or header files installed. They can even \
 have different processors or operating systems, if cross-compilers are \
 installed."
-HOMEPAGE="http://distcc.org/"
+HOMEPAGE="https://distcc.org/"
 COPYRIGHT="2002-2004 by Martin Pool
     2005 Google Inc."
 LICENSE="GNU GPL v2"

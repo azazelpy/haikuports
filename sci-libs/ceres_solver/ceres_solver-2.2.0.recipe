@@ -4,7 +4,7 @@ solving large, complicated optimization problems. It can be used to solve \
 Non-linear Least Squares problems with bounds constraints and general \
 unconstrained optimization problems. It is a mature, feature rich, and \
 performant library that has been used in production at Google since 2010."
-HOMEPAGE="http://ceres-solver.org/"
+HOMEPAGE="https://ceres-solver.org/"
 COPYRIGHT="2015 Google Inc."
 LICENSE="BSD (3-clause)
 	Apache v2"

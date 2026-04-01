@@ -8,7 +8,7 @@ integrated level editor.
 There is also an experimental two player mode (via LAN) available.
 
 Additional, user-created levels and themes are available as separate packages."
-HOMEPAGE="http://lgames.sourceforge.net/"
+HOMEPAGE="https://lgames.sourceforge.net/"
 COPYRIGHT="2001-2015 Michael Speck"
 LICENSE="GNU GPL v2"
 REVISION="6"

@@ -2,7 +2,7 @@ SUMMARY="Sorts files on FAT16/32 partitions"
 DESCRIPTION="FATSort is a small utilitiy for Linux that sorts directory \
 structures of FAT12, FAT16 and FAT32 file systems. It is written in C and \
 can be run from the command line."
-HOMEPAGE="http://fatsort.sourceforge.net/"
+HOMEPAGE="https://fatsort.sourceforge.net/"
 COPYRIGHT="2004-2014 Boris Leidner"
 LICENSE="GNU GPL v2"
 REVISION="1"

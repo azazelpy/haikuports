@@ -2,7 +2,7 @@ SUMMARY="Python v2 and v3 bindings for Qt application framework"
 DESCRIPTION="PyQt combines all the advantages of Qt and Python. A programmer \
 has all the power of Qt, but is able to exploit it with the \
 simplicity of Python."
-HOMEPAGE="http://www.riverbankcomputing.com/software/pyqt/"
+HOMEPAGE="https://www.riverbankcomputing.com/software/pyqt/"
 COPYRIGHT="2015-2023 Riverbank Computing Limited"
 LICENSE="GNU GPL v3"
 REVISION="1"

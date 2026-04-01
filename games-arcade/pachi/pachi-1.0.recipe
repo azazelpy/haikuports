@@ -1,7 +1,7 @@
 SUMMARY="A cool 2D platforming game"
 DESCRIPTION="Pachi el marciano is a cool 2D platforming game inspired by games like \
 Manic Miner, Jet set Willy and more from the 80s."
-HOMEPAGE="http://dragontech.sourceforge.net/index.php?lang=en&main=about"
+HOMEPAGE="https://dragontech.sourceforge.net/index.php?lang=en&main=about"
 COPYRIGHT="2004 Santiago Radeff, Nicolas Radeff, Peter Hajba"
 LICENSE="GNU GPL v2"
 REVISION="2"

@@ -16,7 +16,7 @@ emulation.
 Discovery, Kempston mouse, Fuller audio box, SpecDrum, Spectrum +3e, ZXATASP \
 and ZXCF interfaces.
 * Emulation of the Spectranet and SpeccyBoot interfaces."
-HOMEPAGE="http://fuse-emulator.sourceforge.net/fuse.php"
+HOMEPAGE="https://fuse-emulator.sourceforge.net/fuse.php"
 COPYRIGHT="2003-2018 Philip Kendall and FUSE contributors"
 LICENSE="GNU GPL v2"
 REVISION="1"

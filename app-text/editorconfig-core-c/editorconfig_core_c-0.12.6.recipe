@@ -4,7 +4,7 @@ between different text editors and between different projects. The EditorConfig 
 a file format and plugins for various text editors which allow this file format to be read and \
 used by those editors. For information on the file format and supported text editors, see the \
 EditorConfig website."
-HOMEPAGE="http://editorconfig.org/"
+HOMEPAGE="https://editorconfig.org/"
 COPYRIGHT="2011-2013 EditorConfig Team, including Hong Xu and Trey Hunner
 	2014 Hong Xu"
 LICENSE="BSD (2-clause)"

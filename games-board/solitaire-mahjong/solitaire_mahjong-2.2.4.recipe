@@ -2,7 +2,7 @@ SUMMARY="Solitaire Mahjong game"
 DESCRIPTION="Solitaire Mahjong is a one player version of the classic Eastern tile game, Mahjong. \
 It has all the functionality you expect from a solitaire game. In addition it provides tools such \
 as a layout editor allowing the player to create custom layouts as well as analysis tools to evaluate them. "
-HOMEPAGE="http://star.physics.yale.edu/~ullrich/software/SolitaireMahjong/"
+HOMEPAGE="https://star.physics.yale.edu/~ullrich/software/SolitaireMahjong/"
 COPYRIGHT="2008-2017 Thomas S. Ullrich"
 LICENSE="GNU GPL v2"
 REVISION="2"

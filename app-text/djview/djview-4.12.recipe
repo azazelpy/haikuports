@@ -16,7 +16,7 @@ Highlights:
 - page names supported (see djvused command set-page-title)
 - metadata dialog (see djvused command set-meta)
 - implemented as reusable Qt widgets"
-HOMEPAGE="http://djvu.sourceforge.net/djview4.html"
+HOMEPAGE="https://djvu.sourceforge.net/djview4.html"
 COPYRIGHT="2006-  Leon Bottou"
 LICENSE="GNU GPL v2"
 REVISION="2"

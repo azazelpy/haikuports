@@ -9,7 +9,7 @@ The intltool collection can:
 files (.c, .h) in po/PACKAGE.pot.
 - Merge back the translations from .po files into .xml, .desktop and oaf \
 files. This merge step will happen at build resp. installation time."
-HOMEPAGE="http://freedesktop.org/wiki/Software/intltool"
+HOMEPAGE="https://freedesktop.org/wiki/Software/intltool"
 COPYRIGHT="1994-1996, 1999-2002, 2004-2015 Free Software Foundation, Inc."
 LICENSE="GNU GPL v2"
 REVISION="4"

@@ -23,7 +23,7 @@ Currently includes editors for:
 * Bitmaps
 * Icons
 * Cursors"
-HOMEPAGE="http://www.angryredplanet.com/~hackbod/beos/quickres.html"
+HOMEPAGE="https://www.angryredplanet.com/~hackbod/beos/quickres.html"
 COPYRIGHT="2000-2001, Dianne Hackborn
 	1991-2000, Be Incorporated."
 LICENSE="Be Sample Code License"

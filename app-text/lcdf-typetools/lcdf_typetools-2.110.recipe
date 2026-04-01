@@ -1,7 +1,7 @@
 SUMMARY="Utilities for manipulating fonts"
 DESCRIPTION="LCDF Typetools comprises several programs for manipulating PostScript Type 1, Type 1 \
 Multiple Master, OpenType, and TrueType fonts."
-HOMEPAGE="http://lcdf.org/type/#typetools"
+HOMEPAGE="https://lcdf.org/type/#typetools"
 COPYRIGHT="1997-2023 Eddie Kohler"
 LICENSE="GNU GPL v3"
 REVISION="1"

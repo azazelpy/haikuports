@@ -1,7 +1,7 @@
 SUMMARY="2D dogfighting game"
 DESCRIPTION="Airstrike is a 2d dogfighting game which can be played by one or two persons.\
 Features include alpha blended graphics and accurate physics."
-HOMEPAGE="http://icculus.org/airstrike/"
+HOMEPAGE="https://icculus.org/airstrike/"
 COPYRIGHT="2001-2003 Ulf Ekström and contributors"
 LICENSE="GNU GPL v2"
 REVISION="1"

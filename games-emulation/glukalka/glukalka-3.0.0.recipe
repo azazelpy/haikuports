@@ -19,7 +19,7 @@ The program is free software and is copyrighted under the GNU General Public Lic
   - Snapshots in .Z80 format
   - Disk images in .TRD or .FDI format
   - PSG music dump in .PSG format."
-HOMEPAGE="http://www.sanarin.ru/glukalka/"
+HOMEPAGE="https://www.sanarin.ru/glukalka/"
 COPYRIGHT="Dmitry Sanarin"
 LICENSE="GNU GPL v2"
 REVISION="1"

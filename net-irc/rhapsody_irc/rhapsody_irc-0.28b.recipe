@@ -3,7 +3,7 @@ DESCRIPTION="Rhapsody is a text console IRC client for Unix operating \
 systems. It is small, fast, portable, easy to use and full featured. \
 An intuitive menu-driven user interface makes rhapsody ideal for \
 beginner to intermediate users."
-HOMEPAGE="http://rhapsody.sourceforge.net/"
+HOMEPAGE="https://rhapsody.sourceforge.net/"
 COPYRIGHT="2006 Adrian Gonera"
 LICENSE="GNU GPL v2"
 REVISION="4"

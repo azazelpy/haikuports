@@ -5,7 +5,7 @@ covered by the GNU General Public License-- that allow programmers and Bible \
 societies to write new Bible software more quickly and easily. We also create \
 Bible study software for all readers, students, scholars, and translators of \
 the Bible, and have a growing collection of over 200 texts in over 50 languages."
-HOMEPAGE="http://www.crosswire.org/sword"
+HOMEPAGE="https://www.crosswire.org/sword"
 COPYRIGHT="1998-2018 CrossWire Bible Society"
 LICENSE="GNU GPL v2"
 REVISION="7"

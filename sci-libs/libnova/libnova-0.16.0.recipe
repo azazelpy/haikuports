@@ -30,7 +30,7 @@ The current version of libnova can calculate:
 * Angular separation of bodies
 * Hyperbolic motion of bodies
 * Heliocentric (barycentric) time correction"
-HOMEPAGE="http://libnova.sourceforge.net/"
+HOMEPAGE="https://libnova.sourceforge.net/"
 COPYRIGHT="2000 - 2005 Liam Girdwood
 	2000 - 2005, 2009, 2011, 2015 Petr Kubanek
 	2015 Jeroen Vreeken

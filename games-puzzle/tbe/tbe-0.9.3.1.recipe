@@ -2,7 +2,7 @@ SUMMARY="Realistic physics simulation game"
 DESCRIPTION="The Butterfly Effect is a free and open source game that uses realistic \
 physics simulations to combine lots of simple mechanical elements to achieve a simple \
 goal in the most complex way possible."
-HOMEPAGE="http://the-butterfly-effect.org/"
+HOMEPAGE="https://the-butterfly-effect.org/"
 COPYRIGHT="Peter van Ginneken, Klaas van Gend"
 LICENSE="GNU GPL v2"
 REVISION="1"

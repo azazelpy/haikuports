@@ -1,7 +1,7 @@
 SUMMARY="A tool to automate interactive applications"
 DESCRIPTION="expect is a program that performs programmed \
 dialogue with other interactive programs."
-HOMEPAGE="http://www.nist.gov/el/msid/expect.cfm"
+HOMEPAGE="https://www.nist.gov/el/msid/expect.cfm"
 COPYRIGHT="1987-1994 The Regents of the University of California.
 	1994-1997 Sun Microsystems, Inc.
 	1993-1996 Lucent Technologies.

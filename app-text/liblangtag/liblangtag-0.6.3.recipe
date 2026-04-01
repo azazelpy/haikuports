@@ -1,7 +1,7 @@
 SUMMARY="Language tags identification library"
 DESCRIPTION="liblangtag is an interface library to access/deal with tags for \
 identifying languages, which is described in RFC 5646."
-HOMEPAGE="http://tagoh.bitbucket.org/liblangtag"
+HOMEPAGE="https://tagoh.bitbucket.org/liblangtag"
 COPYRIGHT="Akira Tagoh"
 LICENSE="
 	GNU LGPL v3

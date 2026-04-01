@@ -1,6 +1,6 @@
 SUMMARY="Elliptic Curve Method for Integer Factorization"
 DESCRIPTION="C implementation of the Elliptic Curve Method for factorizing integers"
-HOMEPAGE="http://ecm.gforge.inria.fr/"
+HOMEPAGE="https://ecm.gforge.inria.fr/"
 COPYRIGHT="2001-2016 GMP-ECM Authors"
 LICENSE="GNU GPL v3
 	GNU LGPL v3"

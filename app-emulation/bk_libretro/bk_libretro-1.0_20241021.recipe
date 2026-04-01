@@ -9,7 +9,7 @@ community, similar to the C64, ZX Spectrum and Atari 2600 communities \
 elsewhere in the world. These computers will accept console commands in \
 English but respond mostly in Russian, so this core is mostly of use to \
 Russian-speaking users."
-HOMEPAGE="http://www.mailcom.com/bk0010/index_en.shtml"
+HOMEPAGE="https://www.mailcom.com/bk0010/index_en.shtml"
 COPYRIGHT="1994-2021, Eric A. Edwards, Leonid A. Broukhis, the libretro team"
 LICENSE="MIT"
 REVISION="1"

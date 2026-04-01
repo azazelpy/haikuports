@@ -3,7 +3,7 @@ DESCRIPTION="Artistic Style is a filter written in C++ that automatically \
 re-indents and re-formats C / C++ / C# / Java source files. It can be used \
 from a command line, or it can be incorporated as classes in another \
 C++ program."
-HOMEPAGE="http://astyle.sourceforge.net"
+HOMEPAGE="https://astyle.sourceforge.net"
 COPYRIGHT="1998-2002 Tal Davidson
 	2006-2018 Jim Pattee
 	2023 The Artistic Style Authors"

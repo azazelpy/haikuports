@@ -1,7 +1,7 @@
 SUMMARY="Finnish dictionary for aspell program/library"
 DESCRIPTION="Finnish dictionary for the GNU Aspell program, an open source \
 spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2000-2004 Martin Vermeer, Pauli Virtanen"
 LICENSE="GNU GPL v2"
 REVISION="1"

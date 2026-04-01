@@ -5,7 +5,7 @@ scene descriptions by tracing the path of light through pixels in an image plane
 and simulating the effects of its encounters with virtual objects. \
 Based on DKBTrace, written by David Kirk Buck and Aaron Collins for \
 Commodore Amiga computers."
-HOMEPAGE="http://www.povray.org/"
+HOMEPAGE="https://www.povray.org/"
 COPYRIGHT="1991-2013 Persistence of Vision Raytracer Pty. Ltd."
 LICENSE="GNU GPL v3"
 REVISION="3"

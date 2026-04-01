@@ -1,6 +1,6 @@
 SUMMARY="C/C++ cross-compiler for ARM"
 DESCRIPTION="Compiler for ARM processors."
-HOMEPAGE="http://gcc.gnu.org"
+HOMEPAGE="https://gcc.gnu.org"
 COPYRIGHT="1988-2023 Free Software Foundation, Inc."
 LICENSE="GNU GPL v2
 	GNU LGPL v2"

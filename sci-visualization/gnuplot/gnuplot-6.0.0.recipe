@@ -3,7 +3,7 @@ DESCRIPTION="Originally created to allow both students and scientists to \
 visualize mathematical functions and data interactively, but has grown to \
 support many non-interactive uses such as web scripting. It is also used \
 as a plotting engine by third-party applications like Octave."
-HOMEPAGE="http://www.gnuplot.info/"
+HOMEPAGE="https://www.gnuplot.info/"
 COPYRIGHT="1986-1993, 1998, 2004-2023 Thomas Williams, Colin Kelley"
 LICENSE="Gnuplot"
 REVISION="1"

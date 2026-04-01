@@ -1,7 +1,7 @@
 SUMMARY="Preprocessor-pretty-printer of OCaml"
 DESCRIPTION="Camlp5 is a preprocessor-pretty-printer of OCaml.
 It is compatible with OCaml versions from 1.07 to 4.02.0."
-HOMEPAGE="http://camlp5.gforge.inria.fr/"
+HOMEPAGE="https://camlp5.gforge.inria.fr/"
 COPYRIGHT="2007-2013 Institut National de Recherche en Informatique et en Automatique (INRIA)."
 LICENSE="BSD (3-clause)"
 REVISION="1"

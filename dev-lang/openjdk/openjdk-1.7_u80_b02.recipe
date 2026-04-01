@@ -6,7 +6,7 @@ licensed under the GNU General Public License (GNU GPL) with a linking \
 exception. Were it not for the GPL linking exception, components that linked \
 to the Java class library would be subject to the terms of the GPL license. \
 OpenJDK is the official Java SE 7 reference implementation."
-HOMEPAGE="http://openjdk.java.net/"
+HOMEPAGE="https://openjdk.java.net/"
 COPYRIGHT="2012 Oracle and/or its affiliates."
 LICENSE="GNU GPL v2"
 

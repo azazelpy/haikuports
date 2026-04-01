@@ -4,7 +4,7 @@ for creating .MOD and .XM module files. It attempts to recreate the module \
 replay and user experience of the popular DOS program Fasttracker II, with \
 special playback modes available for improved Amiga ProTracker 2/3 \
 compatibility."
-HOMEPAGE="http://www.milkytracker.org/"
+HOMEPAGE="https://www.milkytracker.org/"
 LICENSE="
 	GNU GPL v3
 	New-BSD

@@ -2,7 +2,7 @@ SUMMARY="A port of MelonDS, a Nintendo DS emulator to the libretro API"
 DESCRIPTION="MelonDS is a Nintendo DS emulator with emphasis on performance. \
 It is attempting to do things 'right and fast' according to its original \
 author. This is the libretro core based of MelonDS."
-HOMEPAGE="http://melonds.kuribo64.net/"
+HOMEPAGE="https://melonds.kuribo64.net/"
 COPYRIGHT="2016-2020 StapleButter, the libretro team"
 LICENSE="GNU GPL v3"
 REVISION="1"

@@ -2,7 +2,7 @@ SUMMARY="A 2D Physics Engine for Games"
 DESCRIPTION="Box2D is a feature rich 2D rigid body physics engine, written in C++. \
 It has been used in many games, including Crayon Physics Deluxe, \
 winner of the 2008 Independant Game Festival Grand Prize"
-HOMEPAGE="http://www.box2d.org"
+HOMEPAGE="https://www.box2d.org"
 COPYRIGHT="2007-2015 Erin Catto"
 LICENSE="MIT"
 REVISION="2"

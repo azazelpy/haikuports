@@ -7,7 +7,7 @@ NetBSD's make.
 This version of Make features several extensions that are not in GNU Make, and \
 does not has all of GNU Make extensions. Some projects explicitly require one \
 or the other."
-HOMEPAGE="http://www.crufty.net/help/sjg/bmake.htm"
+HOMEPAGE="https://www.crufty.net/help/sjg/bmake.htm"
 COPYRIGHT="1990-2018 NetBSD and sjg"
 LICENSE="BSD (3-clause)"
 REVISION="1"

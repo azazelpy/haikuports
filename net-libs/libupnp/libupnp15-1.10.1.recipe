@@ -4,7 +4,7 @@ UPnP device and control point applications.  It consists of the core UPnP \
 protocols along with a UPnP-specific eXtensible Markup Language (XML) parser \
 supporting the Document Object Model (DOM) Level 2 API and an optional, \
 integrated mini web server for serving UPnP related documents."
-HOMEPAGE="http://pupnp.sourceforge.net"
+HOMEPAGE="https://pupnp.sourceforge.net"
 COPYRIGHT="2000-2003 Intel Corporation
 	2005-2006 Rémi Turboult
 	2006 Michel Pfeiffer and others"

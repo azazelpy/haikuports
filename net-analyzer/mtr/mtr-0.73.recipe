@@ -6,7 +6,7 @@ runs on and a user-specified destination host. After it determines the \
 address of each network hop between the machines, it sends a sequence ICMP ECHO\
 requests to each one to determine the quality of the link to each machine.\
 As it does this, it prints running statistics about each machine."
-HOMEPAGE="http://www.bitwizard.nl/mtr"
+HOMEPAGE="https://www.bitwizard.nl/mtr"
 COPYRIGHT="1997,1998  Matt Kimball
 	1999-2008 R.E.Wolff"
 LICENSE="GNU GPL v2"

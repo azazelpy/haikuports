@@ -1,7 +1,7 @@
 SUMMARY="Additional levels for LBreakout2"
 DESCRIPTION="This package provides 22 additional levels created by users of \
 LBreakout2."
-HOMEPAGE="http://lgames.sourceforge.net/LBreakout2/levelsets.php"
+HOMEPAGE="https://lgames.sourceforge.net/LBreakout2/levelsets.php"
 COPYRIGHT="2010-2018 LBreakout2 users"
 LICENSE="GNU GPL v2"
 REVISION="2"

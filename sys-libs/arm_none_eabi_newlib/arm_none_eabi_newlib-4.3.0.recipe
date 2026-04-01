@@ -2,7 +2,7 @@ SUMMARY="A C library for embedded systems"
 DESCRIPTION="Newlib is a C library intended for use on embedded systems. It \
 is a conglomeration of several library parts, all under free software \
 licenses that make them easily usable on embedded products."
-HOMEPAGE="http://www.sourceware.org/newlib/"
+HOMEPAGE="https://www.sourceware.org/newlib/"
 # This lists copyrights only for the parts used in this ARM compilation, other
 # targets may need more or less. Please update this if making a recipe for
 # another arch.

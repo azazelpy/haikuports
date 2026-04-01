@@ -1,7 +1,7 @@
 SUMMARY="The open-source IA-32 emulator"
 DESCRIPTION="Bochs IA-32 Emulator provides a virtual PC that can run \
 operating systems such as Windows, Linux, and BSD"
-HOMEPAGE="http://bochs.sourceforge.net/"
+HOMEPAGE="https://bochs.sourceforge.net/"
 COPYRIGHT="2001-2020 The Bochs Project"
 LICENSE="GNU LGPL v2.1
 	Bochs"

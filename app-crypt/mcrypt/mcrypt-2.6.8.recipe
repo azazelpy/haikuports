@@ -4,7 +4,7 @@ allows users to encrypt files or data streams without having to be \
 cryptographers. mcrypt uses libmcrypt, its companion library, which contains \
 the actual encryption functions and provides a standardized mechanism for \
 accessing them."
-HOMEPAGE="http://mcrypt.sourceforge.net/"
+HOMEPAGE="https://mcrypt.sourceforge.net/"
 COPYRIGHT="1998-2007 Nikos Mavroyanopoulos"
 LICENSE="GNU GPL v3"
 REVISION="1"

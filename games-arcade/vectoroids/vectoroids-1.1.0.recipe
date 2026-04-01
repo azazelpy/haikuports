@@ -4,7 +4,7 @@ first conceived by Atari in the late 1970s. This version is based off the code \
 of Agendaroids, adapted to use the cross-platform SDL library for audio and \
 video, enabling it to run on numerous platforms. It uses smooth vector graphics \
 and high-quality sound effects."
-HOMEPAGE="http://www.newbreedsoftware.com/vectoroids/"
+HOMEPAGE="https://www.newbreedsoftware.com/vectoroids/"
 COPYRIGHT="2001-2002 Bill Kendrick"
 LICENSE="GNU GPL v2"
 REVISION="2"

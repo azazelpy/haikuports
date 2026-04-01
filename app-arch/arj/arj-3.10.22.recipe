@@ -2,7 +2,7 @@ SUMMARY="Free and portable clone of the ARJ archiver"
 DESCRIPTION="A portable version of the ARJ archiver, available for \
 a growing number of DOS-like and UNIX-like platforms on a variety o\
 f architectures."
-HOMEPAGE="http://arj.sourceforge.net/"
+HOMEPAGE="https://arj.sourceforge.net/"
 COPYRIGHT="1998-2019 ARJ Software"
 LICENSE="GNU GPL v2"
 REVISION="2"

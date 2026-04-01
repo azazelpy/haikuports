@@ -4,7 +4,7 @@ FITS images stores measurements of a physical quantity - an array of the
 angular distribution of the photon events or the optical intensity.
 Fitspng does visualization of such array by converting them to the
 images in PNG format."
-HOMEPAGE="http://integral.physics.muni.cz/fitspng/"
+HOMEPAGE="https://integral.physics.muni.cz/fitspng/"
 COPYRIGHT="2006-2022 F. Hroch, Masaryk University in Brno, CZ"
 LICENSE="GNU GPL v3"
 REVISION="1"

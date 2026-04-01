@@ -1,7 +1,7 @@
 SUMMARY="A port of FCEUMM, a Famicom/NES emulator to the libretro architecture"
 DESCRIPTION="FCEUMM is a fork of FCEU Ultra which supports a lot of new \
 mappers including some obscure mappers such as one for unlicensed NES ROMs."
-HOMEPAGE="http://cah4e3.shedevr.org.ru/fceultra.php"
+HOMEPAGE="https://cah4e3.shedevr.org.ru/fceultra.php"
 COPYRIGHT="2011-2018 the FCEU team, cah4e3, the libretro team"
 LICENSE="GNU LGPL v2"
 REVISION="1"

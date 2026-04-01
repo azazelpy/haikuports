@@ -11,7 +11,7 @@ vendor-tuned codes, however, FFTW's performance is portable: the same program \
 will perform well on most architectures without modification. Hence the name, \
 FFTW, which stands for the somewhat whimsical title of Fastest Fourier \
 Transform in the West."
-HOMEPAGE="http://www.fftw.org/"
+HOMEPAGE="https://www.fftw.org/"
 COPYRIGHT="2003, 2007-2011 Matteo Frigo
 	2003, 2007-2011 Massachusetts Institute of Technology"
 LICENSE="GNU GPL v2"

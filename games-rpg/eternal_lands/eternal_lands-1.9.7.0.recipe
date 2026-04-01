@@ -16,7 +16,7 @@ like combat, there is plenty of it as well, both PvP and PvE.
 minute on a cable modem, and a few minutes on a DSL connection.
 * Eternal Lands is a multiplatform game, running on Windows, Linux, Haiku and OSX (Mac). \
 The client is open source.."
-HOMEPAGE="http://www.eternal-lands.com/"
+HOMEPAGE="https://www.eternal-lands.com/"
 COPYRIGHT="2003-2024 Eternal Lands Team"
 LICENSE="ELCPL 1.0"
 REVISION="1"

@@ -4,7 +4,7 @@ computer?
 You want to know, how often your computer crashes?
 
 TimeCop writes a protocol of your computer sessions."
-HOMEPAGE="http://www.augusta.de/~michael/BeOS/TimeCop/index.us.html"
+HOMEPAGE="https://www.augusta.de/~michael/BeOS/TimeCop/index.us.html"
 COPYRIGHT="Michael Pieper"
 LICENSE="GNU GPL v2"
 REVISION="6"

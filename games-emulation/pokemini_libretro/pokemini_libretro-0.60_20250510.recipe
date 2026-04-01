@@ -1,7 +1,7 @@
 SUMMARY="A port of PokeMini, a Nintendo Pokemon Mini emulator to the libretro API"
 DESCRIPTION="PokeMini is a Nintendo Pokemon Mini emulator. This is the \
 libretro core version of PokeMini, for use with RetroArch."
-HOMEPAGE="http://pokemini.sourceforge.net/"
+HOMEPAGE="https://pokemini.sourceforge.net/"
 COPYRIGHT="2014 JustBurn, the libretro team"
 LICENSE="GNU GPL v3"
 REVISION="1"

@@ -4,7 +4,7 @@ packages are put onto their targets. You can only push, pulling is not \
 allowed. You get higher ratings the fewer moves you need.
 The first few maps might be easy to solve - but the more you progress in the \
 game, the harder the maps will be. The map set is from XSokoban."
-HOMEPAGE="http://www.caveproductions.org/"
+HOMEPAGE="https://www.caveproductions.org/"
 COPYRIGHT="2014-2020 Martin Gerhardy"
 LICENSE="GNU GPL v3"
 REVISION="1"

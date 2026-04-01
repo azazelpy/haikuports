@@ -3,7 +3,7 @@ DESCRIPTION="Tesseract is a first-person shooter game focused on instagib deathm
 gameplay as well as cooperative in-game map editing.
 Tesseract provides a unique open-source engine derived from Cube 2: Sauerbraten technology \
 but with upgraded modern rendering techniques."
-HOMEPAGE="http://tesseract.gg/"
+HOMEPAGE="https://tesseract.gg/"
 COPYRIGHT="2024 Tesseract team"
 LICENSE="Zlib"
 REVISION="1"

@@ -4,7 +4,7 @@ performance of industrial optimizing compilers in 10% of the code. QBE \
 fosters language innovation by offering a compact user-friendly and \
 performant backend. The size limit constrains QBE to focus on the essential \
 and prevents embarking on a never-ending path of diminishing returns."
-HOMEPAGE="http://c9x.me/compile/"
+HOMEPAGE="https://c9x.me/compile/"
 COPYRIGHT="2015-2023 Quentin Carbonneaux"
 LICENSE="MIT"
 REVISION="1"

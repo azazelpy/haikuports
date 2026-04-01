@@ -7,7 +7,7 @@ papers, and form letters.
 
 RCS is (mostly) deprecated now. Unless you have an existing RCS repository \
 that you need to access, using Subversion or Git is preferred."
-HOMEPAGE="http://www.gnu.org/software/rcs/"
+HOMEPAGE="https://www.gnu.org/software/rcs/"
 COPYRIGHT="1986-2014 Free Software Foundation, Inc."
 LICENSE="GNU GPL v1
 	GNU LGPL v2"

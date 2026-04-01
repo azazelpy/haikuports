@@ -4,7 +4,7 @@ It was originally written for the Sharp Zaurus and currently runs on many other 
 the Nokia Internet Tablets, as well as desktop computers.
 Supported formats include EPUB, FictionBook, HTML, plucker, PalmDoc, zTxt, TCR, CHM, RTF, OEB, mobi \
 without DRM, and plain-text."
-HOMEPAGE="http://www.fbreader.org"
+HOMEPAGE="https://www.fbreader.org"
 COPYRIGHT="Geometer Plus, LLC; FBReader.ORG Limited"
 LICENSE="GNU GPL v2"
 REVISION="5"

@@ -1,7 +1,7 @@
 SUMMARY="Data files for S.C.O.U.R.G.E"
 DESCRIPTION="S.C.O.U.R.G.E. is a roguelike game with a 3D user interface. \
 These are the data files you need to play the game."
-HOMEPAGE="http://scourgeweb.org"
+HOMEPAGE="https://scourgeweb.org"
 COPYRIGHT="2003-2008 The Scourge Team"
 LICENSE="GNU GPL v2"
 REVISION="1"

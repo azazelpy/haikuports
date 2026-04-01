@@ -1,7 +1,7 @@
 SUMMARY="A module that is required only when building GNOME from the repository"
 DESCRIPTION="This module contains various files needed to bootstrap GNOME \
 modules built from git."
-HOMEPAGE="http://git.gnome.org/browse/gnome-common/"
+HOMEPAGE="https://git.gnome.org/browse/gnome-common/"
 COPYRIGHT="1999-2010 Martin Baulig"
 LICENSE="GNU GPL v3"
 REVISION="1"

@@ -9,7 +9,7 @@ started. First pak to feature a complex economy and have a very wide \
 variety of objects. It contains roughly 7 time more graphics data than \
 pak64 and thus requires by far the largest amount of RAM and \
 processing power of all Simutrans sets."
-HOMEPAGE="http://www.simutrans.com"
+HOMEPAGE="https://www.simutrans.com"
 COPYRIGHT="2004-2007 Tomas Kubes
 	2008-2022 The pak128-Team"
 LICENSE="Artistic"

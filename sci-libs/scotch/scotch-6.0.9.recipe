@@ -9,7 +9,7 @@ systems or bio-chemistry.
 The SCOTCH distribution is a set of programs and libraries which \
 implement the static mapping and sparse matrix reordering algorithms \
 developed within the SCOTCH project."
-HOMEPAGE="http://www.labri.u-bordeaux.fr/perso/pelegrin/scotch/"
+HOMEPAGE="https://www.labri.u-bordeaux.fr/perso/pelegrin/scotch/"
 COPYRIGHT="2002-2020 Francois Pellegrini, LABRI"
 LICENSE="CeCILL-C"
 REVISION="1"

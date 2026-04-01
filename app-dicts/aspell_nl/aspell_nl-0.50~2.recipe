@@ -1,7 +1,7 @@
 SUMMARY="Dutch dictionary for aspell program/library"
 DESCRIPTION="Dutch dictionary for the GNU Aspell program, an open source \
 spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="1993-1996 Piet Tutelaers
 	1996 Nederlandstalige TeX Gebruikersgroep
 	2001 Dirk Vermeir

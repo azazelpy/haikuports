@@ -2,7 +2,7 @@ SUMMARY="A simple arcade game"
 DESCRIPTION="BumpRace is a simple arcade game. You've to get from the start \
 to the finish line without crashing into deadly blocks. This game has really \
 simple rules!"
-HOMEPAGE="http://www.linux-games.com/bumprace/"
+HOMEPAGE="https://www.linux-games.com/bumprace/"
 COPYRIGHT="2016 Karl Bartel, Skaven"
 LICENSE="GNU GPL v2"
 REVISION="3"

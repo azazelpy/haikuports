@@ -2,7 +2,7 @@ SUMMARY="Select all joysticks found on the system"
 DESCRIPTION="SDLJoytest is a program which will allow the user to select \
 from all joysticks found on the system (by SDL), and then test that selected \
 joystick or other game controller."
-HOMEPAGE="http://sdljoytest.sourceforge.net"
+HOMEPAGE="https://sdljoytest.sourceforge.net"
 COPYRIGHT="2003 Samuel E. Bray"
 LICENSE="GNU GPL v2"
 REVISION="3"

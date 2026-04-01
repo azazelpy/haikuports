@@ -9,7 +9,7 @@ image format, the compression method currently used in zlib essentially never \
 expands the data. (LZW can double or triple the file size in extreme cases.) \
 zlib's memory footprint is also independent of the input data and can be \
 reduced, if necessary, at some cost in compression."
-HOMEPAGE="http://www.zlib.net/"
+HOMEPAGE="https://www.zlib.net/"
 COPYRIGHT="1995-2026 Jean-loup Gailly and Mark Adler"
 LICENSE="Zlib"
 REVISION="1"

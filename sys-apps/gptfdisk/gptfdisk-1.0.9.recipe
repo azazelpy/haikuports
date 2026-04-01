@@ -6,7 +6,7 @@ Identifier (GUID) Partition Table (GPT) disks, rather than on Master Boot \
 Record (MBR) partition tables, but may also be used on MBR disks to convert \
 them to GPT. The fixparts program repairs certain types of damage to MBR disks \
 and enables changing partition types from primary to logical and vice-versa."
-HOMEPAGE="http://www.rodsbooks.com/gdisk/"
+HOMEPAGE="https://www.rodsbooks.com/gdisk/"
 COPYRIGHT="2013-2023 Rod Smith"
 LICENSE="GNU GPL v2"
 REVISION="1"

@@ -23,7 +23,7 @@ at different exposure setting
 * Supports internationalization
 
 Raw image formats are supported - and treated as HDR - thanks to *LibRAW* http://www.libraw.org/."
-HOMEPAGE="http://qtpfsgui.sourceforge.net
+HOMEPAGE="https://qtpfsgui.sourceforge.net
 	https://github.com/LuminanceHDR/LuminanceHDR"
 COPYRIGHT="2010-2019 Davide Anastasia, Franco Comida and Daniel Kaneider
 	2006-2010 Giuseppe Rota"

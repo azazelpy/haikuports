@@ -1,7 +1,7 @@
 SUMMARY="Console user interface library for Python"
 DESCRIPTION="Urwid offers an alternative to using Python’s curses module \
 directly and handles many of the difficult and tedious tasks for you."
-HOMEPAGE="http://urwid.org/"
+HOMEPAGE="https://urwid.org/"
 COPYRIGHT="2004-2018  Ian Ward"
 LICENSE="GNU LGPL v2.1"
 REVISION="5"

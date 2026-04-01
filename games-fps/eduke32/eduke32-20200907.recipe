@@ -29,7 +29,7 @@ beginning
 * EDuke32 lets you play that game called 'NAM' you saw at the dollar store 10 \
 years ago
 * EDuke32 makes sandwiches!"
-HOMEPAGE="http://www.eduke32.com/"
+HOMEPAGE="https://www.eduke32.com/"
 COPYRIGHT="1993-1997 Ken Silverman
 	2006-2020 eduke32 Team"
 LICENSE="GNU GPL v2

@@ -3,7 +3,7 @@ DESCRIPTION="PycURL is a Python interface to libcurl, the multiprotocol file \
 transfer library. Similarly to the urllib Python module, PycURL can be used to \
 fetch objects identified by a URL from a Python program. Beyond simple fetches \
 however PycURL exposes most of the functionality of libcurl."
-HOMEPAGE="http://pycurl.io/
+HOMEPAGE="https://pycurl.io/
 	https://github.com/pycurl/pycurl"
 COPYRIGHT="2001-2008 Kjetil Jacobsen
 	2001-2008 Markus F.X.J. Oberhumer

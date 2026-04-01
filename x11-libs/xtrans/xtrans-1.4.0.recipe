@@ -3,7 +3,7 @@ DESCRIPTION="xtrans is a library of code that is shared among various X \
 packages to handle network protocol transport in a modular fashion, allowing \
 a single place to add new transport types.  It is used by the X server, \
 libX11, libICE, the X font server, and related components."
-HOMEPAGE="http://xorg.freedesktop.org/releases/individual/lib/"
+HOMEPAGE="https://xorg.freedesktop.org/releases/individual/lib/"
 COPYRIGHT="1993, 1994, 1998  The Open Group
 	1993, 1994 NCR Corporation
 	2002, 2005 Sun Microsystems, Inc.

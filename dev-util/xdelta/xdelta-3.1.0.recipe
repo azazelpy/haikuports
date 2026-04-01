@@ -1,7 +1,7 @@
 SUMMARY="A binary diff tool implementing VCDIFF"
 DESCRIPTION="Xdelta is a tool and library for differential compression. Xdelta \
 release version 3 supports VCDIFF encoding and decoding."
-HOMEPAGE="http://xdelta.org/"
+HOMEPAGE="https://xdelta.org/"
 COPYRIGHT="2001-2015 Josh MacDonald"
 LICENSE="Apache v2"
 REVISION="2"

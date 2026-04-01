@@ -1,7 +1,7 @@
 SUMMARY="Converts GIF animations into APNG format"
 DESCRIPTION="This program converts GIF animations into animated PNG format. \
 Usually it makes the files smaller."
-HOMEPAGE="http://gif2apng.sourceforge.net/"
+HOMEPAGE="https://gif2apng.sourceforge.net/"
 COPYRIGHT="2009-2013 Max Stepin"
 LICENSE="Zlib"
 REVISION="3"

@@ -1,6 +1,6 @@
 SUMMARY="A sphinx extension which outputs QtHelp document"
 DESCRIPTION="sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp document."
-HOMEPAGE="http://sphinx-doc.org/
+HOMEPAGE="https://sphinx-doc.org/
 	https://pypi.org/project/sphinxcontrib-qthelp/"
 COPYRIGHT="2007-2019 by the Sphinx team"
 LICENSE="BSD (2-clause)"

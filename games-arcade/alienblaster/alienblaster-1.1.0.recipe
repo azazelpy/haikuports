@@ -1,7 +1,7 @@
 SUMMARY="Action loaded 2D shooter"
 DESCRIPTION="Action loaded 2D shooter. Your mission is simple: stop the \
 invasion of the aliens and blast them!"
-HOMEPAGE="http://www.schwardtnet.de/alienblaster/"
+HOMEPAGE="https://www.schwardtnet.de/alienblaster/"
 COPYRIGHT="2004 Paul Grathwol, Arne Hormann, Daniel Kuhn, Sonke Schwardt"
 LICENSE="GNU GPL v2"
 REVISION="3"

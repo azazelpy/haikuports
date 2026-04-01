@@ -9,7 +9,7 @@ systems owing to its long association with Unix manuals (including man pages). I
 predecessor are notable for their production of several best-selling software engineering texts. \
 groff is capable of producing typographically sophisticated documents while consuming minimal \
 system resources."
-HOMEPAGE="http://www.gnu.org/software/groff/"
+HOMEPAGE="https://www.gnu.org/software/groff/"
 COPYRIGHT="1996-2022 Free Software Foundation, Inc."
 LICENSE="GNU GPL v3"
 REVISION="2"

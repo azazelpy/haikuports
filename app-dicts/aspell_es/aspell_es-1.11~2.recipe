@@ -1,7 +1,7 @@
 SUMMARY="Spanish dictionary for aspell program/library"
 DESCRIPTION="Spanish dictionary for the GNU Aspell program, an open source \
 spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="1994-2010 Santiago Rodriguez and Jesus Carretero
 	2003-2010 Agustin Martin Domingo"
 LICENSE="GNU GPL v2"

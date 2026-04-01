@@ -15,7 +15,7 @@ or later.
 
 You can select the active SoundFont in Haiku's Media preferences.
 For the mapping of the percussion instruments, see the 'documentation' folder."
-HOMEPAGE="http://www.schristiancollins.com/generaluser.php"
+HOMEPAGE="https://www.schristiancollins.com/generaluser.php"
 COPYRIGHT="2017 S. Christian Collins"
 LICENSE="GeneralUser GS License v2.0"
 REVISION="1"

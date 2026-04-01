@@ -13,7 +13,7 @@ Floppies are emulated with disc image files.
 - The PCW9512 daisywheel printer.
 - AMX or Kempston mice.
 - The beeper."
-HOMEPAGE="http://www.seasip.info/Unix/Joyce/index.html"
+HOMEPAGE="https://www.seasip.info/Unix/Joyce/index.html"
 COPYRIGHT="2002-2017 John Elliott"
 LICENSE="GNU GPL v2"
 REVISION="1"

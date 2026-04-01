@@ -2,7 +2,7 @@ SUMMARY="NScripter-like interpreter with proportional font and Unicode support"
 DESCRIPTION="Ponscripter is an NScripter-style novel-game interpreter with an \
 emphasis on supporting games in Western languages. The goal is to provide an \
 easy porting target for translation projects."
-HOMEPAGE="http://unclemion.com/onscripter/"
+HOMEPAGE="https://unclemion.com/onscripter/"
 LICENSE="GNU GPL v2"
 COPYRIGHT="2001-2011 Ogapee
 	2006-2011 insani, Haeleth, Sonozaki et al"

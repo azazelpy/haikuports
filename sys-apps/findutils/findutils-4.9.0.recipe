@@ -7,7 +7,7 @@ The tools supplied with this package are:
 - locate - list files in databases that match a pattern
 - updatedb - update a file name database
 - xargs - build and execute command lines from a standard input."
-HOMEPAGE="http://www.gnu.org/software/findutils"
+HOMEPAGE="https://www.gnu.org/software/findutils"
 COPYRIGHT="1994-2015 Free Software Foundation, Inc."
 LICENSE="GNU GPL v3"
 REVISION="3"

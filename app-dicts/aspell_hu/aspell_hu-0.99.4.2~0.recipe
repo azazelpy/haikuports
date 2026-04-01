@@ -1,7 +1,7 @@
 SUMMARY="Hungarian dictionary for aspell program/library"
 DESCRIPTION="Hungarian dictionary for the GNU Aspell program, an open source \
 spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2003-2004 László Németh"
 LICENSE="GNU GPL v2"
 REVISION="1"

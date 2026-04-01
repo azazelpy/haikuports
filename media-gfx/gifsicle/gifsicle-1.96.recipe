@@ -5,7 +5,7 @@ into its component frames; change individual frames in an animation; turn \
 interlacing on and off; add transparency; add delays, disposals, and looping \
 to animations; add and remove comments; flip and rotate; optimize animations \
 for space; change images' colormaps; and other things."
-HOMEPAGE="http://www.lcdf.org/gifsicle/"
+HOMEPAGE="https://www.lcdf.org/gifsicle/"
 COPYRIGHT="1997-2018 Eddie Kohler"
 LICENSE="GNU GPL v2"
 REVISION="2"

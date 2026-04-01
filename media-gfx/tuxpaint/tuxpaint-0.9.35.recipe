@@ -4,7 +4,7 @@ ages 3 to 12 (for example, preschool and K-6). Tux Paint is used \
 in schools and around the world as a computer literacy drawing activity. \
 It combines an easy-to-use interface, fun sound effects, and an \
 encouraging cartoon mascot who guides children as they use the program."
-HOMEPAGE="http://www.tuxpaint.org/"
+HOMEPAGE="https://www.tuxpaint.org/"
 COPYRIGHT="2002-2024 Bill Kendrick and others"
 LICENSE="GNU GPL v2"
 REVISION="1"

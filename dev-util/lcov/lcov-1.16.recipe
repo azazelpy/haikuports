@@ -4,7 +4,7 @@ creates HTML pages containing the source code annotated with \
 coverage information. It also adds overview pages for easy \
 navigation within the file structure. LCOV supports statement, \
 function and branch coverage measurement."
-HOMEPAGE="http://ltp.sourceforge.net/coverage/lcov.php"
+HOMEPAGE="https://ltp.sourceforge.net/coverage/lcov.php"
 COPYRIGHT="2002 - 2022 The lcov Developers"
 LICENSE="GNU GPL v2"
 REVISION="2"

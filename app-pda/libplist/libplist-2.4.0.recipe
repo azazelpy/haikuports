@@ -2,7 +2,7 @@ SUMMARY="A library to handle Apple Property Lists in binary or XML"
 DESCRIPTION="libplist is a library for reading and writing the Apple binary \
 and XML property list format. It is part of the libimobiledevice stack \
 providing access to iDevices."
-HOMEPAGE="http://www.libimobiledevice.org/"
+HOMEPAGE="https://www.libimobiledevice.org/"
 COPYRIGHT="2008-2010 Jonathan Beck
 	2009-2014 Nikias Bassen
 	2009-2014 Martin Szulecki

@@ -2,7 +2,7 @@ SUMMARY="A preprocessor for pmx"
 DESCRIPTION="M-Tx is a preprocessor for PMX that facilitates inputting lyrics. It builds the PMX \
 input file based on a language very similar to PMX. M-Tx includes most of PMX's functionality, \
 but it also permits in-line PMX commands to give access to virtually all of PMX."
-HOMEPAGE="http://icking-music-archive.org/software/htdocs/index.html"
+HOMEPAGE="https://icking-music-archive.org/software/htdocs/index.html"
 COPYRIGHT="2014 Dirk Laurie"
 LICENSE="MIT"
 REVISION="1"

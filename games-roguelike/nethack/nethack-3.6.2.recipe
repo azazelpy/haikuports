@@ -2,7 +2,7 @@ SUMMARY="The ultimate old-school single player dungeon exploration game"
 DESCRIPTION="NetHack is a single-player roguelike video game originally \
 released in 1987 with ASCII graphics. It is a descendant of an earlier game \
 called Hack (1985), which is a descendant of Rogue (1980)."
-HOMEPAGE="http://www.nethack.org/"
+HOMEPAGE="https://www.nethack.org/"
 COPYRIGHT="1985-2015 Stichting Mathematisch Centrum and M. Stephenson"
 LICENSE="nethack"
 REVISION="1"

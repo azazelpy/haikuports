@@ -5,7 +5,7 @@ language in the Unix/Linux environment. It is designed to be a central \
 location to standardize the Arabization process. Arabeyes relies on voluntary \
 contributions.
 "
-HOMEPAGE="http://projects.arabeyes.org/project.php?proj=Khotot"
+HOMEPAGE="https://projects.arabeyes.org/project.php?proj=Khotot"
 COPYRIGHT="2003-2007 Arabeyes.org
 	2002-2005 Free Software Foundation"
 LICENSE="GNU GPL v2"

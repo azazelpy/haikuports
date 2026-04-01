@@ -23,7 +23,7 @@ the standard BLAS test suite, and parts of the LAPACK test suite.
 - The API is extremely clean and expressive while feeling natural to C++ \
 programmers, thanks to expression templates.
 - Implementing an algorithm on top of Eigen feels like just copying pseudocode."
-HOMEPAGE="http://eigen.tuxfamily.org"
+HOMEPAGE="https://eigen.tuxfamily.org"
 COPYRIGHT="2006-2011 Benoit Jacob
 	2008-2012 Gael Guennebaud, et al."
 LICENSE="MPL v2

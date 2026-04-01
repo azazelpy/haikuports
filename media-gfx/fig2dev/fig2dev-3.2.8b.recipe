@@ -8,7 +8,7 @@ command translates Fig code to other graphic description languages.  The
 transfig command generates transfig.tex, a macro file for \input in a
 TeX document, and a Makefile which translates Fig code to various
 graphics description languages using the fig2dev program."
-HOMEPAGE="http://mcj.sourceforge.net/"
+HOMEPAGE="https://mcj.sourceforge.net/"
 COPYRIGHT="1991 by Micah Beck
 	1985-1988 by Supoj Sutanthavibul
 	1989-2015 by Brian V. Smith

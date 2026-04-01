@@ -3,7 +3,7 @@ DESCRIPTION="FCEUX is an emulator for the NES and Famicom, based on FCE Ultra \
 which is based on FCE. It combines many different changes of FCE Ultra, like \
 support for a lot of the different hardware of NES Cartridges, rerecording \
 bult-in and a high level of portability."
-HOMEPAGE="http://fceux.com/web/"
+HOMEPAGE="https://fceux.com/web/"
 COPYRIGHT="1998-2014 tamentis & zamaz"
 LICENSE="GNU GPL v2"
 REVISION="3"

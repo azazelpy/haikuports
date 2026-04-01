@@ -8,7 +8,7 @@ and powerful compression through multiple methods.\
 zpaq is only intended for user-level backups. It should not be used to \
 archive the operating system, as it does not follow links or save special \
 files such as devices, sockets, or pipes."
-HOMEPAGE="http://mattmahoney.net/dc/zpaq.html"
+HOMEPAGE="https://mattmahoney.net/dc/zpaq.html"
 COPYRIGHT="2009-2016 Matt Mahoney"
 LICENSE="Public Domain
 	zpaq"

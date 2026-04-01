@@ -6,7 +6,7 @@ Within the game, the ESC key exits, and RETURN reshuffles the board.
 The arrow keys work as undo/redo.
 F1 switches tilesets.
 F2 switches backgrounds."
-HOMEPAGE="http://www.linuxmotors.com/linux/sdllopan/"
+HOMEPAGE="https://www.linuxmotors.com/linux/sdllopan/"
 COPYRIGHT="1999-2008 Dave Ashley"
 LICENSE="GNU GPL v2"
 REVISION="7"

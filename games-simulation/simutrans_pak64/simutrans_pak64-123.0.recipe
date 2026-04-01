@@ -9,7 +9,7 @@ Simutrans executable. It always contains the most recent features. It is \
 neatly painted pixel by pixel with motherly care. On the other hand it \
 might look too tiny on high resolution displays. Many artists contributed \
 to this pak set, from the 8 bit age on."
-HOMEPAGE="http://www.simutrans.com"
+HOMEPAGE="https://www.simutrans.com"
 COPYRIGHT="1997-2004 Hj. Malthaner
 	2005-2021 The Simutrans Team"
 LICENSE="Artistic"

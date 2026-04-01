@@ -2,7 +2,7 @@ SUMMARY="Emulator for classic PCs"
 DESCRIPTION="PCem is an emulator for classic PCs, from the IBM PC to AMI \
 WinBIOS. It also emulates a wide variety of graphics cards, including various \
 3dFX Voodoo, ATI VGA, and IBM VGA."
-HOMEPAGE="http://pcem-emulator.co.uk"
+HOMEPAGE="https://pcem-emulator.co.uk"
 COPYRIGHT="2007-2015 Tom Walker"
 LICENSE="GNU GPL v2"
 REVISION="1"

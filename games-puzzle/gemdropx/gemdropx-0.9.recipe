@@ -9,7 +9,7 @@ off the screen. Match 3 or more of the same color in a column and >BAM!< \
 they explode! Any adjacent gems of the same color also explode, causing a \
 chain reaction that might cover the entire screen! \
 The more gems that disappear with one shot, the higher the score you get!"
-HOMEPAGE="http://www.newbreedsoftware.com/gemdropx/"
+HOMEPAGE="https://www.newbreedsoftware.com/gemdropx/"
 COPYRIGHT="2002 Bill Kendrick"
 LICENSE="GNU GPL v2"
 REVISION="2"

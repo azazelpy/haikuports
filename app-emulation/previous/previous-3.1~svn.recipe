@@ -3,7 +3,7 @@ DESCRIPTION="
 Previous is a Next computer hardware emulator. \
 It aims to emulate a Next Cube or a Next Station with all its peripheral.
 "
-HOMEPAGE="http://previous.alternative-system.com/"
+HOMEPAGE="https://previous.alternative-system.com/"
 COPYRIGHT="2001-2024 Andreas Grabher"
 LICENSE="GNU GPL v2"
 REVISION="1"

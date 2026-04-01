@@ -3,7 +3,7 @@ DESCRIPTION="The Legend of Zelda: Mystery of Solarus DX is set to be a direct \
 sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same \
 graphics and game mechanisms. Zelda Mystery of Solarus DX is the first game \
 made with the Solarus engine and in fact, Solarus was primarily designed for this game."
-HOMEPAGE="http://www.zelda-solarus.com/"
+HOMEPAGE="https://www.zelda-solarus.com/"
 COPYRIGHT="2011 Nintendo"
 LICENSE="GNU GPL v3
 	Attribution-ShareAlike 3.0 Unported"

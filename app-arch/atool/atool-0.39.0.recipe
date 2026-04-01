@@ -16,7 +16,7 @@ atool identifies archives by their file extension. Sometimes this is not possibl
 - for instance rar archives usually have varying numeric file extensions. In those \
 cases when atool can't identify the format, file is used instead. (atool can be \
 configured not to use file.)"
-HOMEPAGE="http://www.nongnu.org/atool/"
+HOMEPAGE="https://www.nongnu.org/atool/"
 COPYRIGHT="2001-2011 Oskar Liljeblad"
 LICENSE="GNU GPL v3"
 REVISION="2"

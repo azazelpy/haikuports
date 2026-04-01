@@ -4,7 +4,7 @@ ages 3 to 12 (for example, preschool and K-6).
 
 This package contains thousands of images - from animals to clothes, food, \
 sports to vehicles - that can be used as rubber stamps with Tux Paint."
-HOMEPAGE="http://www.tuxpaint.org/"
+HOMEPAGE="https://www.tuxpaint.org/"
 COPYRIGHT="2002-2024 Bill Kendrick and others"
 LICENSE="GNU GPL v2"
 REVISION="1"

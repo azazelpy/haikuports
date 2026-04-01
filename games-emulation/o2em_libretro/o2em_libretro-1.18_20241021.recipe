@@ -2,7 +2,7 @@ SUMMARY="An Odyssey 2 / VideoPac emulator using the libretro API"
 DESCRIPTION="This is the libretro port of O2EM, a Magnavox Odyssey 2 and \
 Philips VideoPac emulator. These machines shared the same hardware and were \
 rebranded depending on the market where they were sold."
-HOMEPAGE="http://o2em.sourceforge.net/"
+HOMEPAGE="https://o2em.sourceforge.net/"
 COPYRIGHT="1996-2018 Daniel Boris, the O2EM team, the libretro team"
 LICENSE="Artistic"
 REVISION="1"

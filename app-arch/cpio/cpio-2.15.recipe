@@ -9,7 +9,7 @@ By default, cpio creates binary format archives, for compatibility \
 with older cpio programs. When extracting from archives, cpio automatically \
 recognizes which kind of archive it is reading and can read archives created \
 on machines with a different byte-order."
-HOMEPAGE="http://www.gnu.org/software/cpio/cpio.html"
+HOMEPAGE="https://www.gnu.org/software/cpio/cpio.html"
 COPYRIGHT="1988-2024 Free Software Foundation, Inc."
 LICENSE="GNU GPL v3"
 REVISION="1"

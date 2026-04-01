@@ -7,7 +7,7 @@ ICE is useful for applications that want to establish peer-to-peer UDP \
 data streams. It automates the process of traversing NATs and provides \
 security against some attackes. It also allows applications to create \
 reliable streams using a TCP over UDP layer."
-HOMEPAGE="http://nice.freedesktop.org/wiki"
+HOMEPAGE="https://nice.freedesktop.org/wiki"
 COPYRIGHT="2006-2011 Collabora Ltd.
 	2006-2011 Nokia Corporation"
 LICENSE="MPL v1.1

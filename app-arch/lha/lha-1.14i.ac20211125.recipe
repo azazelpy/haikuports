@@ -1,7 +1,7 @@
 SUMMARY="Tools to archive files using LZSS and Huffman compression (.lzh files)"
 DESCRIPTION="LHA archives are often used on Amiga computers. The compression \
 is rather effective and the unpacking is fast."
-HOMEPAGE="http://sourceforge.jp/projects/lha/"
+HOMEPAGE="https://sourceforge.jp/projects/lha/"
 COPYRIGHT="1991 Masaru Oki
 	1993-1995 Nobutaka Watazaki
 	2000 Tsugio Okamoto et al.

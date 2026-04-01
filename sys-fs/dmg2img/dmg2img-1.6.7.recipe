@@ -3,7 +3,7 @@ DESCRIPTION="dmg2img is a command line tool for converting .dmg files, \
 popular on Mac OS X systems, to HFS+ disk images.
 A companion command-line tool, vfdecrypt, allows to decrypt encrypted Mac OS X \
 disk image files (also known as filevault disk)."
-HOMEPAGE="http://vu1tur.eu.org/tools/"
+HOMEPAGE="https://vu1tur.eu.org/tools/"
 COPYRIGHT="2007-2009 Jean-Pierre Demailly (dmg2img)
 	2017 Peter Wu (dmg2img)
 	2009-2013 vu1tur (dmg2img)

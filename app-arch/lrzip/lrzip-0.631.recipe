@@ -5,7 +5,7 @@ will be able to more effectively compress your files \
 (ie: faster / smaller size), especially if the filesize(s) exceed 100 MB. \
 You can either choose to optimise for speed (fast compression / decompression) \
 or size, but not both."
-HOMEPAGE="http://lrzip.kolivas.org/"
+HOMEPAGE="https://lrzip.kolivas.org/"
 COPYRIGHT="2016 lrzip Authors"
 LICENSE="GNU GPL v2"
 REVISION="3"

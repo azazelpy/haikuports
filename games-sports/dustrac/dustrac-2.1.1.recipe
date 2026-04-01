@@ -8,7 +8,7 @@ on the scrolling screen.
 
 There's also an option for a split-screen two player game, introduced in 0.12.0. Dust Racing 2D \
 comes with a Qt-based level editor that makes creating new race tracks easy."
-HOMEPAGE="http://juzzlin.github.io/DustRacing2D"
+HOMEPAGE="https://juzzlin.github.io/DustRacing2D"
 COPYRIGHT="2023 Jussi Lind and contributors"
 LICENSE="GNU GPL v3"
 REVISION="1"

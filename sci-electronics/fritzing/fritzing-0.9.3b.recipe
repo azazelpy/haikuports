@@ -9,7 +9,7 @@ Fritzing differs from other tools through:
  * an intuitive user interface, with seamless switching between breadboard, schematic and pcb design
 
 The lively community on fritzing.org exchanges projects and tips, and there is also a PCB service 'Fritzing Fab' that produces user designs."
-HOMEPAGE="http://www.fritzing.org"
+HOMEPAGE="https://www.fritzing.org"
 COPYRIGHT="Interaction Design Lab Potsdam"
 LICENSE="GNU GPL v2
 	GNU GPL v3"

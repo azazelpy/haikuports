@@ -2,7 +2,7 @@ SUMMARY="A Just-In-Time Compiler (JIT) for the Lua programming language"
 DESCRIPTION="Lua is a powerful, dynamic and light-weight programming \
 language. It may be embedded or used as a general-purpose, stand-alone \
 language. LuaJIT is a Just-In-Time Compiler (JIT) for it."
-HOMEPAGE="http://luajit.org/luajit.html"
+HOMEPAGE="https://luajit.org/luajit.html"
 COPYRIGHT="2005-2015 Mike Pall"
 LICENSE="MIT"
 REVISION="3"

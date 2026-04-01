@@ -16,7 +16,7 @@ A separate program, mkbitmap, is also provided. This program can act \
 as a pre-processor for Potrace, applying scaling and various filters \
 to an image before converting it to a bitmap. This is useful for \
 potracing greyscale and color images."
-HOMEPAGE="http://potrace.sourceforge.net/"
+HOMEPAGE="https://potrace.sourceforge.net/"
 COPYRIGHT="2001-2015 Peter Selinger"
 LICENSE="GNU GPL v2"
 REVISION="2"

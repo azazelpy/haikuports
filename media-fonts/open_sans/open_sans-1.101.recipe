@@ -3,7 +3,7 @@ DESCRIPTION="Open Sans is a humanist sans serif typeface designed by Steve Matte
 Type Director of Ascender Corp. Open Sans was designed with an upright stress, \
 open forms and a neutral, yet friendly appearance. It was optimized for print, web, \
 and mobile interfaces, and has excellent legibility characteristics in its letterforms."
-HOMEPAGE="http://www.google.com/fonts/specimen/Open+Sans"
+HOMEPAGE="https://www.google.com/fonts/specimen/Open+Sans"
 COPYRIGHT="2010-2011 Google Corporation"
 LICENSE="Apache v2"
 REVISION="1"

@@ -2,7 +2,7 @@ SUMMARY="A simple and lightweight command line MP3 Player"
 DESCRIPTION="mpg321 is a very popular command-line mp3 player. mpg321 is used \
 for frontends, as an mp3 player and as an mp3 to wave file decoder (primarily \
 for use with CD-recording software)."
-HOMEPAGE="http://mpg321.sourceforge.net/"
+HOMEPAGE="https://mpg321.sourceforge.net/"
 COPYRIGHT="2001 Joe Drew
 	2006-2012 Nanakos Chrysostomos"
 LICENSE="GNU GPL v2"

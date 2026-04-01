@@ -7,7 +7,7 @@ You can download a single binary, scp it to a far away machine, \
 and expect it to work. It can mangle the data format that you have into \
 the one that you want with very little effort, and the program to do so \
 is often shorter and simpler than you’d expect."
-HOMEPAGE="http://jqlang.github.io/jq/"
+HOMEPAGE="https://jqlang.github.io/jq/"
 COPYRIGHT="2012,2015 Stephen Dolan"
 LICENSE="MIT"
 REVISION="1"
