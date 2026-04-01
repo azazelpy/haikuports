@@ -13,7 +13,7 @@ Solaris confirmed).
 * Special support for embedding into firmware or OS kernel.
 * High performance & suitable for malware analysis (capable of handling \
 various X86 malware tricks)."
-HOMEPAGE="http://www.capstone-engine.org"
+HOMEPAGE="https://www.capstone-engine.org"
 COPYRIGHT="2013-2020 COSEINC"
 LICENSE="BSD (3-clause)"
 REVISION="3"

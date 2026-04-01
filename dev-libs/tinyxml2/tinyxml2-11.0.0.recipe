@@ -5,7 +5,7 @@ Timyxml was first created to solve the common text I/O file problem. It \
 parses the XML into a DOM-like tree and is able to read and write XML files.\
 It allows you to create your own document mark-ups or even construct an XML \
 document from scratch with C++ objects."
-HOMEPAGE="http://www.grinninglizard.com/tinyxml2/"
+HOMEPAGE="https://www.grinninglizard.com/tinyxml2/"
 COPYRIGHT="2011-2021 Lee Thomason"
 LICENSE="Zlib"
 REVISION="1"

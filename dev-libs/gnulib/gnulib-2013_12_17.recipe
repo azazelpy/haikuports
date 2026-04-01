@@ -9,7 +9,7 @@ typical library meant to be installed and linked against. Thus, unlike most \
 projects, Gnulib does not normally generate a source tarball distribution; \
 instead, developers grab modules directly from the source repository.
 "
-HOMEPAGE="http://www.gnu.org/software/gnulib"
+HOMEPAGE="https://www.gnu.org/software/gnulib"
 COPYRIGHT="1985-2013 Free Software Foundation."
 LICENSE="GNULIB"
 REVISION="1"

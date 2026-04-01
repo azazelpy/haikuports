@@ -2,7 +2,7 @@ SUMMARY="NetSurf Parametric Logging Library"
 DESCRIPTION="A category-based logging library which supports complex  \
 logging filters, multiple log levels, and provides context through to client \
 applications."
-HOMEPAGE="http://git.netsurf-browser.org/libnslog.git/"
+HOMEPAGE="https://git.netsurf-browser.org/libnslog.git/"
 COPYRIGHT="2014-2020 Vincent Sanders"
 LICENSE="MIT"
 REVISION="2"

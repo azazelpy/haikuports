@@ -10,7 +10,7 @@ The goal of libConfuse is not to be the configuration file parser library \
 with a gazillion of features. Instead, it aims to be easy to use and quick to \
 integrate with your code. libConfuse was called libcfg before, but its name \
 was changed to not confuse itself with other similar libraries."
-HOMEPAGE="http://www.nongnu.org/confuse/"
+HOMEPAGE="https://www.nongnu.org/confuse/"
 COPYRIGHT="2002-2017 Martin Hedenfalk
 	2015 Peter Rosin"
 LICENSE="ISC"

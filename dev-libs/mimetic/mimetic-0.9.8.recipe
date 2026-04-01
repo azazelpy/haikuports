@@ -1,7 +1,7 @@
 SUMMARY="Email library (MIME) written in C++"
 DESCRIPTION="A powerful, full featured, STL-based, standards compilant and \
 free C++ MIME library."
-HOMEPAGE="http://www.codesink.org/mimetic_mime_library.html"
+HOMEPAGE="https://www.codesink.org/mimetic_mime_library.html"
 COPYRIGHT="2003-2014 Stefano Barbato"
 LICENSE="MIT"
 REVISION="2"

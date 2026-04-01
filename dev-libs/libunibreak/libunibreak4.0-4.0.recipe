@@ -2,7 +2,7 @@ SUMMARY="Line and word breaking library"
 DESCRIPTION="An implementation of the line breaking and word breaking \
 algorithms as described in Unicode Standard Annex 14 and Unicode Standard \
 Annex 29."
-HOMEPAGE="http://vimgadgets.sourceforge.net/libunibreak/"
+HOMEPAGE="https://vimgadgets.sourceforge.net/libunibreak/"
 COPYRIGHT="2016 Andreas Röver"
 LICENSE="Zlib"
 REVISION="2"

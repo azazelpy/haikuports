@@ -1,7 +1,7 @@
 SUMMARY="A lightweight C library"
 DESCRIPTION="Serd is a lightweight C library for RDF syntax which \
 supports reading and writing Turtle and NTriples."
-HOMEPAGE="http://drobilla.net/software/serd/"
+HOMEPAGE="https://drobilla.net/software/serd/"
 COPYRIGHT="2011-2022 David Robillard"
 LICENSE="MIT"
 REVISION="1"

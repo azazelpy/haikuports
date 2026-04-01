@@ -7,7 +7,7 @@ DESCRIPTION="
 	building proprietary software.
 	This package contains the native API.
 	"
-HOMEPAGE="http://www.pcre.org/"
+HOMEPAGE="https://www.pcre.org/"
 LICENSE="PCRE"
 COPYRIGHT="
 	1997-2011 University of Cambridge
