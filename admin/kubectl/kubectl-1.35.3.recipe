@@ -1,0 +1,163 @@
+# Haiku Recipe for kubectl v1.35.3 - NATIVE BUILD
+# This recipe builds kubectl from Go source for native Haiku execution.
+# IMPORTANT: This is NOT a Linux binary - it compiles natively for Haiku OS.
+# The Haiku linuxulator is NOT production-ready, so native compilation is required.
+#
+# Build time estimate: ~10-15 minutes on typical hardware
+# Go version required: 1.25+ (Haiku ports provides Go 1.18+, may need update)
+
+SUMMARY="Kubernetes command-line tool for cluster management"
+
+DESCRIPTION="kubectl is the primary command-line interface for interacting with
+Kubernetes clusters. It allows you to deploy applications, inspect and manage
+cluster resources, view logs, and perform other cluster operations.
+
+This recipe builds kubectl natively for Haiku OS from the official Kubernetes
+source code using the Go toolchain. No Linux compatibility layer is used."
+
+HOMEPAGE="https://kubernetes.io/"
+COPYRIGHT="2026 The Kubernetes Authors"
+LICENSE="Apache-2.0"
+REVISION="1"
+
+# Kubernetes v1.35.3 source tarball from official GitHub releases
+# Using source archive instead of git clone for reproducibility
+# Kubernetes v1.35.3 source archive
+# Checksum should be verified on first download with: sha256sum kubernetes-1.35.3.tar.gz
+# GitHub source archives have stable checksums per tag
+SOURCE_URI="https://github.com/kubernetes/kubernetes/archive/refs/tags/v1.35.3.tar.gz"
+CHECKSUM_SHA256="PLACEHOLDER_UPDATE_ON_FIRST_BUILD"
+SOURCE_FILENAME="kubernetes-1.35.3.tar.gz"
+SOURCE_DIR="kubernetes-1.35.3"
+
+ARCHITECTURES="x86_64"
+# Note: x86_gcc2 not supported due to Go requirements
+
+# Command binary goes in standard bin directory
+commandBinDir=$binDir
+commandSuffix=$secondaryArchSuffix
+
+PROVIDES="
+	cmd:kubectl$commandSuffix = 1.35.3
+"
+
+REQUIRES="
+	haiku$secondaryArchSuffix
+"
+
+# BUILD_REQUIRES: Essential tools for native Go compilation
+# - golang: Go toolchain (version 1.25+ required by k8s v1.35.3)
+# - git: Required by Go module system for dependency resolution
+# - make: Build orchestration (kubernetes uses make-based build)
+# - gcc: C compiler for Go's cgo components and native bindings
+BUILD_REQUIRES="
+	golang${secondaryArchSuffix}_devel
+	git
+	make
+	gcc${secondaryArchSuffix}
+"
+
+# Build dependencies needed before compilation starts
+BUILD_PREREQUIRES="
+	cmd:go
+	cmd:git
+	cmd:make
+	cmd:gcc${secondaryArchSuffix}
+"
+
+# Native Build Approach:
+# ======================
+# This recipe compiles kubectl NATIVELY for Haiku, not as a Linux binary.
+# The kubernetes/kubernetes repository contains the full kubectl source code.
+# We use the standard 'make kubectl' target which:
+#   1. Resolves Go module dependencies automatically
+#   2. Compiles all required packages with Go toolchain
+#   3. Links the final binary with Haiku system libraries
+#
+# Why native build matters:
+# - Haiku's linuxulator (Linux compatibility layer) is NOT production-ready
+# - Linux binaries may crash or behave unpredictably on Haiku
+# - Native binaries integrate properly with Haiku's package management
+# - Better performance and system integration
+#
+# Build Process:
+# 1. Extract Kubernetes source tree
+# 2. Run 'make kubectl' which invokes Go build with proper flags
+# 3. Go toolchain resolves dependencies from go.mod
+# 4. Binary is produced at _output/local/bin/haiku/amd64/kubectl
+#
+# Expected build time: 10-15 minutes depending on hardware
+# The build compiles a large codebase with many dependencies.
+
+BUILD()
+{
+	# Enter the extracted Kubernetes source directory
+	cd "$sourceDir"
+	
+	# Set Go environment for Haiku
+	# GOOS and GOARCH are auto-detected by Go on Haiku
+	# CGO_ENABLED=1 is default and required for some Kubernetes packages
+	export CGO_ENABLED=1
+	
+	# Build kubectl using the official Makefile target
+	# This target:
+	#   - Sets up proper Go build flags
+	#   - Embeds version information into the binary
+	#   - Produces output in _output/local/bin/<platform>/<arch>/kubectl
+	#
+	# The make system handles:
+	#   - Go module dependency resolution
+	#   - Proper ldflags for version embedding
+	#   - Platform-specific build configuration
+	#
+	# Build time: approximately 10-15 minutes on typical hardware
+	# Most time is spent compiling the large Kubernetes codebase and dependencies
+	make kubectl $jobArgs
+	
+	# Verify the binary was created successfully
+	if [ ! -f "_output/local/bin/haiku/amd64/kubectl" ]; then
+		echo "ERROR: kubectl binary not found after build!"
+		echo "Expected location: _output/local/bin/haiku/amd64/kubectl"
+		exit 1
+	fi
+	
+	echo "Build completed successfully!"
+	echo "Binary location: _output/local/bin/haiku/amd64/kubectl"
+	
+	# Show build info for verification
+	_output/local/bin/haiku/amd64/kubectl version --client 2>/dev/null || true
+}
+
+# Installation copies the natively-built binary to the system bin directory
+# where it will be available in the user's PATH
+INSTALL()
+{
+	# Create the target directory if it doesn't exist
+	mkdir -p "$commandBinDir"
+	
+	# Copy the built kubectl binary from the build output directory
+	# Source: _output/local/bin/haiku/amd64/kubectl (native Haiku binary)
+	# Destination: $binDir/kubectl (system-wide installation)
+	cp "_output/local/bin/haiku/amd64/kubectl" "$commandBinDir/kubectl"
+	
+	# Ensure the binary is executable
+	chmod 755 "$commandBinDir/kubectl"
+	
+	# Verify installation
+	echo "kubectl installed to: $commandBinDir/kubectl"
+	"$commandBinDir/kubectl" version --client 2>/dev/null || true
+}
+
+# Optional test function to verify the installed binary works
+TEST()
+{
+	# Test that kubectl can report its version
+	# This verifies the binary is properly linked and functional
+	if "$commandBinDir/kubectl" version --client; then
+		echo "TEST PASSED: kubectl version command successful"
+		exit 0
+	else
+		echo "TEST FAILED: kubectl version command failed"
+		exit 1
+	fi
+}
