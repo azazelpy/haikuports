@@ -3,7 +3,7 @@ DESCRIPTION="Libical is an Open Source implementation of the iCalendar \
 protocols and protocol data units. The iCalendar specification describes how \
 calendar clients can communicate with calendar servers so users can store \
 their calendar data and arrange meetings with other users."
-HOMEPAGE="http://libical.github.io/libical/"
+HOMEPAGE="https://libical.github.io/libical/"
 COPYRIGHT="1999-2015 Eric Busboom"
 LICENSE="MPL v1.0
 	GNU LGPL v2.1"

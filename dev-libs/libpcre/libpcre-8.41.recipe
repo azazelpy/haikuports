@@ -7,7 +7,7 @@ for building proprietary software.
 This package contains the native API."
 COPYRIGHT="1997-2017 University of Cambridge
 	2007-2012, Google Inc. All rights reserved."
-HOMEPAGE="http://www.pcre.org/"
+HOMEPAGE="https://www.pcre.org/"
 LICENSE="PCRE"
 REVISION="1"
 SOURCE_URI="https://downloads.sf.net/pcre/pcre-$portVersion.tar.bz2"

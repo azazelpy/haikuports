@@ -1,6 +1,6 @@
 SUMMARY="A UNIX daemon library"
 DESCRIPTION="libdaemon is a lightweight C library that eases the writing of UNIX daemons."
-HOMEPAGE="http://0pointer.de/lennart/projects/libdaemon/"
+HOMEPAGE="https://0pointer.de/lennart/projects/libdaemon/"
 COPYRIGHT="2003-2009 Lennart Poettering"
 LICENSE="MIT"
 REVISION="1"

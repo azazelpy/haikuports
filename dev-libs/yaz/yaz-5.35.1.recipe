@@ -20,7 +20,7 @@ C++.
 * Fast operation. The C based BER encoders/decoders as well as the server component of YAZ is \
 very fast.
 * Liberal license that allows for commercial use of YAZ."
-HOMEPAGE="http://www.indexdata.com/yaz"
+HOMEPAGE="https://www.indexdata.com/yaz"
 COPYRIGHT="1995-2025 Index Data"
 LICENSE="BSD (3-clause)"
 REVISION="2"

@@ -7,7 +7,7 @@ There you'd find a short tutorial:
 * http://libcpuid.sf.net/documentation.html
 As well as the full API reference:
 * http://libcpuid.sf.net/doxy."
-HOMEPAGE="http://libcpuid.sourceforge.net/"
+HOMEPAGE="https://libcpuid.sourceforge.net/"
 COPYRIGHT="2008  Veselin Georgiev"
 LICENSE="BSD (2-clause)"
 REVISION="2"

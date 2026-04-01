@@ -3,7 +3,7 @@ DESCRIPTION="iODBC is the acronym for Independent Open DataBase Connectivity, \
 an Open Source platform independent implementation of both the ODBC \
 and X/Open specifications. It is rapidly emerging as the industry standard \
 for developing solutions that are language, platform and database independent."
-HOMEPAGE="http://www.iodbc.org"
+HOMEPAGE="https://www.iodbc.org"
 COPYRIGHT="1995 Ke Jin
 	1996-2014 OpenLink Software"
 LICENSE="GNU LGPL v2

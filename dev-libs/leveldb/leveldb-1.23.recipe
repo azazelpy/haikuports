@@ -7,7 +7,7 @@ LevelDB is not an SQL database. Like other NoSQL and Dbm stores, it does \
 not have a relational data model and it does not support SQL queries. Also, \
 it has no support for indexes. Applications use LevelDB as a library, as it \
 does not provide a server or command-line interface."
-HOMEPAGE="http://leveldb.org/"
+HOMEPAGE="https://leveldb.org/"
 COPYRIGHT="2017 The LevelDB Authors"
 LICENSE="BSD (3-clause)"
 REVISION="2"

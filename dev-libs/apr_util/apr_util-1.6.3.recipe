@@ -7,7 +7,7 @@ and be assured of predictable if not identical behaviour regardless of the \
 platform on which their software is built, relieving them of the need to code \
 special-case conditions to work around or take advantage of platform-specific \
 deficiencies or features."
-HOMEPAGE="http://apr.apache.org/"
+HOMEPAGE="https://apr.apache.org/"
 COPYRIGHT="2011 The Apache Software Foundation."
 LICENSE="Apache v2"
 REVISION="1"

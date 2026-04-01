@@ -1,6 +1,6 @@
 SUMMARY="ALTLinux hyphenation library"
 DESCRIPTION="Hyphen is a hyphenation library."
-HOMEPAGE="http://hunspell.sf.net"
+HOMEPAGE="https://hunspell.sf.net"
 COPYRIGHT="1998 Raph Levien
 	2001 ALTLinux, Moscow"
 LICENSE="GNU GPL v2

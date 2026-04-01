@@ -5,7 +5,7 @@ global or a member function, regardless of whether it is static or virtual.
 
 It also contains adaptor classes for connection of dissimilar callbacks and \
 has an ease of use unmatched by other C++ callback libraries."
-HOMEPAGE="http://libsigc.sourceforge.net/"
+HOMEPAGE="https://libsigc.sourceforge.net/"
 COPYRIGHT="2002-2020 The libsigc++ Development Team"
 LICENSE="GNU LGPL v3"
 REVISION="1"

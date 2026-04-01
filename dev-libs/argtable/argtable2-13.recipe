@@ -5,7 +5,7 @@ syntax to be defined in the source code as an array of argtable structs. \
 The command line is then parsed according to that specification and the \
 resulting values are returned in those same structs where they are accessible \
 to the main program."
-HOMEPAGE="http://argtable.sourceforge.net/"
+HOMEPAGE="https://argtable.sourceforge.net/"
 COPYRIGHT="1998-2001, 2003-2011 Stewart Heitmann"
 LICENSE="GNU LGPL v2"
 REVISION="2"

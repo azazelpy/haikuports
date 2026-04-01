@@ -1,7 +1,7 @@
 SUMMARY="The zziplib extract data from archives in a single zip"
 DESCRIPTION="Lightweight library used to easily extract data from \
 files archived in a single zip file."
-HOMEPAGE="http://zziplib.sourceforge.net/"
+HOMEPAGE="https://zziplib.sourceforge.net/"
 COPYRIGHT="1999-2010 Guido Draheim"
 LICENSE="GNU LGPL v2.1
 	MPL v1.1"

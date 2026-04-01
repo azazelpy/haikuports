@@ -38,7 +38,7 @@ providing very competitive performance.
 * Text Boundaries: Locate the positions of words, sentences, paragraphs within \
 a range of text, or identify locations that would be suitable for line \
 wrapping when displaying the text."
-HOMEPAGE="http://www.icu-project.org"
+HOMEPAGE="https://www.icu-project.org"
 COPYRIGHT="1995-2020 IBM Corporation and others."
 LICENSE="ICU"
 REVISION="2"
