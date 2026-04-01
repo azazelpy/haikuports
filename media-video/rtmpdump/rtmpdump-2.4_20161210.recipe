@@ -1,7 +1,7 @@
 SUMMARY="Open source command-line RTMP client"
 DESCRIPTION="rtmpdump is an open-source command-line RTMP client intended \
 to stream audio of video flash content."
-HOMEPAGE="http://rtmpdump.mplayerhq.hu/"
+HOMEPAGE="https://rtmpdump.mplayerhq.hu/"
 COPYRIGHT="2009 Andrej Stepanchuk
 	2009-2011 Howard Chu
 	2010 2a665470ced7adb7156fcef47f8199a6371c117b8a79e399a2771e0b36384090

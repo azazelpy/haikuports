@@ -27,7 +27,7 @@ Extensible Framework
 
 Some components in QtAV are designed to be extensible. For example, \
 you can write your decoder, audio output for particular platform."
-HOMEPAGE="http://www.qtav.org/"
+HOMEPAGE="https://www.qtav.org/"
 COPYRIGHT="2013-2019 Wang Bin"
 LICENSE="GNU LGPL v2.1"
 REVISION="1"
