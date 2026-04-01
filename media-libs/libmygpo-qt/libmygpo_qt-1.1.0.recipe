@@ -1,7 +1,7 @@
 SUMMARY="Qt/C++ library wrapping the gpodder.net webservice"
 DESCRIPTION="libmygpo-qt is a Qt/C++ Library that wraps the gpodder.net Web API \
 http://wiki.gpodder.org/wiki/Web_Services/API_2"
-HOMEPAGE="http://wiki.gpodder.org/wiki/Libmygpo-qt"
+HOMEPAGE="https://wiki.gpodder.org/wiki/Libmygpo-qt"
 COPYRIGHT="2010-2018 Stefan Derkits, Christian Wagner & Felix Winter"
 LICENSE="GNU LGPL v2.1"
 REVISION="1"

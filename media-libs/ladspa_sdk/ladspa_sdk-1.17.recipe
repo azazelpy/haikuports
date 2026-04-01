@@ -5,7 +5,7 @@ programmers the ability to write simple \`plugin\' audio processors in C/C++ and
 dynamically against a range of host applications.
 
 This package contains the example plug-ins and tools from the LADSPA SDK."
-HOMEPAGE="http://www.ladspa.org/"
+HOMEPAGE="https://www.ladspa.org/"
 COPYRIGHT="2000-2021 Richard W.E. Furse, Paul Barton-Davis, Stefan Westerfeld"
 LICENSE="GNU LGPL v2.1"
 REVISION="1"

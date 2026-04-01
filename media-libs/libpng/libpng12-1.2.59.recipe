@@ -6,7 +6,7 @@ years.
 This is libpng 1.2, an older version which may be needed for compatibility \
 with BeOS application. For new developments please use the current libpng \
 package."
-HOMEPAGE="http://www.libpng.org/"
+HOMEPAGE="https://www.libpng.org/"
 COPYRIGHT="1998-2017 Glenn Randers-Pehrson
 	1996-1997 Andreas Dilger
 	1995-1996 Guy Eric Schalnat, Group 42 Inc."

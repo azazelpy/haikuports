@@ -7,7 +7,7 @@ process MIDI files.
 In addition libTiMidity provides more suitable API to work with MIDI songs, \
 it enables to specify full path to the timidity configuration file, and have \
 function to retrieve meta data from MIDI song."
-HOMEPAGE="http://libtimidity.sourceforge.net"
+HOMEPAGE="https://libtimidity.sourceforge.net"
 COPYRIGHT="1995 Tuukka Toivonen
 	2004 Konstantin Korikov
 	2007-2021 Ozkan Sezer"

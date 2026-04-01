@@ -12,7 +12,7 @@ are Totem, VLC, and Mplayer.
 In addition, media frameworks such as GStreamer and decoding libraries such \
 as ffmpeg can be configured to use Schroedinger either internally or via \
 plugins."
-HOMEPAGE="http://www.diracvideo.org"
+HOMEPAGE="https://www.diracvideo.org"
 COPYRIGHT="2006 BBC and Fluendo"
 LICENSE="MIT"
 REVISION="7"

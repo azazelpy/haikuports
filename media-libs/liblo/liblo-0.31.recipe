@@ -1,7 +1,7 @@
 SUMMARY="Lightweight OSC (Open Sound Control) Implementation"
 DESCRIPTION="liblo is a lightweight library that provides an easy to use \
 implementation of the OSC protocol."
-HOMEPAGE="http://liblo.sourceforge.net/"
+HOMEPAGE="https://liblo.sourceforge.net/"
 COPYRIGHT="2008-2012 Stephen Sinclair
 	2008 Kentaro Fukuchi
 	2005-2008 Nicholas Humfrey

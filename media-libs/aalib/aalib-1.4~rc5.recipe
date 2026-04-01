@@ -1,7 +1,7 @@
 SUMMARY="An ASCII rendering 2D library"
 DESCRIPTION="aalib is a software library which allows applications to \
 automatically convert still and moving images into ASCII art."
-HOMEPAGE="http://aa-project.sourceforge.net/aalib/"
+HOMEPAGE="https://aa-project.sourceforge.net/aalib/"
 COPYRIGHT="1997-2001 Jam Hubicka, Thomas A. K. Kjaer, Tim Newsome, Kamil Toman"
 LICENSE="GNU GPL v2"
 REVISION="3"

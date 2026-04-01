@@ -5,7 +5,7 @@ and image analysis operations. It's long list of features includes:
 * change scale and pixel depth
 * pixelwise masking, blending, and enhancement
 * can open and save standard image formats"
-HOMEPAGE="http://www.leptonica.org/"
+HOMEPAGE="https://www.leptonica.org/"
 COPYRIGHT="2001-2012 Dan Bloomberg"
 LICENSE="BSD (2-clause)"
 REVISION="3"

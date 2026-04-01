@@ -8,7 +8,7 @@ distortion, transversal (also known as lateral) chromatic aberrations, \
 vignetting and colour contribution of the lens (e.g. when sometimes \
 people says one lens gives "yellowish" images and another, say, "bluish").
 "
-HOMEPAGE="http://lensfun.sourceforge.net"
+HOMEPAGE="https://lensfun.sourceforge.net"
 COPYRIGHT="
 	2007-2008 Andrew Zabolotny
 	"

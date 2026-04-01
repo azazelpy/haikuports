@@ -10,7 +10,7 @@ Alternately, SDL_sound can decode a whole sound file and hand back a single poin
 whole waveform.
 SDL_sound can also handle sample rate, audio format, and channel conversion on-the-fly and \
 behind-the-scenes, if the programmer desires."
-HOMEPAGE="http://www.icculus.org/SDL_sound
+HOMEPAGE="https://www.icculus.org/SDL_sound
 	https://github.com/icculus/SDL_sound"
 COPYRIGHT="2022 Ryan C. Gordon"
 LICENSE="Zlib"

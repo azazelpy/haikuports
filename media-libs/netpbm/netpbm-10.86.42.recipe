@@ -9,7 +9,7 @@ Examples of the sort of image manipulation we're talking about are:
 - Cutting the top half off of an image
 - Making a mirror image
 - Creating a sequence of images that fade from one image to another"
-HOMEPAGE="http://netpbm.sourceforge.net"
+HOMEPAGE="https://netpbm.sourceforge.net"
 COPYRIGHT="2001 411toppm: Steve Allen
 	1991 anytopnm: Jef Poskanzer
 	1989 asciitopgm: Wilson H. Bent, Jr

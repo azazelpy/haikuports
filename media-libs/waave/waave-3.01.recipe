@@ -2,7 +2,7 @@ SUMMARY="Why Another Audio Video Engine"
 DESCRIPTION="Waave intent to be a simple, modular and multi-contextual \
 audio/video library based on FFmpeg and SDL. Its name refers to a natural \
 question you can ask yourself : Why Another Audio Video Engine ?"
-HOMEPAGE="http://waave.sourceforge.net/"
+HOMEPAGE="https://waave.sourceforge.net/"
 COPYRIGHT="2012 Baptiste Pellegrin"
 LICENSE="GNU GPL v3"
 REVISION="4"

@@ -21,7 +21,7 @@ energy functions, and easily defining cusom ones
 * Reports progress through a customizable interface
 * A signalling system permits to handle errors cleanly
 * Portable to all major OS's"
-HOMEPAGE="http://liblqr.wikidot.com/"
+HOMEPAGE="https://liblqr.wikidot.com/"
 COPYRIGHT="Carlo Baldassi"
 LICENSE="GNU LGPL v3"
 REVISION="1"

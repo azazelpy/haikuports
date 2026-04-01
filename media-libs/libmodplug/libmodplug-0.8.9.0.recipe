@@ -4,7 +4,7 @@ quality MOD-playing software available, has placed his sound rendering code \
 in the public domain. This library and plugin is based on that code.
 It plays 22 different MOD formats as well as zip, rar, gzip, and bzip2 \
 compressed MODs."
-HOMEPAGE="http://modplug-xmms.sourceforge.net"
+HOMEPAGE="https://modplug-xmms.sourceforge.net"
 COPYRIGHT="Public Domain"
 LICENSE="Public Domain"
 REVISION="2"

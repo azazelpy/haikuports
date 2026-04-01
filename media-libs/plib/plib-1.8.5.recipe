@@ -5,7 +5,7 @@ of handy utility functions. All are 100% portable across nearly all modern compu
 What's more, it's all available on line - and completely free. Each library component is fairly \
 independent of the others - so if you want to use SDL, GTK, GLUT, or FLTK instead of PLIB's 'PW' \
 windowing library, you can."
-HOMEPAGE="http://plib.sourceforge.net/"
+HOMEPAGE="https://plib.sourceforge.net/"
 COPYRIGHT="1999-2005 Steve J. Baker"
 LICENSE="GNU LGPL v2.1"
 REVISION="1"

@@ -5,7 +5,7 @@ supports over 90 mainstream and obscure module formats including Protracker \
 
 Many compressed module formats are supported, including popular Unix, DOS,
 and Amiga file packers including gzip, bzip2, SQSH, Powerpack, etc."
-HOMEPAGE="http://xmp.sourceforge.net/"
+HOMEPAGE="https://xmp.sourceforge.net/"
 COPYRIGHT="1996-2024 Claudio Matsuoka and Hipolito Carraro Jr"
 LICENSE="GNU LGPL v2.1"
 REVISION="1"

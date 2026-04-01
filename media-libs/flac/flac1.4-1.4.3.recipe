@@ -5,7 +5,7 @@ without any loss in quality. This is similar to how Zip works, except with \
 FLAC you will get much better compression because it is designed specifically \
 for audio, and you can play back compressed FLAC files in your favorite player \
 (or your car or home stereo) just like you would an MP3 file."
-HOMEPAGE="http://flac.sourceforge.net/"
+HOMEPAGE="https://flac.sourceforge.net/"
 COPYRIGHT="2001-2009 Josh Coalson
 	2011-2023 Xiph.Org Foundation"
 LICENSE="BSD (3-clause)
