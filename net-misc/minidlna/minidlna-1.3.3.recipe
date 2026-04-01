@@ -1,7 +1,7 @@
 SUMMARY="A server software compliant with multiple clients"
 DESCRIPTION="MiniDLNA MiniDLNA (aka ReadyDLNA) is server software with the \
 aim of being fully compliant with DLNA/UPnP-AV clients."
-HOMEPAGE="http://minidlna.sourceforge.net/
+HOMEPAGE="https://minidlna.sourceforge.net/
 	https://sourceforge.net/projects/minidlna/"
 COPYRIGHT="2008-2017 Justin Maggard"
 LICENSE="GNU GPL v2
