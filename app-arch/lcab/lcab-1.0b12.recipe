@@ -4,7 +4,7 @@ also called CAB files or archives. lcab does not list nor extract MS CAB \
 files. This can be done with separate tools such as cabextract.
 The \".cab\" file extension is also used for another compressed archive format \
 used by InstallShield but that format is unrelated to the MS CAB format."
-HOMEPAGE="http://ohnopub.net/~ohnobinki/lcab/"
+HOMEPAGE="https://ohnopub.net/~ohnobinki/lcab/"
 COPYRIGHT="2003-2007 Rien"
 LICENSE="GNU GPL v2"
 REVISION="2"

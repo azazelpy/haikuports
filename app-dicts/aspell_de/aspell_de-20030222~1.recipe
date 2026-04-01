@@ -1,7 +1,7 @@
 SUMMARY="German dictionary for aspell program/library"
 DESCRIPTION="German (and Swiss-German) language dictionary for the GNU Aspell \
 program, an open source spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2002-2004 Björn Jacke"
 LICENSE="GNU GPL v2"
 REVISION="1"

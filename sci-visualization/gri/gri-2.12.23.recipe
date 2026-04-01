@@ -4,7 +4,7 @@ DESCRIPTION="Gri is a language for scientific graphics programming. The word \
 x-y graphs, contour graphs, and image graphs, in PostScript and (someday) SVG \
 formats. Control is provided over all aspects of drawing, e.g. line widths, \
 colors, and fonts. A TeX-like syntax provides common mathematical symbols."
-HOMEPAGE="http://gri.sourceforge.net/"
+HOMEPAGE="https://gri.sourceforge.net/"
 COPYRIGHT="2002-2011 Dan Kelley and Peter Galbraith"
 LICENSE="GNU GPL v1"
 REVISION="1"

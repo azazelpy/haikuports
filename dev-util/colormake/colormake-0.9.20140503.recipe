@@ -2,7 +2,7 @@ SUMMARY="Wrapper around make to colorize the output"
 DESCRIPTION="This is a simple wrapper for making the output from make easier to read (more \
 colorful), and errors easier to find in messy compilations. It was inspired by Micheal T. \
 Babcock's excellent logcolorize program."
-HOMEPAGE="http://bre.klaki.net/programs/colormake/"
+HOMEPAGE="https://bre.klaki.net/programs/colormake/"
 COPYRIGHT="2012-2014 Bjarni R. Einarsson"
 LICENSE="GNU GPL v2"
 REVISION="1"

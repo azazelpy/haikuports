@@ -1,7 +1,7 @@
 SUMMARY="Architecture for Sound PROcessing"
 DESCRIPTION="NASPRO core is the portable runtime library at the bottom of \
 the NASPRO Sound PROcessing Architecture"
-HOMEPAGE="http://naspro.sourceforge.net/"
+HOMEPAGE="https://naspro.sourceforge.net/"
 COPYRIGHT="2007-2011, NASPRO Development Team"
 LICENSE="GNU LGPL v2.1"
 REVISION="2"

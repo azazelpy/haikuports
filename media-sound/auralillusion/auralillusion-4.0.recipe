@@ -1,7 +1,7 @@
 SUMMARY="An audio sample editor"
 DESCRIPTION="Aural Illusion is an audio sample editing application originally re\
 leased for BeOS, featuring more than 200 unique audio effects."
-HOMEPAGE="http://www.blachford.info/blachtech/ai4.html"
+HOMEPAGE="https://www.blachford.info/blachtech/ai4.html"
 COPYRIGHT="2001 Nicholas Blachford"
 LICENSE="AuralIllusion"
 REVISION="1"

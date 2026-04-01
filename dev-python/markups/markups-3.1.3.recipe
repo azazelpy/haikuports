@@ -3,7 +3,7 @@ DESCRIPTION="Markups provides a wrapper around various text markup languages.
 Available by default are Markdown, reStructuredText and Textile, but you can \
 easily add your own markups.
 "
-HOMEPAGE="http://python-requests.org/
+HOMEPAGE="https://python-requests.org/
 	http://pypi.python.org/pypi/markups"
 COPYRIGHT="2012-2015 Dmitry Shachnev"
 LICENSE="BSD (3-clause)"

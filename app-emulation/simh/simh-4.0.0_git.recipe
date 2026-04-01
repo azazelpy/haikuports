@@ -14,7 +14,7 @@ PDP-11, PDP-15, VAX
 - Royal-Mcbee LGP-30, LGP-21
 - Scientific Data Systems SDS 940
 - SWTP 6800"
-HOMEPAGE="http://simh.trailing-edge.com/"
+HOMEPAGE="https://simh.trailing-edge.com/"
 COPYRIGHT="1993-2008 Robert M Supnik"
 LICENSE="MIT"
 REVISION="5"

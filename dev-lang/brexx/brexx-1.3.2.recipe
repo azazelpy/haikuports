@@ -9,7 +9,7 @@ additions:
 * Support for Haiku application scripting.
 * Support for running BRexx scripts from the desktop.
 * Additional functions and features."
-HOMEPAGE="http://www.verifiedlogic.com/"
+HOMEPAGE="https://www.verifiedlogic.com/"
 COPYRIGHT="1991-1999 Be Incorporated
 	1999 Willy Langeveld
 	1999 Vassilis Vlachoudis"

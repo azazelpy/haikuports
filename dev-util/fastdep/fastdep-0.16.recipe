@@ -2,7 +2,7 @@ SUMMARY="A fast dependency generator for C/C++ files"
 DESCRIPTION="fastdep is a preprocessor which generates dependency information \
 suitable for Makefile inclusion from C or C++ source files. Meant to run on \
 slower hardware, it is several orders of magnitude faster than gcc."
-HOMEPAGE="http://www.irule.be/bvh/c++/fastdep/"
+HOMEPAGE="https://www.irule.be/bvh/c++/fastdep/"
 COPYRIGHT="2003 Bart Vanhauwaert"
 LICENSE="GNU GPL v2"
 REVISION="2"

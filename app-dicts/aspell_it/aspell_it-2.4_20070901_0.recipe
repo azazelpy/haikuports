@@ -1,7 +1,7 @@
 SUMMARY="Italian dictionary for aspell program/library"
 DESCRIPTION="Italian language dictionary for the GNU Aspell program, an open \
 source spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2003-2005 Gianluca Turconi & Davide Prina"
 LICENSE="GNU GPL v2"
 REVISION="1"

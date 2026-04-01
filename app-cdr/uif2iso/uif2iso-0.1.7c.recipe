@@ -5,7 +5,7 @@ The Universal Image Format (UIF), which is a compressed CD/DVD image format, \
 was created in 2006 by the authors of MagicISO. Although later versions of \
 MagicISO have tried to obfuscate the UIF format by using encryption, UIF2ISO \
 is still able to convert these images."
-HOMEPAGE="http://aluigi.org/mytoolz.htm#uif2iso"
+HOMEPAGE="https://aluigi.org/mytoolz.htm#uif2iso"
 COPYRIGHT="2007-2009 Luigi Auriemma"
 LICENSE="GNU GPL v2"
 REVISION="4"

@@ -1,7 +1,7 @@
 SUMMARY="Additional themes for LBreakout2"
 DESCRIPTION="This package provides 36 additional themes created by users of \
 LBreakout2."
-HOMEPAGE="http://lgames.sourceforge.net/LBreakout2/themes.php"
+HOMEPAGE="https://lgames.sourceforge.net/LBreakout2/themes.php"
 COPYRIGHT="2010-2018 LBreakout2 users"
 LICENSE="GNU GPL v2"
 REVISION="2"

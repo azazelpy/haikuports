@@ -1,7 +1,7 @@
 SUMMARY="A sphinx extension which renders display math in HTML via JavaScript"
 DESCRIPTION="sphinxcontrib-jsmath is a sphinx extension which renders display math in HTML via \
 JavaScript."
-HOMEPAGE="http://sphinx-doc.org/
+HOMEPAGE="https://sphinx-doc.org/
 	https://pypi.org/project/sphinxcontrib-jsmath/"
 COPYRIGHT="2007-2019 by the Sphinx team"
 LICENSE="BSD (2-clause)"

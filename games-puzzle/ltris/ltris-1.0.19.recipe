@@ -3,7 +3,7 @@ DESCRIPTION="LTris is a tetris clone: differently shaped blocks are falling down
 rectangular playing field and can be moved sideways or rotated by 90 degree \
 units with the aim of building lines without gaps which then disappear \
 (causing any block above the deleted line to fall down)."
-HOMEPAGE="http://lgames.sourceforge.net/"
+HOMEPAGE="https://lgames.sourceforge.net/"
 COPYRIGHT="2002-2011 Michael Speck"
 LICENSE="GNU GPL v2"
 REVISION="3"

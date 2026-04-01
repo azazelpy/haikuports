@@ -2,7 +2,7 @@ SUMMARY="A Linux-themed clone of the arcade game Defender"
 DESCRIPTION="Defendguin is a clone of the arcade game Defender,\
 but with a Linux theme. Your mission is to defend little penguinoids \
 from being captured and mutated."
-HOMEPAGE="http://www.newbreedsoftware.com/defendguin/"
+HOMEPAGE="https://www.newbreedsoftware.com/defendguin/"
 COPYRIGHT="1999-2023 Bill Kendrick"
 LICENSE="GNU GPL v2"
 REVISION="1"

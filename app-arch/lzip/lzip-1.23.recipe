@@ -22,7 +22,7 @@ archaeologist to extract the data from a lzip file long after \
 quantum computers eventually render LZMA obsolete.
 - Additionally the lzip reference implementation is copylefted, \
 which guarantees that it will remain free forever."
-HOMEPAGE="http://www.nongnu.org/lzip/lzip.html"
+HOMEPAGE="https://www.nongnu.org/lzip/lzip.html"
 COPYRIGHT="2008-2018 Antonio Diaz Diaz"
 LICENSE="GNU GPL v2"
 REVISION="1"

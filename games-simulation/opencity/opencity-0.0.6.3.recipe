@@ -17,7 +17,7 @@ OpenCity is also an OpenGL/SDL/C++ game programming tutorial. In the \
 resources section, you can find the micro simulators' algorithm, design \
 document, UML diagram and information about other issues. The UML diagram is \
 edited with Umbrello, the free UML diagram editor for KDE."
-HOMEPAGE="http://www.opencity.info/"
+HOMEPAGE="https://www.opencity.info/"
 COPYRIGHT="2003-2008 Duong Khang NGUYEN
     2003-2008 Frederic RODRIGO
     2006-2007 Brodie THIESFIELD

@@ -3,7 +3,7 @@ DESCRIPTION="se (Screen Editor) is a screen oriented version of the classic \
 UNIX text editor ed. It’s similar to vi as both are modal editors with curses \
 interfaces. However, it differs from vi in that it has the same command \
 syntax as ed."
-HOMEPAGE="http://se-editor.org/"
+HOMEPAGE="https://se-editor.org/"
 COPYRIGHT="2013 Thomas Cort"
 LICENSE="Public Domain"
 REVISION="2"

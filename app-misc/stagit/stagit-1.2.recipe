@@ -1,6 +1,6 @@
 SUMMARY="Static git page generator"
 DESCRIPTION="It generates static HTML pages for a git repository"
-HOMEPAGE="http://codemadness.org/stagit.html"
+HOMEPAGE="https://codemadness.org/stagit.html"
 COPYRIGHT="2016-2022 Hiltjo Posthuma"
 LICENSE="MIT"
 REVISION="1"

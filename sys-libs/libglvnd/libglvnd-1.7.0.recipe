@@ -1,7 +1,7 @@
 SUMMARY="GL Vendor-Neutral Dispatch Library"
 DESCRIPTION="libglvnd translates Haiku's OpenGL kit to a modern EGL-based graphics rendering \
 pipeline."
-HOMEPAGE="http://gitlab.freedesktop.org/glvnd/libglvnd"
+HOMEPAGE="https://gitlab.freedesktop.org/glvnd/libglvnd"
 COPYRIGHT="2013, NVIDIA CORPORATION"
 LICENSE="MIT"
 REVISION="4"

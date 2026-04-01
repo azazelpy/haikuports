@@ -1,7 +1,7 @@
 SUMMARY="Ukrainian dictionary for aspell program/library"
 DESCRIPTION="Ukrainian (Українська) dictionary for the GNU Aspell program, an \
 open source spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="1999 Vladimir Yakovchuk, Oleg Podgurniy
 	2001 Maksym Polyakov
 	2001, 2005-2007 Andriy Rysin (Андрій Рисін)

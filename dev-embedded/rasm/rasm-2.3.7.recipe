@@ -11,7 +11,7 @@ DESCRIPTION="Powerful and ultra-fast Z80 assembler:
 - conditional macros, unlimited imbricated loops, switch/case
 - math engine with correct rounding
 - MAXAM, AS80 and UZ80 compatibility"
-HOMEPAGE="http://www.roudoudou.com/rasm/"
+HOMEPAGE="https://www.roudoudou.com/rasm/"
 COPYRIGHT="2017-2025 Édouard Bergé"
 LICENSE="MIT"
 SOURCE_URI="https://github.com/EdouardBERGE/rasm/archive/refs/tags/v$portVersion.tar.gz"

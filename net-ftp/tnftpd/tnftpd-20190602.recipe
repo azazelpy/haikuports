@@ -1,7 +1,7 @@
 SUMMARY="Internet File Transfer Protocol server"
 DESCRIPTION="the Internet File Transfer Protocol server process.
 The server uses the TCP protocol and listens at the FTP port (21 by default)"
-HOMEPAGE="http://ftp.netbsd.org/pub/NetBSD/misc/tnftp/"
+HOMEPAGE="https://ftp.netbsd.org/pub/NetBSD/misc/tnftp/"
 COPYRIGHT="2001-2019 The NetBSD foundation"
 LICENSE="BSD (2-clause)"
 REVISION="1"

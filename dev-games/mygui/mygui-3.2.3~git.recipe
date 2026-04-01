@@ -10,7 +10,7 @@ All resources and settings are described in XML files. It is possible to load \
 resources like fonts, cursors, images, skins, etc. Forms (layouts) via dynamically \
 by using XML files. Simplicity The user interface is easy to use and uses delegates \
 (Signals and slots) for easy to use event handling."
-HOMEPAGE="http://mygui.info/"
+HOMEPAGE="https://mygui.info/"
 COPYRIGHT="Albert Semenov
 	George Evmenov"
 LICENSE="MIT"

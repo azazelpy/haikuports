@@ -3,7 +3,7 @@ DESCRIPTION="\
 Urdu language font developed according to calligraphic rules, following the \
 style of one of the finest calligraphers of Pakistan (Nafees Raqam).
 "
-HOMEPAGE="http://cle.org,pk/software/localization/Fonts/nafeesNastaleeq.html"
+HOMEPAGE="https://cle.org,pk/software/localization/Fonts/nafeesNastaleeq.html"
 COPYRIGHT="2004 Center for Research in Urdu Language Processing"
 LICENSE="CRULP"
 REVISION="3"

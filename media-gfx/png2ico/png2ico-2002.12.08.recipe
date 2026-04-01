@@ -1,6 +1,6 @@
 SUMMARY="Converts PNG files to Windows icon resource files"
 DESCRIPTION="png2ico converts .PNG files to Windows .ICO icon resources"
-HOMEPAGE="http://winterdrache.de/freeware/png2ico/"
+HOMEPAGE="https://winterdrache.de/freeware/png2ico/"
 COPYRIGHT="Free Software Foundation"
 LICENSE="GNU GPL v2"
 REVISION="2"

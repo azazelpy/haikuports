@@ -3,7 +3,7 @@ DESCRIPTION="An open source reimplementation \
 of Janusz Pelc's Robbo for the Atari XE/XL which was distributed \
 by LK Avalon in 1989. In this retro game, you can collect and reach the \
 UFO-like object."
-HOMEPAGE="http://gnurobbo.sourceforge.net/"
+HOMEPAGE="https://gnurobbo.sourceforge.net/"
 COPYRIGHT="2002-2010 The GNU Robbo Team"
 LICENSE="GNU LGPL v2.1"
 REVISION="2"

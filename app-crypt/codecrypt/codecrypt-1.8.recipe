@@ -1,7 +1,7 @@
 SUMMARY="Post-quantum cryptography tool"
 DESCRIPTION="GnuPG-like unix program for encryption and signing that uses only \
 quantum-computer-resistant algorithms"
-HOMEPAGE="http://e-x-a.org/codecrypt"
+HOMEPAGE="https://e-x-a.org/codecrypt"
 COPYRIGHT="2013-2016 Mirek Kratochvil"
 LICENSE="GNU GPL v3
 	GNU LGPL v3

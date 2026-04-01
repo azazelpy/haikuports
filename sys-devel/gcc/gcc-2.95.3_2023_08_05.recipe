@@ -5,7 +5,7 @@ SUMMARY_syslibs_devel="C/C++-runtime static libraries, needed to build Haiku"
 DESCRIPTION_syslibs_devel="This package is not of general interest - it \
 contains the set of gcc's c/c++-runtime libraries that is required by Haiku's \
 build system when building Haiku."
-HOMEPAGE="http://gcc.gnu.org"
+HOMEPAGE="https://gcc.gnu.org"
 COPYRIGHT="1988-2000 Free Software Foundation, Inc."
 LICENSE="GNU GPL v2
 	GNU LGPL v2"

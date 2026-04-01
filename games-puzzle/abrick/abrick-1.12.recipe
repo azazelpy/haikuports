@@ -6,7 +6,7 @@ When you manage to complete a horizontal line, it disappears. When screen \
 is full the game is over. The game speeds up whenever the lines are full. \
 Therefore, it's better to fill as many lines you can at once. That way you \
 can reach higher levels with the same speed."
-HOMEPAGE="http://www.abrick.sourceforge.net"
+HOMEPAGE="https://www.abrick.sourceforge.net"
 COPYRIGHT="2004-2005 Milan Babuskov"
 LICENSE="GNU GPL v2"
 REVISION="2"

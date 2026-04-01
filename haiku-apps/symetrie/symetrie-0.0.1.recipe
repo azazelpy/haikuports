@@ -1,7 +1,7 @@
 SUMMARY="A screen saver based on Symetrie demo by Řrřola"
 DESCRIPTION="A strange attractor randomly choosing among three Moebius \
 transformations with changing parameters."
-HOMEPAGE="http://rrrola.wz.cz"
+HOMEPAGE="https://rrrola.wz.cz"
 COPYRIGHT="2009 Jan Kadlec (Řrřola), 2010-2015 3dEyes**"
 LICENSE="Public Domain"
 REVISION="5"

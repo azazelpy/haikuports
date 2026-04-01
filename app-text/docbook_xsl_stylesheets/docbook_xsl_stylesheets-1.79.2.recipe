@@ -5,7 +5,7 @@ presentation-neutral form that captures the logical structure of your content. \
 Using free tools along with the DocBook XSL stylesheets, you can publish your \
 content as HTML pages and PDF files, and in many other formats.
 "
-HOMEPAGE="http://docbook.sourceforge.net"
+HOMEPAGE="https://docbook.sourceforge.net"
 COPYRIGHT="
 	1999-2007 Norman Walsh
 	2003 Jiří Kosek

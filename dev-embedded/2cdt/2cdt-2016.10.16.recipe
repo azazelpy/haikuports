@@ -21,7 +21,7 @@ emulator authors to support this tape-image format in their programs.
 This tool is designed to \"inject\" one or more file into a .CDT in the \
 format written  by the Amstrad operating system. The tool allows the user to
 define the .CDT \"recording\" method and baud rate."
-HOMEPAGE="http://cpctech.org.uk/"
+HOMEPAGE="https://cpctech.org.uk/"
 COPYRIGHT="2000-2014 Kevin Thacker"
 LICENSE="GNU GPL v2"
 REVISION="1"

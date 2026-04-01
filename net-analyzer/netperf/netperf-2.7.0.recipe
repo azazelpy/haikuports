@@ -8,7 +8,7 @@ measureable by netperf include:
 - DLPI
 - Unix Domain Sockets
 - SCTP for both IPv4 and IPv6"
-HOMEPAGE="http://netperf.org"
+HOMEPAGE="https://netperf.org"
 COPYRIGHT="1993 Hewlett-Packard Company"
 LICENSE="netperf"
 REVISION="1"

@@ -1,7 +1,7 @@
 SUMMARY="A clone of the classic Missile Command game"
 DESCRIPTION="Penguin Command is a clone of the classic Missile Command game, \
 but has better graphics and sound. The gameplay has been slightly modified."
-HOMEPAGE="http://www.linux-games.com/penguin-command/"
+HOMEPAGE="https://www.linux-games.com/penguin-command/"
 COPYRIGHT="2007 Karl Bartel, Skaven"
 LICENSE="GNU GPL v2"
 REVISION="2"

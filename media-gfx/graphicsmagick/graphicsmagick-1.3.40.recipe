@@ -8,7 +8,7 @@ jpeg, tiff, bmp or xpm to special-purpose formats such as fits or image \
 formats found on some photo CDs. They can convert between formats, \
 concatenate several images into one, annotate and distort them, create \
 thumbnails or manipulate the colormap."
-HOMEPAGE="http://www.graphicsmagick.org"
+HOMEPAGE="https://www.graphicsmagick.org"
 COPYRIGHT="2002-2020 GraphicsMagick Group"
 LICENSE="MIT"
 REVISION="2"

@@ -2,7 +2,7 @@ SUMMARY="The Oracle Berkeley Database"
 DESCRIPTION="The Oracle Berkeley DB family of open source, embeddable \
 databases provides developers with fast, reliable, local persistence with zero \
 administration."
-HOMEPAGE="http://www.oracle.com/technetwork/database/berkeleydb/index.html"
+HOMEPAGE="https://www.oracle.com/technetwork/database/berkeleydb/index.html"
 COPYRIGHT="1990-2013, Oracle
 	1990-1995, The Regents of the University of California
 	1996-1996, The President and Fellows of Harvard University

@@ -7,7 +7,7 @@ in-line TeX to give access to virtually all of MusiXTeX. For proof-listening, pm
 MIDI file of your score.
 
 scor2prt is an auxiliary program that makes parts from a score."
-HOMEPAGE="http://icking-music-archive.org/software/htdocs/index.html"
+HOMEPAGE="https://icking-music-archive.org/software/htdocs/index.html"
 COPYRIGHT="Don Simons"
 LICENSE="GNU GPL v3"
 REVISION="1"

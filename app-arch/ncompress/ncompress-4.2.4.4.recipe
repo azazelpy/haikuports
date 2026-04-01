@@ -3,7 +3,7 @@ DESCRIPTION="Compress is a fast, simple LZW file compressor. Compress does not \
 have the highest compression rate, but it is one of the fastest programs to \
 compress data. Compress is the defacto standard in the UNIX community for \
 compressing files."
-HOMEPAGE="http://ncompress.sourceforge.net/"
+HOMEPAGE="https://ncompress.sourceforge.net/"
 COPYRIGHT="Mike Frysinger
 	Spencer W. Thomas
 	Jim McKie

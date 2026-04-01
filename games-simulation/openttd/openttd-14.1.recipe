@@ -3,7 +3,7 @@ DESCRIPTION="OpenTTD is an open source simulation game based upon the popular Mi
 game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to \
 mimic the original game as closely as possible while extending it with new \
 features."
-HOMEPAGE="http://www.openttd.org"
+HOMEPAGE="https://www.openttd.org"
 COPYRIGHT="2005-2024 OpenTTD Team"
 LICENSE="GNU GPL v2"
 REVISION="1"

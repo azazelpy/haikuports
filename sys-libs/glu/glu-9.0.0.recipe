@@ -2,7 +2,7 @@ SUMMARY="OpenGL Utility Library"
 DESCRIPTION="The OpenGL Utility Library (GLU) is a computer graphics library for OpenGL. \
 It consists of a number of functions that use the base OpenGL library to provide \
 higher-level drawing routines from the more primitive routines that OpenGL provides."
-HOMEPAGE="http://freedesktop.org"
+HOMEPAGE="https://freedesktop.org"
 COPYRIGHT="1999-2012 Brian Paul and others"
 LICENSE="MIT"
 REVISION="8"

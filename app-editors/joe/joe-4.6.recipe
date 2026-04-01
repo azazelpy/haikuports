@@ -3,7 +3,7 @@ DESCRIPTION="Joe's Own Editor is a full-featured text editor with minimal requir
 It is fully customizable (Emacs, pico or WordStar are preset). Is also has multiple \
 windows, hexadecimal edit mode for binary files or syntax highlighting for more than 40 languages. \
 It also supports mouse for both text and window manipulation."
-HOMEPAGE="http://joe-editor.sourceforge.net/"
+HOMEPAGE="https://joe-editor.sourceforge.net/"
 COPYRIGHT="1992, 2004, 2006, 2015 Joseph H. Allen"
 LICENSE="GNU GPL v1"
 REVISION="2"

@@ -1,7 +1,7 @@
 SUMMARY="An emulator for the Commodore64 computers"
 DESCRIPTION="Emulates the C64, the C64DTV, the C128, the VIC20, almost all \
 PET models, the PLUS4 and the CBM-II (aka C610)."
-HOMEPAGE="http://vice-emu.sourceforge.net/"
+HOMEPAGE="https://vice-emu.sourceforge.net/"
 COPYRIGHT="1998-2012 Dag Lem
 	1999-2012 Andreas Matthies
 	1999-2012 Martin Pottendorfer

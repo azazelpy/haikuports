@@ -2,7 +2,7 @@ SUMMARY="A command-line program for playing FLAC audio files"
 DESCRIPTION="flac-tools aims to be a complete set of tools for playing and \
 manipulating audio files stored in the FLAC format. flac123 is the only \
 component of flac-tools at this time."
-HOMEPAGE="http://flac-tools.sourceforge.net/"
+HOMEPAGE="https://flac-tools.sourceforge.net/"
 COPYRIGHT="2003-2012 Jake Angerman, Dan Johnson, Hans Oesterholt"
 LICENSE="GNU GPL v2"
 REVISION="3"

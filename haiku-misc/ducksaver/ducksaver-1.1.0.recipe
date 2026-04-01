@@ -1,7 +1,7 @@
 SUMMARY="A screensaver with ducks"
 DESCRIPTION="DuckSaver is a screen saver which transforms your screen into a \
 duck pool."
-HOMEPAGE="http://maybe.de/software/ducksaver"
+HOMEPAGE="https://maybe.de/software/ducksaver"
 COPYRIGHT="2002-2008, Werner Freytag, 2009-2014 Haiku, Inc."
 LICENSE="MIT"
 REVISION="3"

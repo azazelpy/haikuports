@@ -2,7 +2,7 @@ SUMMARY="C++ libraries for multimedia streaming"
 DESCRIPTION="live555 forms a set of C++ libraries for multimedia streaming \
 using open standard protocols. The library can be used to build streaming \
 applications using various audio and video codecs."
-HOMEPAGE="http://www.live555.com/liveMedia/"
+HOMEPAGE="https://www.live555.com/liveMedia/"
 COPYRIGHT="Live Networks, Inc."
 LICENSE="GNU LGPL v2.1"
 REVISION="6"

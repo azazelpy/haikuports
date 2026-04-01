@@ -1,7 +1,7 @@
 SUMMARY="Author a DVD-Audio DVD"
 DESCRIPTION="A set of tools for authoring and playback of unencrypted \
 and uncompressed audio on DVD-Audio discs and hybrid DVD-Audio/Video discs."
-HOMEPAGE="http://dvd-audio.sourceforge.net"
+HOMEPAGE="https://dvd-audio.sourceforge.net"
 COPYRIGHT="2005 Dave Chapman"
 LICENSE="GNU GPL v2"
 REVISION="2"

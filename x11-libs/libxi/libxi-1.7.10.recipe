@@ -3,7 +3,7 @@ DESCRIPTION="libxi is an extension to the X11 protocol to support input \
 devices other than the core X keyboard and pointer. It allows client programs \
 to select input from these devices independently from each other and \
 independently from the core devices."
-HOMEPAGE="http://xorg.freedesktop.org/releases/individual/lib/"
+HOMEPAGE="https://xorg.freedesktop.org/releases/individual/lib/"
 COPYRIGHT="1989, 1998 The Open Group"
 LICENSE="MIT (no promotion)"
 REVISION="2"

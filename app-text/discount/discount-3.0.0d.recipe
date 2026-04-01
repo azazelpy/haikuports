@@ -4,7 +4,7 @@ suitable for marking down entire documents or lines of text, a command-line \
 program that you can use to mark down documents interactively or from a \
 script, and a tiny (3 programs so far) suite of example programs that show \
 how to fully utilize the markdown library."
-HOMEPAGE="http://www.pell.portland.or.us/~orc/Code/discount/"
+HOMEPAGE="https://www.pell.portland.or.us/~orc/Code/discount/"
 COPYRIGHT="2007-2024 David Loren Parsons"
 LICENSE="BSD (4-clause)"
 REVISION="2"

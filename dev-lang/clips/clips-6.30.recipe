@@ -3,7 +3,7 @@ DESCRIPTION="CLIPS is an OPS-like forward chaining production system \
 written in ANSI C by NASA. The CLIPS inference engine \
 includes truth maintenance, dynamic rule addition, and \
 customizable conflict resolution strategies."
-HOMEPAGE="http://www.clipsrules.net"
+HOMEPAGE="https://www.clipsrules.net"
 COPYRIGHT="1985-2015, NASA, Gary Riley"
 LICENSE="MIT"
 REVISION="1"

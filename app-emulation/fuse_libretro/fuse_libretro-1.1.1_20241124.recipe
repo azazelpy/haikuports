@@ -2,7 +2,7 @@ SUMMARY="A ZX Spectrum emulator core for libretro"
 DESCRIPTION="Fuse (the Free Unix Spectrum Emulator) was originally, and \
 somewhat unsurprisingly, a ZX Spectrum emulator for Unix. However, it has now \
 also been ported to libretro."
-HOMEPAGE="http://fuse-emulator.sourceforge.net/"
+HOMEPAGE="https://fuse-emulator.sourceforge.net/"
 COPYRIGHT="1999-2020, the Fuse team, the libretro team"
 LICENSE="GNU GPL v3"
 REVISION="1"

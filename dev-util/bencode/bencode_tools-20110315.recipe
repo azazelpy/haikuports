@@ -5,7 +5,7 @@ on bencode format.
 
 This was formerly named typevalidator. With the introduction of \
 libbencodetools the project is named bencode-tools."
-HOMEPAGE="http://zakalwe.fi/~shd/foss/bencode-tools/"
+HOMEPAGE="https://zakalwe.fi/~shd/foss/bencode-tools/"
 COPYRIGHT="2002-2005 Bram Cohen and Ross Cohen"
 LICENSE="Public Domain
 	BSD (3-clause)"

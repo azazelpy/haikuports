@@ -1,7 +1,7 @@
 SUMMARY="A generic library of support scripts"
 DESCRIPTION="GNU libtool is a set of shell scripts to automatically configure \
 UNIX architectures to build shared libraries in a generic fashion."
-HOMEPAGE="http://www.gnu.org/software/libtool"
+HOMEPAGE="https://www.gnu.org/software/libtool"
 COPYRIGHT="2004-2022 Free Software Foundation, Inc."
 LICENSE="GNU GPL v2"
 REVISION="1"

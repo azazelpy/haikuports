@@ -16,7 +16,7 @@ The program being debugged can be written in Ada, C, C++, Objective-C, Pascal \
 (and many other languages). Those programs might be executing on the same \
 machine as GDB (native) or on another machine (remote). GDB can run on most \
 popular UNIX and Microsoft Windows variants."
-HOMEPAGE="http://sourceware.org/gdb/"
+HOMEPAGE="https://sourceware.org/gdb/"
 COPYRIGHT="Free Software Foundation"
 LICENSE="GNU GPL v3"
 REVISION="3"

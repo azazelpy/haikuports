@@ -1,7 +1,7 @@
 SUMMARY="Catalog add-on for IFF locale files"
 DESCRIPTION="This catalog add-on loads catalogs in IFF format, as used for
 localization on AmigaOS and other Amiga-like systems."
-HOMEPAGE="http://pulkomandy.tk/_/_Development/_IFFCatalog"
+HOMEPAGE="https://pulkomandy.tk/_/_Development/_IFFCatalog"
 COPYRIGHT="2015-2023 Adrien Destugues"
 LICENSE="MIT"
 REVISION="1"

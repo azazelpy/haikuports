@@ -10,7 +10,7 @@ then build CPMTOOLS, using \"./configure --with-libdsk\". For CPMTOOLS 1.9 or \
 * Emulators - it is possible to use LIBDSK as part of an emulator's floppy \
 controller emulation, thus giving the emulator transparent access to .DSK \
 files or real discs."
-HOMEPAGE="http://www.seasip.info/Unix/LibDsk/"
+HOMEPAGE="https://www.seasip.info/Unix/LibDsk/"
 COPYRIGHT="2010-2018 John Elliott"
 LICENSE="GNU GPL v2"
 REVISION="2"

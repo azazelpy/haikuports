@@ -2,7 +2,7 @@ SUMMARY="A paging program similar to 'more' and 'less'"
 DESCRIPTION="'Most' is a powerful paging program for Unix, VMS, MSDOS, and win32 systems. \
 Unlike other well-known paging programs 'most' supports multiple windows and can \
 scroll left and right. Why settle for less?"
-HOMEPAGE="http://www.jedsoft.org/most/"
+HOMEPAGE="https://www.jedsoft.org/most/"
 COPYRIGHT="1991-2022 John E. Davis"
 LICENSE="GNU GPL v2"
 REVISION="1"

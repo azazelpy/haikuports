@@ -2,7 +2,7 @@ SUMMARY="A PNG optimizer, making PNG files smaller"
 DESCRIPTION="OptiPNG is a PNG optimizer, recompressing PNG files so they \
 become smaller, without losing any information. Additionally, OptiPNG can \
 convert other image formats, such as BMP, GIF, PNM and TIFF, to PNG files."
-HOMEPAGE="http://optipng.sourceforge.net/"
+HOMEPAGE="https://optipng.sourceforge.net/"
 COPYRIGHT="2001-2023 Cosmin Truta and the Contributing Authors"
 LICENSE="Zlib"
 REVISION="1"

@@ -6,7 +6,7 @@ It provides a suite of vector, matrix and quaternion classes to perform \
 basic geometry suitable for game developers. This functionality can be used \
 to construct geometry for graphics libraries like OpenGL or perform \
 calculations for animation or physics systems"
-HOMEPAGE="http://google.github.io/mathfu"
+HOMEPAGE="https://google.github.io/mathfu"
 COPYRIGHT="2014-2015 Google Inc."
 LICENSE="Apache v2"
 REVISION="1"

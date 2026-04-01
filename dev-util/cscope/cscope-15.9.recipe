@@ -9,7 +9,7 @@ Allows searching code for:
 * regular expression pattern
 * a file
 * files including a file"
-HOMEPAGE="http://cscope.sourceforge.net/"
+HOMEPAGE="https://cscope.sourceforge.net/"
 COPYRIGHT="1998-2000 The Santa Cruz Operation"
 LICENSE="BSD (3-clause)"
 REVISION="1"

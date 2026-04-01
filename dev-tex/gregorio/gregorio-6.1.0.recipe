@@ -2,7 +2,7 @@ SUMMARY="Tools for typesetting Gregorian chant"
 DESCRIPTION="Gregorio is a software application for engraving Gregorian Chant scores on a \
 computer. Gregorio's main job is to convert a gabc file (simple text representation of a score) \
 into a GregorioTeX file, which makes TeX able to create a PDF of your score."
-HOMEPAGE="http://gregorio-project.github.io/"
+HOMEPAGE="https://gregorio-project.github.io/"
 COPYRIGHT="2007-2025 The Gregorio Project"
 LICENSE="GNU GPL v3"
 REVISION="1"

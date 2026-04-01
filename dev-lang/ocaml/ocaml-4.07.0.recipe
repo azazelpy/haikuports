@@ -11,7 +11,7 @@ a powerful module system and a full-fledged object-oriented layer. It comes \
 with a native-code compiler that supports numerous architectures, for high \
 performance; a bytecode compiler, for increased portability; and an \
 interactive loop, for experimentation and rapid development."
-HOMEPAGE="http://caml.inria.fr/index.en.html"
+HOMEPAGE="https://caml.inria.fr/index.en.html"
 COPYRIGHT="1996-2018 Institut National de Recherche en Informatique et en Automatique (INRIA)"
 LICENSE="GNU LGPL v2"
 REVISION="2"

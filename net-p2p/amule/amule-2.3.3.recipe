@@ -12,7 +12,7 @@ the two easily.
 Since aMule is based upon the eMule codebase, new features in eMule tend to find their way into \
 aMule soon after their inclusion into eMule so users of aMule can expect to ride the cutting-edge \
 of ED2k clients."
-HOMEPAGE="http://www.amule.org/"
+HOMEPAGE="https://www.amule.org/"
 COPYRIGHT="2003-2020 aMule Team"
 LICENSE="GNU GPL v2"
 REVISION="5"

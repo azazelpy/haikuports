@@ -1,7 +1,7 @@
 SUMMARY="Czech dictionary for aspell program/library"
 DESCRIPTION="Czech dictionary for the GNU Aspell program, an open source \
 spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2003-2009 Joan Moratinos"
 LICENSE="GNU GPL v2"
 REVISION="1"

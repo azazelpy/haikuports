@@ -1,7 +1,7 @@
 SUMMARY="Serbian dictionary for aspell program/library"
 DESCRIPTION="Serbian (Srpski/Српски) dictionary for the GNU Aspell program, an \
 open source spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2005 Goran Rakic (Горан Ракић)"
 LICENSE="GNU LGPL v2.1"
 REVISION="1"

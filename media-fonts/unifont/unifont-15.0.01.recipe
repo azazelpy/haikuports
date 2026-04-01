@@ -3,7 +3,7 @@ DESCRIPTION="GNU Unifont is part of the GNU Project. \
 The GNU Unifont by Roman Czyborra is a free bitmap font that covers the \
 Unicode Basic Multilingual Plane (BMP), using an intermediate bitmapped \
 font format."
-HOMEPAGE="http://unifoundry.com"
+HOMEPAGE="https://unifoundry.com"
 COPYRIGHT="2008-2022 Unifoundry"
 LICENSE="GNU GPL v2"
 REVISION="1"

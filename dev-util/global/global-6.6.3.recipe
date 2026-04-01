@@ -6,7 +6,7 @@ for hacking a large project containing many sub-directories, many #ifdef and \
 many main() functions. It is similar to ctags or etags but is different from \
 them at the point of independence of any editor. It runs on a UNIX(POSIX) \
 compatible operating system like GNU and BSD."
-HOMEPAGE="http://www.gnu.org/software/global/"
+HOMEPAGE="https://www.gnu.org/software/global/"
 COPYRIGHT="2000-2013 Tama Communications Corporation
 	2007-2013 Free Software Foundation, Inc."
 LICENSE="GNU GPL v3"

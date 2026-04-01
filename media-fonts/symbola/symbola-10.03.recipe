@@ -1,7 +1,7 @@
 SUMMARY="Unicode font for ancient scripts"
 DESCRIPTION="Basic Latin, Greek, Cyrillic, and many Symbol blocks of The \
 Unicode Standard, Version 7.0"
-HOMEPAGE="http://users.teilar.gr/~g1951d"
+HOMEPAGE="https://users.teilar.gr/~g1951d"
 COPYRIGHT="None"
 LICENSE="Public Domain"
 REVISION="1"

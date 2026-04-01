@@ -12,7 +12,7 @@ Wings 3D offers a wide range of modeling tools, a customizable interface, \
 support for lights and materials, and a built-in AutoUV mapping facility.
 
 There is no support in Wings for animation."
-HOMEPAGE="http://www.wings3d.com/"
+HOMEPAGE="https://www.wings3d.com/"
 COPYRIGHT="Bjorn Gustavsson, and other parties"
 LICENSE="wings"
 REVISION="1"

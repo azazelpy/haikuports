@@ -2,7 +2,7 @@ SUMMARY="Decompresses LZX archives on multiple platforms"
 DESCRIPTION="LZX is the name of an LZ77 family compression algorithm invented \
 by Johnathon Forbes and Tomi Poutanen. unlzx is a program designed to extract \
 these archives."
-HOMEPAGE="http://aminet.net/package/misc/unix/unlzx.c.gz"
+HOMEPAGE="https://aminet.net/package/misc/unix/unlzx.c.gz"
 COPYRIGHT="2001 Erik Meusel"
 LICENSE="Public Domain"
 REVISION="4"

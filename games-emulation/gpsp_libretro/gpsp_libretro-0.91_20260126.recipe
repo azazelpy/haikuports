@@ -2,7 +2,7 @@ SUMMARY="A port of gpSP, a Game Boy Advance emulator to the libretro API"
 DESCRIPTION="gpSP was initially a Nintendo Game Boy Advance emulator for the \
 Sony PlayStation Portable console, but is now available on various platforms \
 thanks to its Libretro core."
-HOMEPAGE="http://gpsp-dev.blogspot.com/"
+HOMEPAGE="https://gpsp-dev.blogspot.com/"
 COPYRIGHT="2007-2018 Exophase, the libretro team"
 LICENSE="GNU GPL v2"
 REVISION="1"

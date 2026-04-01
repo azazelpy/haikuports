@@ -4,7 +4,7 @@ easier for applications. It provides a High-Level Crypto API for \
 encryption, decryption, signing, signature verification and key management. \
 Currently it uses GnuPG as its backend but the API isn't restricted to \
 this engine; in fact we have already developed a backend for CMS (S/MIME)."
-HOMEPAGE="http://www.gnupg.org/gpgme.html"
+HOMEPAGE="https://www.gnupg.org/gpgme.html"
 COPYRIGHT="1998-2020 Free Software Foundation, Inc.
 	2001-2023 g10 Code GmbH"
 LICENSE="GNU GPL v2

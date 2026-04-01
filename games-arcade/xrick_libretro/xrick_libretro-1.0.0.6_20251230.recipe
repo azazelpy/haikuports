@@ -5,7 +5,7 @@ cracking and reverse-engineering the orignal IBM PC (x86 CPU) and Atari ST \
 structure, and the use of the SDL library, it has been reported to run on \
 Linux, Windows, BeOs, Amiga, QNX, etc. and all sorts of gaming consoles, \
 phones and devices."
-HOMEPAGE="http://www.xrick.net"
+HOMEPAGE="https://www.xrick.net"
 COPYRIGHT="2000-2021 Bigorno.net, the libretro team"
 LICENSE="xrick"
 REVISION="1"

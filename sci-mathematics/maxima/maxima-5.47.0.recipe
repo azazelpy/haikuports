@@ -5,7 +5,7 @@ Taylor series, Laplace transforms, ordinary differential equations, systems of l
 equations, and vectors, matrices, and tensors. Maxima produces high precision results by \
 using exact fractions and arbitrarily long floating point representations, and can plot \
 functions and data in two and three dimensions."
-HOMEPAGE="http://maxima.sourceforge.net/"
+HOMEPAGE="https://maxima.sourceforge.net/"
 COPYRIGHT="1984 Taiichi Yuasa and Masami Hagiya
 	1993 Giuseppe Attardi
 	2013 Juan J. Garcia-Ripoll

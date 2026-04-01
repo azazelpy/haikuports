@@ -2,7 +2,7 @@ SUMMARY="A high-level language for numerical computations"
 DESCRIPTION="GNU Octave is a high-level language, primarily intended for \
 numerical computations.  It provides a convenient command line interface \
 for solving linear and nonlinear problems numerically."
-HOMEPAGE="http://www.octave.org/"
+HOMEPAGE="https://www.octave.org/"
 COPYRIGHT="1996-2022 John W. Eaton
 	1993-2024 The Octave Project Developers"
 LICENSE="GNU GPL v3"

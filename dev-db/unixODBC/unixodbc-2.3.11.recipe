@@ -1,7 +1,7 @@
 SUMMARY="Open Source ODBC sub-system"
 DESCRIPTION="unixODBC is an Open Source ODBC sub-system and an ODBC SDK \
 for Linux, Mac OSX, and UNIX."
-HOMEPAGE="http://www.unixodbc.org/"
+HOMEPAGE="https://www.unixodbc.org/"
 COPYRIGHT="1999-2020 Peter Harvey, Nick Gorham"
 LICENSE="GNU GPL v2
 	GNU LGPL v2"

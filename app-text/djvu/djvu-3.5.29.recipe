@@ -1,7 +1,7 @@
 SUMMARY="Web-centric format for distributing documents and images"
 DESCRIPTION="DjVu is a web-centric format and software platform for distributing documents \
 and images."
-HOMEPAGE="http://djvulibre.sourceforge.net/"
+HOMEPAGE="https://djvulibre.sourceforge.net/"
 COPYRIGHT="2002 Leon Bottou and Yann Le Cun.
 	2001 AT&T
 	1999-2001 LizardTech, Inc."

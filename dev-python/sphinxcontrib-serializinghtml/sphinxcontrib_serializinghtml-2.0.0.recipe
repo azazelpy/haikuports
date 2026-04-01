@@ -1,7 +1,7 @@
 SUMMARY="A sphinx extension which outputs *serialized* HTML files"
 DESCRIPTION="sphinxcontrib-serializinghtml is a sphinx extension which outputs *serialized* HTML \
 files (json and pickle)."
-HOMEPAGE="http://sphinx-doc.org/
+HOMEPAGE="https://sphinx-doc.org/
 	https://pypi.org/project/sphinxcontrib-serializinghtml/"
 COPYRIGHT="2007-2019 by the Sphinx team"
 LICENSE="BSD (2-clause)"

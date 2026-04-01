@@ -15,7 +15,7 @@ features:
 
 Instructions for using CurlFtpFS on Haiku are available in \
 /system/documentation/packages/curlftpfs/readme.txt."
-HOMEPAGE="http://curlftpfs.sourceforge.net/"
+HOMEPAGE="https://curlftpfs.sourceforge.net/"
 COPYRIGHT="2006-2008 Robson Braga Araujo"
 LICENSE="GNU GPL v2"
 REVISION="3"

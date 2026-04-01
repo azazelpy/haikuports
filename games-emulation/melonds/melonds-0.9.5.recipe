@@ -1,6 +1,6 @@
 SUMMARY="Nintendo DS/DSi emulator"
 DESCRIPTION="MelonDS is an open source and feature-rich Nintendo DS/DSi emulator"
-HOMEPAGE="http://melonds.kuribo64.net/"
+HOMEPAGE="https://melonds.kuribo64.net/"
 COPYRIGHT="2016-2022 melonDS Team"
 LICENSE="GNU GPL v3"
 REVISION="2"

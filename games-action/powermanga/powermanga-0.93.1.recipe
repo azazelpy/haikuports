@@ -14,7 +14,7 @@ CTRL -> Aquire an activated option
 ESC -> Display menu
 P -> Pause the game
 F -> Toggle fullscreen"
-HOMEPAGE="http://linux.tlk.fr/games/Powermanga"
+HOMEPAGE="https://linux.tlk.fr/games/Powermanga"
 REVISION="2"
 COPYRIGHT="1998-2019 TLK Games"
 LICENSE="GNU GPL v3"

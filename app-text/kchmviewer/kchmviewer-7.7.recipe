@@ -12,7 +12,7 @@ chm file encoding and show it. It correctly shows the index and table of context
 in Russian, Spanish, Romanian, Korean, Chinese and Arabic help files, and with \
 new search engine is able to search in any chm file no matter what language \
 it is written."
-HOMEPAGE="http://www.ulduzsoft.com/linux/kchmviewer/"
+HOMEPAGE="https://www.ulduzsoft.com/linux/kchmviewer/"
 COPYRIGHT="George Yunaev"
 LICENSE="GNU GPL v3"
 REVISION="3"

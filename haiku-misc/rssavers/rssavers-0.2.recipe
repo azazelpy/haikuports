@@ -2,7 +2,7 @@ SUMMARY="Really Slick Screen Savers"
 DESCRIPTION="The Really Slick Screen Savers are a set of, as the name implies,\
 really slick screen savers! Originally made for Windows, these have been ported\
  to Linux and Haiku too!"
-HOMEPAGE="http://reallyslick.com/screensavers/"
+HOMEPAGE="https://reallyslick.com/screensavers/"
 COPYRIGHT="1999-2010  Terence M. Welsh\
 2014 Puck Meerburg (Haiku part)"
 LICENSE="GNU GPL v2"

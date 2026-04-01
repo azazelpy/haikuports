@@ -1,7 +1,7 @@
 SUMMARY="French dictionary for aspell program/library"
 DESCRIPTION="French dictionary for the GNU Aspell program, an open source \
 spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2001-2002 Rémi Vanicat, GUTenberg association, Christophe Pythoud
 	2002-2003 Kevin Atkinson"
 LICENSE="GNU GPL v2"

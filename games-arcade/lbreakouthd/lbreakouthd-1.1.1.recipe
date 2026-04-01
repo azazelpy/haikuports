@@ -1,7 +1,7 @@
 SUMMARY="A fun breakout-style arcade game"
 DESCRIPTION="LBreakoutHD is a scaleable 16:9 remake of LBreakout2. You try to clear levels full of \
 different types of bricks and extras by using your paddle to aim balls at the bricks."
-HOMEPAGE="http://lgames.sourceforge.net/"
+HOMEPAGE="https://lgames.sourceforge.net/"
 COPYRIGHT="2018-2022 Michael Speck"
 LICENSE="GNU GPL v3"
 REVISION="1"

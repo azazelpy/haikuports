@@ -22,7 +22,7 @@ Some of the major features of Universal Ctags are:
     * new extended C/C++ language parser, etc.
 * fully extended optlib (a feature to define a new language parser from a command line)
 * interactive mode (experimental)"
-HOMEPAGE="http://ctags.sourceforge.net/
+HOMEPAGE="https://ctags.sourceforge.net/
 	https://github.com/universal-ctags/ctags"
 COPYRIGHT="1996-2009, Darren Hiebert"
 LICENSE="GNU GPL v2"

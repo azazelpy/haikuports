@@ -1,6 +1,6 @@
 SUMMARY="Standard EXT2/EXT3/EXT4 filesystem utilities"
 DESCRIPTION="Various tools to manage EXT2,3,4 filesystems (resize, etc)"
-HOMEPAGE="http://e2fsprogs.sourceforge.net/"
+HOMEPAGE="https://e2fsprogs.sourceforge.net/"
 COPYRIGHT="2004-2018 Theodore Ts'o"
 LICENSE="GNU GPL v2"
 REVISION="1"

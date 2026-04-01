@@ -2,7 +2,7 @@ SUMMARY="Open Motorsport Simulator"
 DESCRIPTION="Speed Dreams is a 3d cross-platform, open source motorsport \
 simulation and racing game.  It is also intended for any research, study or \
 teaching activity, around physics and AI."
-HOMEPAGE="http://www.speed-dreams.org/"
+HOMEPAGE="https://www.speed-dreams.org/"
 COPYRIGHT="2009-2018 Jean-Philippe Meuret"
 LICENSE="GNU GPL v2"
 REVISION="2"

@@ -2,7 +2,7 @@ SUMMARY="Use a text editor, make a PDF"
 DESCRIPTION="The rst2pdf tool creates PDF documents from your ReStructured Text markup. It is an \
 Open Source, free-to-use tool that will help you create documents, slide decks and other PDF \
 output very quickly and easily."
-HOMEPAGE="http://rst2pdf.github.io/"
+HOMEPAGE="https://rst2pdf.github.io/"
 COPYRIGHT="2007-2020 Roberto Alsina and the contributors to the rst2pdf project"
 LICENSE="MIT"
 REVISION="2"

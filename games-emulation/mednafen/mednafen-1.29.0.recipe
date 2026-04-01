@@ -24,7 +24,7 @@ documentation for more details): \
  - Sega Genesis/Megadrive
  - Sega Master System
  - Sony PlayStation"
-HOMEPAGE="http://mednafen.fobby.net/"
+HOMEPAGE="https://mednafen.fobby.net/"
 COPYRIGHT="2005-2022 Mednafen Team"
 LICENSE="GNU GPL v2"
 REVISION="3"

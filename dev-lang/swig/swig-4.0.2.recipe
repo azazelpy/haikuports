@@ -14,7 +14,7 @@ and generate the 'glue code' required for the above target languages to call \
 into the C/C++ code. SWIG can also export its parse tree in the form of XML \
 and Lisp s-expressions. SWIG is free software and the code that SWIG \
 generates is compatible with both commercial and non-commercial projects."
-HOMEPAGE="http://www.swig.org/"
+HOMEPAGE="https://www.swig.org/"
 COPYRIGHT="1995-1998 University of Utah and the Regents of the University of California
 		1998-2005 University of Chicago
 		2005-2006 Arizona Board of Regents (University of Arizona)

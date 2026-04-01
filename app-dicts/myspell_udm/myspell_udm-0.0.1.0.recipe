@@ -1,6 +1,6 @@
 SUMMARY="Udmurt dictionary for hunspell/myspell"
 DESCRIPTION="Udmurt dictionary for hunspell/myspell."
-HOMEPAGE="http://fu-lab.ru/"
+HOMEPAGE="https://fu-lab.ru/"
 COPYRIGHT="2012 Григорий Григорьев (Grigoriy Grigoriev)
 2013 FU-Lab Team"
 LICENSE="GNU GPL v3"

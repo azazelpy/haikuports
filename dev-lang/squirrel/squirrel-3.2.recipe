@@ -3,7 +3,7 @@ DESCRIPTION="Squirrel is a light weight programming language featuring higher-or
 functions, classes/inheritance, delegation, tail recursion, generators, \
 cooperative threads, exception handling, reference counting and garbage \
 collection on demand.  C-like syntax."
-HOMEPAGE="http://www.squirrel-lang.org"
+HOMEPAGE="https://www.squirrel-lang.org"
 COPYRIGHT="2003-2016 Alberto Demichelis"
 LICENSE="MIT"
 REVISION="1"

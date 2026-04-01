@@ -4,7 +4,7 @@ fiction. It has been used for creating classic text adventure games in the \
 Infocom tradition, for developing commercial games, and for prototyping other \
 applications. In addition to an extremely sophisticated full-sentence-cognizant \
 interface."
-HOMEPAGE="http://www.generalcoffee.com/old/hugo.html"
+HOMEPAGE="https://www.generalcoffee.com/old/hugo.html"
 COPYRIGHT="1996-2005 Kent Tessman"
 LICENSE="hugo"
 REVISION="2"

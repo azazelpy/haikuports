@@ -3,7 +3,7 @@ DESCRIPTION="RetroShare creates encrypted connections to your friends. Nobody \
 can spy on you. RetroShare is completely decentralized. This means there are \
 no central servers. It is entirely Open-Source and free. There are no costs, \
 no ads and no Terms of Service."
-HOMEPAGE="http://retroshare.sourceforge.net/"
+HOMEPAGE="https://retroshare.sourceforge.net/"
 COPYRIGHT="2006-2021 RetroShare Team
 	1989-1991 Free Software Foundation Inc.
 	1995-1998 Eric Young

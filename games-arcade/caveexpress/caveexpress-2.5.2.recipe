@@ -3,7 +3,7 @@ DESCRIPTION="Master your pedal-powered flying machine to pick up packages \
 from your cave-dwelling clients and drop them off at the collection point. \
 But beware! Mighty mastodons, terrifying pterodactyls and others \
 would rather see you extinct."
-HOMEPAGE="http://www.caveproductions.org/"
+HOMEPAGE="https://www.caveproductions.org/"
 COPYRIGHT="2014-2021 Martin Gerhardy"
 LICENSE="GNU GPL v3"
 REVISION="1"

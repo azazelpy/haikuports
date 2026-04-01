@@ -10,7 +10,7 @@ IUP uses an abstract layout model based on the boxes-and-glue paradigm from \
 the TEX text editor. This model, combined with the dialog-specification \
 language (LED) or with the Lua binding (IupLua) makes the dialog creation task \
 more flexible and independent from the graphics system's resolution."
-HOMEPAGE="http://www.tecgraf.puc-rio.br/iup/"
+HOMEPAGE="https://www.tecgraf.puc-rio.br/iup/"
 COPYRIGHT="1994-2013 Tecgraf, PUC-Rio."
 LICENSE="MIT"
 REVISION="2"

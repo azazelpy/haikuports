@@ -2,7 +2,7 @@ SUMMARY="Numerical and networking C++ library"
 DESCRIPTION="Dlib is a modern C++ toolkit containing machine learning \
 algorithms and tools for creating complex software in C++ to solve real \
 world problems."
-HOMEPAGE="http://dlib.net/"
+HOMEPAGE="https://dlib.net/"
 COPYRIGHT="2003-2020 Davis E. King"
 LICENSE="Boost v1.0"
 REVISION="3"

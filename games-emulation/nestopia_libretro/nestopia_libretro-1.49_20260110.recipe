@@ -3,7 +3,7 @@ libretro API"
 DESCRIPTION="Nestopia is one of the most accurate NES emulators available \
 and is able to run 99% of commercial games close to perfection. This is the \
 libretro port of the emulator."
-HOMEPAGE="http://nestopia.sourceforge.net/"
+HOMEPAGE="https://nestopia.sourceforge.net/"
 COPYRIGHT="2012-2020 Martin Freij, 0ldSk00l, the libretro team"
 LICENSE="GNU GPL v2"
 REVISION="1"

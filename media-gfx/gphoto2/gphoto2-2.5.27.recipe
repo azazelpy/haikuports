@@ -5,7 +5,7 @@ camera operation that can be done. This is the main user interface.
 
 gphoto2 also provide convenient debugging features for camera driver \
 developers."
-HOMEPAGE="http://www.gphoto.org/"
+HOMEPAGE="https://www.gphoto.org/"
 COPYRIGHT="The gphoto2 team"
 LICENSE="GNU GPL v2"
 REVISION="1"

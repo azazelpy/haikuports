@@ -3,7 +3,7 @@ DESCRIPTION="Makeobj is a tool for graphics/pakset developers \
 and is not needed for playing the game.
 Makeobj joins both the image and the data files in a single \
 compressed pak-file that will then be read by the game engine."
-HOMEPAGE="http://www.simutrans.com"
+HOMEPAGE="https://www.simutrans.com"
 COPYRIGHT="1997-2004 Hj. Malthaner
 	2005-2018 The Simutrans Team"
 LICENSE="Artistic"

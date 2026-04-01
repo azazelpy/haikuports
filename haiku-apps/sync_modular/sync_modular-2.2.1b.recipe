@@ -33,7 +33,7 @@ the basic pieces. You can dig further into their internal structure. This is \
 only limited by your knowledge of DSP theory if you are willing to design \
 your own filters, rather than combining the existing ones. You can always use \
 filters created by someone else, of course"
-HOMEPAGE="http://www.sync-modular.org/"
+HOMEPAGE="https://www.sync-modular.org/"
 COPYRIGHT="1999-2000, Dr Sync"
 LICENSE="Sync_Modular"
 REVISION="3"

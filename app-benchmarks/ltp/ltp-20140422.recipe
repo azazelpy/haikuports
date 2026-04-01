@@ -5,7 +5,7 @@ that has a goal to deliver test suites to the open source community that \
 validate the reliability, robustness, and stability of Linux. The LTP \
 testsuite contains a collection of tools for testing the Linux kernel and \
 related features."
-HOMEPAGE="http://linux-test-project.github.io/"
+HOMEPAGE="https://linux-test-project.github.io/"
 COPYRIGHT="2002-2004 Intel Corporation
 	2004 QUALCOMM Inc.
 	2004-2005 Bull S.A."

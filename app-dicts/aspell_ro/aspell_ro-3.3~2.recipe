@@ -1,7 +1,7 @@
 SUMMARY="Romanian dictionary for aspell program/library"
 DESCRIPTION="Romanian (Română) dictionary for the GNU Aspell program, an open \
 source spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2003, 2008, 2010 Lucian Constantin, Alexandru Szasz, Ionut Paduraru \
 Adrian Stoica, Nicu Buculei, Catalin Francu, Ionel Mugurel Ciobica, Mihai Budiu"
 LICENSE="GNU GPL v2"

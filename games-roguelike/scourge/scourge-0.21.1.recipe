@@ -3,7 +3,7 @@ DESCRIPTION="S.C.O.U.R.G.E. is a roguelike game with a 3D user interface. \
 The game allows a group of four characters to search for treasure, kill \
 enemies, gain levels, etc. The code is C++ using SDL, OpenGL and freetype. \
 The game uses Squirrel for scripting."
-HOMEPAGE="http://sourceforge.net/projects/scourge/"
+HOMEPAGE="https://sourceforge.net/projects/scourge/"
 COPYRIGHT="2003-2008 The Scourge Team"
 LICENSE="GNU GPL v2"
 REVISION="1"

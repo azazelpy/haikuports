@@ -7,7 +7,7 @@ quickly data is passing through, how long it has taken, how near to \
 completion it is, and an estimate of how long it will be until completion. \
 Additional support is available for multiple instances working in tandem, \
 to given a visual indicator of relative throughput in a complex pipeline."
-HOMEPAGE="http://www.ivarch.com/programs/pv.shtml"
+HOMEPAGE="https://www.ivarch.com/programs/pv.shtml"
 COPYRIGHT="2015 Andrew Wood"
 LICENSE="GNU GPL v3"
 REVISION="1"

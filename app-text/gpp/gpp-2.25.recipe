@@ -3,7 +3,7 @@ DESCRIPTION="GPP is a general-purpose preprocessor with customizable syntax, \
 suitable for a wide range of preprocessing tasks. Its independence from any \
 programming language makes it much more versatile than cpp, while its syntax \
 is lighter and more flexible than that of m4."
-HOMEPAGE="http://files.nothingisreal.com/software/gpp/gpp.html"
+HOMEPAGE="https://files.nothingisreal.com/software/gpp/gpp.html"
 COPYRIGHT="1996–2001 Denis Auroux
 	2003-2004 Tristan Miller"
 LICENSE="GPP"

@@ -10,7 +10,7 @@ Features:
 * Runs in a browser with Emscripten (wasm and asm.js)
 * Runs on Windows, Mac, Linux and Haiku
 * Currently supports running multiple Wine Version: from 1.7 to Wine 5.0"
-HOMEPAGE="http://www.boxedwine.org/"
+HOMEPAGE="https://www.boxedwine.org/"
 COPYRIGHT="2021 danoon2"
 LICENSE="GNU GPL v2"
 REVISION="2"

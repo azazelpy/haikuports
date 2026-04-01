@@ -1,7 +1,7 @@
 SUMMARY="Slovak dictionary for aspell program/library"
 DESCRIPTION="Slovak dictionary for the GNU Aspell program, an open source \
 spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2002-2009 Zdenko Podobný
 	2008 Pavel Chalmovianský, Július Pastierik"
 LICENSE="GNU LGPL v2.1

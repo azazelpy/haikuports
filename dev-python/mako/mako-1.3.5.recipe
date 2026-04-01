@@ -8,7 +8,7 @@ Conceptually, Mako is an embedded Python (i.e. Python Server Page) language, \
 which refines the familiar ideas of componentized layout and inheritance to \
 produce one of the most straightforward and flexible models available, while \
 also maintaining close ties to Python calling and scoping semantics."
-HOMEPAGE="http://www.makotemplates.org"
+HOMEPAGE="https://www.makotemplates.org"
 COPYRIGHT="2006-2024 the Mako authors and contributors"
 LICENSE="MIT"
 REVISION="1"

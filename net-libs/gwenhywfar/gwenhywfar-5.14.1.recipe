@@ -1,6 +1,6 @@
 SUMMARY="Multi-platform helper library for security applications and libraries"
 DESCRIPTION="OS abstraction functions for various projects"
-HOMEPAGE="http://www.aqbanking.de"
+HOMEPAGE="https://www.aqbanking.de"
 COPYRIGHT="Martin Preuss"
 LICENSE="GNU LGPL v2"
 REVISION="1"

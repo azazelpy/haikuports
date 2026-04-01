@@ -4,7 +4,7 @@ To solve a level, fill each wheel with four marbles of matching color.
 Various board elements such as teleporters, switches, filters, etc., make the \
 game interesting and challenging.
 New levels can be created using your favorite text editor."
-HOMEPAGE="http://pathological.sourceforge.net/"
+HOMEPAGE="https://pathological.sourceforge.net/"
 COPYRIGHT="2003 John-Paul Gignac
 	2013 Debian Games Team
 	2013 Markus Koschany

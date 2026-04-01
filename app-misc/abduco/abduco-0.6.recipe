@@ -3,7 +3,7 @@ DESCRIPTION="abduco provides session management i.e. it allows programs to be
 run independently from their controlling terminal. That is programs can be
 detached - run in the background - and then later reattached. Together with
 \`dvtm\` it provides a simpler and cleaner alternative to tmux or screen."
-HOMEPAGE="http://www.brain-dump.org/projects/abduco"
+HOMEPAGE="https://www.brain-dump.org/projects/abduco"
 COPYRIGHT="2013-2016 Marc André Tanner"
 LICENSE="ISC"
 REVISION="2"

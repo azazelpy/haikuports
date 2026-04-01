@@ -5,7 +5,7 @@ It converts hiragana text to mixed kana and kanji. It is implemented as \
 a library and stores private information securely in ~/.anthy/. Thus, \
 Anthy is simple and secure (information is protected from spoofing and snooping).
 "
-HOMEPAGE="http://anthy.sourceforge.jp/"
+HOMEPAGE="https://anthy.sourceforge.jp/"
 COPYRIGHT="2000-2007 TABATA Yusuke, UGAWA Tomoharu
 	2004-2006 YOSHIDA Yuichi
 	2000-2007 KMC(Kyoto University Micro Computer Club)

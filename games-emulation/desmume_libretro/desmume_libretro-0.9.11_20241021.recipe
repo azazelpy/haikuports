@@ -3,7 +3,7 @@ DESCRIPTION="A port of the mature and longstanding DeSmuME emulator for \
 Nintendo's DS console to libretro. The core has very good compatibility \
 and many modern features, including increased internal resolution (very \
 demanding)."
-HOMEPAGE="http://desmume.org/"
+HOMEPAGE="https://desmume.org/"
 COPYRIGHT="2006-2021 YopYop156, Zeromus, the libretro team"
 LICENSE="GNU GPL v2"
 REVISION="1"

@@ -1,6 +1,6 @@
 SUMMARY="Exercise POSIX system calls"
 DESCRIPTION="pjdfstest is a test suite that helps exercise POSIX system calls."
-HOMEPAGE="http://people.freebsd.org/~pjd/pjdfstest"
+HOMEPAGE="https://people.freebsd.org/~pjd/pjdfstest"
 COPYRIGHT="2006-2012 Pawel Jakub Dawidek
 	Alan Somers
 	Ngie Cooper"

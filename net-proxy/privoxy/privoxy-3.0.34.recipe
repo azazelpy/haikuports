@@ -5,7 +5,7 @@ controlling access, and removing ads and other obnoxious Internet junk.
 Privoxy has a flexible configuration and can be customized to suit individual \
 needs and tastes. It has application for both stand-alone systems and multi-\
 user networks."
-HOMEPAGE="http://www.privoxy.org/"
+HOMEPAGE="https://www.privoxy.org/"
 COPYRIGHT="2001-2021 The Privoxy team"
 LICENSE="GNU GPL v2"
 REVISION="1"

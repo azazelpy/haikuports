@@ -1,7 +1,7 @@
 SUMMARY="Spell checking widget for GTK"
 DESCRIPTION="GtkSpell provides word-processor-style highlighting and replacement of misspelled \
 words in a GtkTextView widget. Right-clicking a misspelled word pops up a menu of suggested replacements."
-HOMEPAGE="http://gtkspell.sourceforge.net/"
+HOMEPAGE="https://gtkspell.sourceforge.net/"
 COPYRIGHT="2002 Evan Martin
 	2012-2013 Sandro Mani"
 LICENSE="GNU GPL v2"

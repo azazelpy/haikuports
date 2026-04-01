@@ -4,7 +4,7 @@ server, and a generic TCP proxy server, originally written by Igor Sysoev. \
 For a long time, it has been running on many heavily loaded Russian sites \
 including Yandex, Mail.Ru, VK, and Rambler. According to Netcraft, nginx \
 served or proxied 21.89% busiest sites in June 2015."
-HOMEPAGE="http://nginx.org/"
+HOMEPAGE="https://nginx.org/"
 COPYRIGHT="2002-2019 Igor Sysoev
 	2011-2022 Nginx, Inc."
 # "it's complicated", cf. http://packages.gentoo.org/package/www-servers/nginx

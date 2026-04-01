@@ -6,7 +6,7 @@ using native GUI on several platforms:
 * Win32 & MacOSX (Cocoa)
 The core library itself is platform-independent. The principal language is \
 C++, with some use of Cocoa/ObjC++; wrappers are provided for C and Cocoa/ObjC."
-HOMEPAGE="http://aiksaurus.sourceforge.net"
+HOMEPAGE="https://aiksaurus.sourceforge.net"
 COPYRIGHT="2001-2005 Jared Davis
 	2004 Dom Lachowicz
 	2001-2003 Francis J. Franklin

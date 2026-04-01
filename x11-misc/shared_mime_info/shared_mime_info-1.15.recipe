@@ -4,7 +4,7 @@ of common types and the update-mime-database command used to extend it. \
 It requires glib2 to be installed for building the update command. \
 Additionally, it uses intltool for translations, though this is only a \
 dependency for the maintainers."
-HOMEPAGE="http://freedesktop.org/wiki/Software/shared-mime-info"
+HOMEPAGE="https://freedesktop.org/wiki/Software/shared-mime-info"
 COPYRIGHT="2009-2019 Freedesktop.org"
 LICENSE="GNU GPL v2"
 REVISION="2"

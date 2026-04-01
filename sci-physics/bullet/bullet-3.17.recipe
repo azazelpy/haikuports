@@ -4,7 +4,7 @@ detection, rigid body and soft body dynamicslibrary written in portable C++. \
 The library is primarily designed for use in games, visual effects \
 and robotic simulation. The library is free for commercial use under \
 the ZLib license."
-HOMEPAGE="http://www.bulletphysics.com/"
+HOMEPAGE="https://www.bulletphysics.com/"
 COPYRIGHT="2003-2020 Erwin Coumans and the Bullet Physics Library Team"
 LICENSE="Zlib"
 REVISION="2"

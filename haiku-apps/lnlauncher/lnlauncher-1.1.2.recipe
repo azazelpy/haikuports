@@ -5,7 +5,7 @@ When minimized, the app shouldn't get in your way, the only thing you see is \
 the tiny handle.
 
 The latest version, 1.1.2, was adapted for Haiku by Daniel Weber - thank you!"
-HOMEPAGE="http://eiman.tv/LnLauncher"
+HOMEPAGE="https://eiman.tv/LnLauncher"
 COPYRIGHT="2000-2015 Mikael Eiman"
 LICENSE="MIT"
 REVISION="7"

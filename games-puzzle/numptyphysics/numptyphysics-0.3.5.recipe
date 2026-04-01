@@ -2,7 +2,7 @@ SUMMARY="A drawing puzzle game in the spirit (and style?) of Crayon Physics"
 DESCRIPTION="Harness gravity with your crayon and set about creating blocks, ramps, \
 levers, pulleys and whatever else you fancy to get the little red thing to \
 the little yellow thing."
-HOMEPAGE="http://numptyphysics.garage.maemo.org"
+HOMEPAGE="https://numptyphysics.garage.maemo.org"
 COPYRIGHT="2008-2010 Tim Edmonds
 	2008, 2012, 2014-2019 Thomas Perl"
 LICENSE="GNU GPL v3"

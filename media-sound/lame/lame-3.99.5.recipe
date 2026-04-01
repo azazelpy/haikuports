@@ -20,7 +20,7 @@ Directshow filter or ACM codec (Windows).
 quality mode.
 - MP3x: a GTK/X-Window MP3 frame analyzer for both .mp3 and unencoded audio \
 files."
-HOMEPAGE="http://lame.sourceforge.net/"
+HOMEPAGE="https://lame.sourceforge.net/"
 COPYRIGHT="1998-2012 Mike Cheng et al."
 LICENSE="GNU LGPL v2"
 REVISION="9"

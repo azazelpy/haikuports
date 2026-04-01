@@ -5,7 +5,7 @@ dSFMT directly generates double precision floating point pseudo-random \
 numbers which have the IEEE Standard for Binary Floating-Point Arithmetic \
 (ANSI/IEEE Std 754-1985) format. dSFMT is only available on the CPUs which \
 use IEEE 754 format double precision floating point numbers."
-HOMEPAGE="http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/#dSFMT"
+HOMEPAGE="https://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/#dSFMT"
 COPYRIGHT="2006,2007 Mutsuo Saito, Makoto Matsumoto and \
 Hiroshima University. \
 2012 Mutsuo Saito, Makoto Matsumoto, Hiroshima University \

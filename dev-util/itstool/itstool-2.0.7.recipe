@@ -16,7 +16,7 @@ applying standard ITS rules, as well as extension rules specific to ITS Tool. \
 ITS also provides an industry standard way for authors to override translation \
 information in their documents, such as whether a particular element should be \
 translated."
-HOMEPAGE="http://itstool.org/"
+HOMEPAGE="https://itstool.org/"
 COPYRIGHT="2010-2014 Shaun McCance"
 LICENSE="GNU GPL v3"
 REVISION="3"

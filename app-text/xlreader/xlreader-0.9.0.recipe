@@ -3,7 +3,7 @@ DESCRIPTION="Read data from Excel 97+ spread sheets without Microsoft Excel! \
 Provides an API to write applications that read Excel documents. The xlreader \
 tool converts data to tab delimited, CSV or SQL inserts. Written in C. Based on \
 the Java version by Andrew Khan."
-HOMEPAGE="http://giffin.org/xlreader"
+HOMEPAGE="https://giffin.org/xlreader"
 COPYRIGHT="2001 David Giffin"
 LICENSE="GNU GPL v2"
 REVISION="2"

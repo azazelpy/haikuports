@@ -4,7 +4,7 @@ Currently British and American pool are supported; there are plans to \
 support many different billiards games. At the moment the game can be played \
 with two players taking turns on one computer; in the future networked \
 multiplayer will be supported."
-HOMEPAGE="http://ballsmacker.sourceforge.net/"
+HOMEPAGE="https://ballsmacker.sourceforge.net/"
 COPYRIGHT="2004 Simon Howard"
 LICENSE="GNU GPL v2"
 REVISION="1"

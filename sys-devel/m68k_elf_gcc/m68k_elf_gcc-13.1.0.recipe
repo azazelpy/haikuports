@@ -1,6 +1,6 @@
 SUMMARY="C/C++ cross-compiler for m68k CPU family"
 DESCRIPTION="Compiler for m68k CPU family."
-HOMEPAGE="http://gcc.gnu.org"
+HOMEPAGE="https://gcc.gnu.org"
 
 SOURCE_URI="http://ftpmirror.gnu.org/gcc/gcc-$portVersion/gcc-$portVersion.tar.xz"
 SOURCE_DIR="gcc-$portVersion"

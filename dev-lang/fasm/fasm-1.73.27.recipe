@@ -8,7 +8,7 @@ It includes the powerful but easy to use macroinstruction \
 support and does multiple passes to optimize the instruction \
 codes for size. The flat assembler is self-compilable and the \
 complete source code is included."
-HOMEPAGE="http://flatassembler.net"
+HOMEPAGE="https://flatassembler.net"
 COPYRIGHT="2004-2021 Tomasz Grysztar"
 LICENSE="fasm"
 REVISION="1"

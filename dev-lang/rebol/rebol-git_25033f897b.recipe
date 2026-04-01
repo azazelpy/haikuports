@@ -3,7 +3,7 @@ DESCRIPTION="
 A scripting language that provides a lightweight platform for distributed \
 computing and communication. It is mainly designed for network communications, \
 providing effective solutions to modern network distributed applications."
-HOMEPAGE="http://www.rebol.com/"
+HOMEPAGE="https://www.rebol.com/"
 COPYRIGHT="2014 REBOL Technologies"
 LICENSE="Apache v2"
 REVISION="1"

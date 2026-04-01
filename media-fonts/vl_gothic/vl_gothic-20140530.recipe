@@ -4,7 +4,7 @@ DESCRIPTION="This package includes the VL Gothic (monospace) and VL PGothic \
 include glyphs suitable for rendering Japanese text, as well as Latin and \
 Greek alphabets.
 The fonts are based on the M+ fonts and the Sazanami fonts."
-HOMEPAGE="http://vlgothic.dicey.org/"
+HOMEPAGE="https://vlgothic.dicey.org/"
 COPYRIGHT="1990-2003 Wada Laboratory, the University of Tokyo.
 2003-2004 Electronic Font Open Laboratory (/efont/).
 2002-2014 M+ FONTS PROJECT

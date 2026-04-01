@@ -5,7 +5,7 @@ LINUX commandline. Its main purpose is to reduce the size of the PNG IDAT \
 datastream by trying various compression levels and PNG filter methods. It \
 also can be used to remove unwanted ancillary chunks, or to add certain chunks \
 including gAMA, tRNS, iCCP, and textual chunks."
-HOMEPAGE="http://pmt.sourceforge.net/pngcrush/"
+HOMEPAGE="https://pmt.sourceforge.net/pngcrush/"
 COPYRIGHT="1998-2002, 2006-2017 Glenn Randers-Pehrson
 	2005 Greg Roelofs"
 LICENSE="LibPNG"

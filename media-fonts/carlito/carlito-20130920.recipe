@@ -4,7 +4,7 @@ Carlito comes in regular, bold, italic, and bold italic. The family \
 covers Latin-Greek-Cyrillic (not a complete set, though) with about \
 2,000 glyphs. It has the same character coverage as Calibri.
 "
-HOMEPAGE="http://code.google.com/p/chromium/issues/detail?id=280557"
+HOMEPAGE="https://code.google.com/p/chromium/issues/detail?id=280557"
 COPYRIGHT="2013 Lukasz Dziedzic"
 LICENSE="SIL Open Font License v1.1"
 REVISION="1"

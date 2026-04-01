@@ -6,7 +6,7 @@ it will not stop until it hits a wall or another marble. To make it more \
 interesting there are obstacles like one-way streets, crumbling walls and \
 portals. As Marbles is meant as a puzzle game you play against a move limit \
 and not a time limit. This way you have as much time as you need to think."
-HOMEPAGE="http://lgames.sourceforge.net/"
+HOMEPAGE="https://lgames.sourceforge.net/"
 COPYRIGHT="2000 Michael Speck"
 LICENSE="GNU GPL v2"
 REVISION="4"

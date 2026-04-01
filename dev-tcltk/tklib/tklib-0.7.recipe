@@ -2,7 +2,7 @@ SUMMARY="The Tk Standard Library"
 DESCRIPTION="Welcome to the tklib, the Tk Standard Library. This package is intended to be a \
 collection of Tcl packages that provide utility functions useful to a large collection of Tcl \
 programmers."
-HOMEPAGE="http://core.tcl.tk/tklib/"
+HOMEPAGE="https://core.tcl.tk/tklib/"
 COPYRIGHT="Ajuba Solutions and other parties"
 LICENSE="TCL"
 REVISION="1"
