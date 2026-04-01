@@ -22,7 +22,7 @@ All windows run their programs completely independent of each other. \
 Programs continue to run when their window is currently not visible \
 and even when the whole screen session is detached from the users terminal. \
 A command-line compatible rm which destroys file contents before unlinking."
-HOMEPAGE="http://www.gnu.org/software/screen/"
+HOMEPAGE="https://www.gnu.org/software/screen/"
 COPYRIGHT="2010 Juergen Weigert, Sadrul Habib Chowdhury
 	2008, 2009 Juergen Weigert, Michael Schroeder, Micah Cowan, Sadrul Habib Chowdhury
 	1993-2002, 2003, 2005, 2006, 2007 Juergen Weigert, Michael Schroeder

@@ -10,7 +10,7 @@ command-line.
 * It can be easily identified as an enhanced getopt(1) from within shell scripts.
 * It can report parse errors as coming from the shell script.
 * It compiles cleanly with both libc-5 and glibc-2 (libc6)."
-HOMEPAGE="http://software.frodo.looijaard.name/getopt/"
+HOMEPAGE="https://software.frodo.looijaard.name/getopt/"
 COPYRIGHT="1997-2012 Frodo Looijaard"
 LICENSE="GNU GPL v2"
 REVISION="2"

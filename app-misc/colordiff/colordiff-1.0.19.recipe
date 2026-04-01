@@ -3,7 +3,7 @@ DESCRIPTION="
 The Perl script colordiff is a wrapper for 'diff' and produces the same output \
 but with pretty 'syntax' highlighting. Colour schemes can be customized.
 "
-HOMEPAGE="http://colordiff.sourceforge.net/"
+HOMEPAGE="https://colordiff.sourceforge.net/"
 COPYRIGHT="2002-2012 Dave Ewart"
 LICENSE="GNU GPL v2"
 REVISION="1"
