@@ -14,56 +14,7 @@ CHECKSUM_SHA256="51c75c4126074b472f746a24399ad32f6053d1b34b68d2fa41e558e6f4a9871
 
 ARCHITECTURES="any"
 
-PROVIDES="
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
+
 	py = $portVersion
-	"
-REQUIRES="
-	haiku
-	"
-
-BUILD_REQUIRES="
-	haiku_devel
-	"
-
-PYTHON_VERSIONS=(3.10)
-
-for pythonVersion in ${PYTHON_VERSIONS[@]}; do
-	pythonPackage=python${pythonVersion//.}
-
-	eval "PROVIDES_$pythonPackage=\"
-		${portName}_$pythonPackage = $portVersion
-		\""
-	eval "REQUIRES_$pythonPackage=\"
-		haiku
-		cmd:python$pythonVersion
-		\""
-
-	BUILD_REQUIRES+="
-		setuptools_scm_$pythonPackage
-		"
-	BUILD_PREREQUIRES+="
-		cmd:python$pythonVersion
-		"
-done
-
-INSTALL()
-{
-	export SETUPTOOLS_SCM_PRETEND_VERSION=$portVersion
-
-	for pythonVersion in ${PYTHON_VERSIONS[@]}; do
-		pythonPackage=python${pythonVersion//.}
-
-		python=python$pythonVersion
-		installLocation=$prefix/lib/$python/vendor-packages/
-		export PYTHONPATH=$installLocation:$PYTHONPATH
-
-		mkdir -p $installLocation
-		rm -rf build
-
-		$python setup.py build install \
-			--root=/ --prefix=$prefix
-
-		packageEntries $pythonPackage \
-			$prefix/lib/python*
-	done
-}

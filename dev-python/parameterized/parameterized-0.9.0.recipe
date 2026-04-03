@@ -10,52 +10,7 @@ CHECKSUM_SHA256="7fc905272cefa4f364c1a3429cbbe9c0f98b793988efb5bf90aac80f08db09b
 
 ARCHITECTURES="any"
 
-PROVIDES="
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
+
 	parameterized = $portVersion
-	"
-REQUIRES="
-	haiku
-	"
-BUILD_REQUIRES="
-	haiku_devel
-	"
-
-PYTHON_VERSIONS=(3.10)
-
-for pythonVersion in ${PYTHON_VERSIONS[@]}; do
-	pythonPackage=python${pythonVersion//.}
-
-	eval "PROVIDES_$pythonPackage=\"
-		parameterized_$pythonPackage = $portVersion
-		\""
-	eval "REQUIRES_$pythonPackage=\"
-		haiku
-		cmd:python$pythonVersion
-		\""
-	BUILD_REQUIRES+="
-		build_$pythonPackage
-		installer_$pythonPackage
-		setuptools_$pythonPackage
-		wheel_$pythonPackage
-		"
-	BUILD_PREREQUIRES+="
-		cmd:python$pythonVersion
-		"
-done
-
-INSTALL()
-{
-	for pythonVersion in ${PYTHON_VERSIONS[@]}; do
-		pythonPackage=python${pythonVersion//.}
-
-		python=python$pythonVersion
-
-		rm -rf dist
-
-		$python -m build --wheel --skip-dependency-check --no-isolation
-		$python -m installer --p $prefix dist/*.whl
-
-		packageEntries $pythonPackage \
-			"$prefix"/lib/python*
-	done
-}

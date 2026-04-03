@@ -12,65 +12,8 @@ CHECKSUM_SHA256="af598ed32d6ae86f1b747b82783958b1a4ab8f617b06fe68795c7f026abbdca
 SOURCE_DIR="MarkupSafe-$portVersion"
 
 ARCHITECTURES="all !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
-	$portName = $portVersion
-	"
-REQUIRES="
-	haiku$secondaryArchSuffix
-	"
-
-BUILD_REQUIRES="
-	haiku${secondaryArchSuffix}_devel
-	"
-BUILD_PREREQUIRES="
-	cmd:gcc$secondaryArchSuffix
-	"
-
-PYTHON_VERSIONS=(3.10)
-
-for pythonVersion in ${PYTHON_VERSIONS[@]}; do
-	pythonPackage=python${pythonVersion//.}
-
-	eval "PROVIDES_$pythonPackage=\"
-		${portName}_$pythonPackage = $portVersion
-		\""
-
-	if [ "$targetArchitecture" = x86_gcc2 ]; then
-		eval "PROVIDES_$pythonPackage+=\"
-			markupsafe_$pythonPackage = $portVersion
-			\""
-	fi
-
-	eval "REQUIRES_$pythonPackage=\"
-		$REQUIRES
-		cmd:python$pythonVersion
-		\""
-	BUILD_REQUIRES+="
-		build_$pythonPackage
-		installer_$pythonPackage
-		setuptools_$pythonPackage
-		wheel_$pythonPackage
-		"
-	BUILD_PREREQUIRES+="
-		cmd:python$pythonVersion
-		"
-done
-
-INSTALL()
-{
-	for pythonVersion in ${PYTHON_VERSIONS[@]}; do
-		pythonPackage=python${pythonVersion//.}
-
-		python=python$pythonVersion
-
-		rm -rf dist
-
-		$python -m build --wheel --skip-dependency-check --no-isolation
-		$python -m installer --p $prefix dist/*.whl
-
-		packageEntries $pythonPackage \
-			"$prefix"/lib/python*
-	done
-}
