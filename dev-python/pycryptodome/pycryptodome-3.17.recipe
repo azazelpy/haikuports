@@ -21,12 +21,12 @@ SOURCE_FILENAME="pycryptodome-$portVersion.tar.gz"
 SOURCE_DIR="pycryptodome-$portVersion"
 
 ARCHITECTURES="x86_64 !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
-	$portName = $portVersion
 	"
-REQUIRES="
 	haiku$secondaryArchSuffix
 	"
 

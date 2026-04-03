@@ -11,12 +11,12 @@ CHECKSUM_SHA256="00f97476cef9fcd9a89f9d2a49be3b518e1a74b91f377fe08c97fcb44bc0f7d
 SOURCE_FILENAME="cython-$portVersion.tar.gz"
 
 ARCHITECTURES="all !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
-	$portName = $portVersion
 	"
-REQUIRES="
 	haiku$secondaryArchSuffix
 	"
 

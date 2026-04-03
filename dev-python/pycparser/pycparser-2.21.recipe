@@ -13,11 +13,11 @@ SOURCE_DIR="pycparser-release_v$portVersion"
 
 ARCHITECTURES="any"
 
-PROVIDES="
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
+
 	pycparser = $portVersion
 	"
-REQUIRES="
-	haiku
 	"
 
 BUILD_REQUIRES="

@@ -9,12 +9,12 @@ SOURCE_URI="https://files.pythonhosted.org/packages/source/m/multidict/multidict
 CHECKSUM_SHA256="024b8129695a952ebd93373e45b5d341dbb87c17ce49637b34000093f243dd4f"
 
 ARCHITECTURES="all !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
-	$portName = $portVersion
 	"
-REQUIRES="
 	haiku$secondaryArchSuffix
 	"
 

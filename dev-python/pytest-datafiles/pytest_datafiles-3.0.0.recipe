@@ -19,13 +19,12 @@ SOURCE_URI="https://github.com/omarkohl/pytest-datafiles/releases/download/$port
 CHECKSUM_SHA256="2176e10d3f6e76f358925a897e21e2bcc5a0170b92fac4e66ed055eaa2ca6a22"
 
 ARCHITECTURES="any"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 DISABLE_SOURCE_PACKAGE="yes"
 
-PROVIDES="
-	$portName = $portVersion
 	"
-REQUIRES="
-	haiku
 	"
 
 BUILD_REQUIRES="

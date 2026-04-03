@@ -14,12 +14,12 @@ CHECKSUM_SHA256="91d56ec628be2513a02c3721d4d8173416daf37c49423fe7a41a0e30c110126
 SOURCE_DIR="kiwi-$portVersion"
 
 ARCHITECTURES="all !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
-	$portName = $portVersion
 	"
-REQUIRES="
 	haiku$secondaryArchSuffix
 	"
 

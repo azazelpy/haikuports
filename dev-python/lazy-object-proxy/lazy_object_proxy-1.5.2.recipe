@@ -12,12 +12,12 @@ CHECKSUM_SHA256="b28708f92930b4e2c0ab39def12ebc6be466db5e91fad88bfc7ebf9aa9c9de1
 SOURCE_DIR="python-lazy-object-proxy-$portVersion"
 
 ARCHITECTURES="all !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
-	$portName = $portVersion
 	"
-REQUIRES="
 	haiku$secondaryArchSuffix
 	"
 

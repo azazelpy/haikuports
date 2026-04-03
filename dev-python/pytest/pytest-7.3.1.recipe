@@ -9,11 +9,11 @@ CHECKSUM_SHA256="434afafd78b1d78ed0addf160ad2b77a30d35d4bdf8af234fe621919d9ed15e
 
 ARCHITECTURES="any"
 
-PROVIDES="
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
+
 	$portName=$portVersion
 	"
-REQUIRES="
-	haiku
 	"
 
 BUILD_REQUIRES="
