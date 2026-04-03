@@ -7,7 +7,7 @@ there are lots of games in development that use the engine. You can find \
 enhancements for Irrlicht all over the web, like alternative terrain \
 renderers, portal renderers, world layers, tutorials, editors, bindings for \
 perl, ruby, python, and so on. And best of all: It's completely free."
-HOMEPAGE="http://irrlicht.sourceforge.net"
+HOMEPAGE="https://irrlicht.sourceforge.net"
 COPYRIGHT="2002-2016 Nikolaus Gebhardt"
 LICENSE="Zlib"
 REVISION="3"

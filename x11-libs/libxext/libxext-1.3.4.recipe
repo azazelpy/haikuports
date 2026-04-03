@@ -5,7 +5,7 @@ DOUBLE-BUFFER, DPMS, Extended-Visual-Information, LBX, MIT_SHM, \
 MIT_SUNDRY-NONSTANDARD, Multi-Buffering, SECURITY, SHAPE, SYNC, TOG-CUP, \
 XC-APPGROUP, XC-MISC, XTEST. libXext also provides a small set of utility \
 functions to aid authors of client APIs for X protocol extensions."
-HOMEPAGE="http://xorg.freedesktop.org/releases/individual/lib/"
+HOMEPAGE="https://xorg.freedesktop.org/releases/individual/lib/"
 COPYRIGHT="1986, 1987, 1988, 1989, 1994, 1998 The Open Group"
 LICENSE="MIT (no promotion)"
 REVISION="2"

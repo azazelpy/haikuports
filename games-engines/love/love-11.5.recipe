@@ -1,7 +1,7 @@
 SUMMARY="A framework to make 2D games in Lua"
 DESCRIPTION="LÖVE is a framework to make 2D games in Lua.
 It's free, open-source, and works also on Windows, Mac OS X and Linux."
-HOMEPAGE="http://love2d.org/"
+HOMEPAGE="https://love2d.org/"
 COPYRIGHT="2010-2018 Löve"
 LICENSE="Zlib"
 REVISION="1"

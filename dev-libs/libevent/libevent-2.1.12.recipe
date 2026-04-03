@@ -6,7 +6,7 @@ to signals or regular timeouts.
 libevent is meant to replace the event loop found in event driven network \
 servers. An application just needs to call event_dispatch() and then add or \
 remove events dynamically without having to change the event loop."
-HOMEPAGE="http://www.libevent.org/"
+HOMEPAGE="https://www.libevent.org/"
 COPYRIGHT="2000-2007 Niels Provos
 	2005 Nick Mathewson, and other contributors."
 LICENSE="BSD (3-clause)"

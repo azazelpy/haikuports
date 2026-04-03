@@ -3,7 +3,7 @@ DESCRIPTION="SMPEG is short for the SDL MPEG library originally developed \
 by Loki Software. SMPEG uses MPEG-1 standard as a video display library, \
 rather than MPEG-2, since only the MPEG-1 standard is unencumbered with \
 software patents in the United States."
-HOMEPAGE="http://www.icculus.org/smpeg"
+HOMEPAGE="https://www.icculus.org/smpeg"
 COPYRIGHT="1999-2004 Sam Lantinga, Joe Tennies."
 LICENSE="GNU LGPL v2"
 REVISION="5"

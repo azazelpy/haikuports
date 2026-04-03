@@ -9,7 +9,7 @@ so different, learning to use Vim takes time.
 Cream shapes Vim into an interface you probably already know (sometimes called \
 Common User Access). Whether you are writing emails or developing large \
 software applications, Cream saves you time and gets you up and running quickly."
-HOMEPAGE="http://cream.sf.net"
+HOMEPAGE="https://cream.sf.net"
 COPYRIGHT="2001-2014 Cream contributors"
 LICENSE="GNU GPL v3"
 REVISION="1"

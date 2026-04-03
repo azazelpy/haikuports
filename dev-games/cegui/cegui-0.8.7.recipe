@@ -5,7 +5,7 @@ is not natively available or is severely lacking. The library is written in \
 C++, is object orientated, and is primarily targeted at games developers who \
 should be spending their time creating great games, not building GUI \
 sub-systems..."
-HOMEPAGE="http://www.cegui.org.uk/"
+HOMEPAGE="https://www.cegui.org.uk/"
 COPYRIGHT="2004-2015 Paul D. Turner and The CEGUI Development Team"
 LICENSE="GNU LGPL v2.1"
 REVISION="5"

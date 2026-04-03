@@ -1,6 +1,6 @@
 SUMMARY="C/C++ cross-compiler for ARM"
 DESCRIPTION="Compiler for ARM processors."
-HOMEPAGE="http://gcc.gnu.org"
+HOMEPAGE="https://gcc.gnu.org"
 
 SOURCE_URI="http://ftpmirror.gnu.org/gcc/gcc-$portVersion/gcc-$portVersion.tar.xz"
 SOURCE_DIR="gcc-$portVersion"

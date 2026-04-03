@@ -3,7 +3,7 @@ DESCRIPTION="BeeCrypt is an ongoing project to provide a strong and fast \
 cryptography toolkit. It includes entropy sources, random generators, block \
 ciphers, hash functions, message authentication codes, multiprecision integer \
 routines, and public key primitives."
-HOMEPAGE="http://beecrypt.sourceforge.net/"
+HOMEPAGE="https://beecrypt.sourceforge.net/"
 COPYRIGHT="2009 Bob Deblier"
 LICENSE="GNU GPL v2"
 REVISION="3"

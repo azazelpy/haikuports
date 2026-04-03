@@ -12,7 +12,7 @@ DESCRIPTION="The library provides:
 * thread safety and reentrancy
 * descriptive and detailed error messages
 * ...and more (over 175 different API calls)"
-HOMEPAGE="http://libgit2.github.com/"
+HOMEPAGE="https://libgit2.github.com/"
 COPYRIGHT="2005-2017 libgit2 project"
 LICENSE="GNU LGPL v2"
 REVISION="5"

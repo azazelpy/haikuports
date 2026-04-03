@@ -6,7 +6,7 @@ communication physical layer (like IEEE1394), just add a new port to \
 libgphoto2_port. To support a new kind a digital camera, just provide \
 a new camlib with the required callbacks. All of this will be transparent \
 to client (programs that call libgphoto2)."
-HOMEPAGE="http://www.gphoto.org/"
+HOMEPAGE="https://www.gphoto.org/"
 COPYRIGHT="The gphoto2 team"
 LICENSE="GNU GPL v2"
 REVISION="1"

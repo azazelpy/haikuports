@@ -1,7 +1,7 @@
 SUMMARY="This library is a wrapper around the Pango library"
 DESCRIPTION="SDL_Pango library allows you to use TrueType fonts to \
 render internationalized and tagged text in SDL applications."
-HOMEPAGE="http://www.libsdl.org/projects/SDL_pango/"
+HOMEPAGE="https://www.libsdl.org/projects/SDL_pango/"
 COPYRIGHT="2004 NAKAMURA Ken'ichi'"
 LICENSE="GNU GPL v2"
 REVISION="6"

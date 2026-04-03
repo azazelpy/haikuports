@@ -5,7 +5,7 @@ and easy way of doing this. muParser is an extensible high performance \
 math expression parser library written in C++. It works by transforming \
 a mathematical expression into bytecode and precalculating constant parts \
 of the expression."
-HOMEPAGE="http://beltoforion.de/article.php?a=muparser"
+HOMEPAGE="https://beltoforion.de/article.php?a=muparser"
 COPYRIGHT="2016 Ingo Berg"
 LICENSE="MIT"
 REVISION="1"

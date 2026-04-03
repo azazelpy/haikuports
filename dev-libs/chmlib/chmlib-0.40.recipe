@@ -8,7 +8,7 @@ by MS Excel, Word, and so on.  Instead, it is a different file format which \
 fulfills a similar purpose.  Both file formats may be accessed via instances \
 of the IStorage COM interface, which is essentially an \"acts like a \
 filesystem\" interface."
-HOMEPAGE="http://www.jedrea.com/chmlib/"
+HOMEPAGE="https://www.jedrea.com/chmlib/"
 COPYRIGHT="
 	2003 Jed Wing
 	"

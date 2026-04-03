@@ -3,7 +3,7 @@ DESCRIPTION="Library designed to make the input and output of some ZX Spectrum \
 emulator files slightly easier. It is intended to be usable on Unix variants, \
 Win32 and Mac OS X. Currently, it is mainly (only?) used by Fuse, but other \
 Spectrum emulator and utility authors are encouraged to use it."
-HOMEPAGE="http://fuse-emulator.sourceforge.net/libspectrum.php"
+HOMEPAGE="https://fuse-emulator.sourceforge.net/libspectrum.php"
 COPYRIGHT="2003-2018 Philip Kendall and libspectrum contributors"
 LICENSE="GNU GPL v2"
 REVISION="1"

@@ -5,7 +5,7 @@ character strings.
 This can be useful in error messages, enabling the suggestion of likely \
 valid alternatives. In compilers, this can reduce the cascade of secondary \
 errors."
-HOMEPAGE="http://fstrcmp.sourceforge.net/"
+HOMEPAGE="https://fstrcmp.sourceforge.net/"
 COPYRIGHT="2009 Peter Miller"
 LICENSE="GNU GPL v3"
 REVISION="1"

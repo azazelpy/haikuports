@@ -3,7 +3,7 @@ DESCRIPTION="\
 A sans-serif typeface in the style of xkcd. Xkcd is a popular webcomics with \
 focus on computer science or everything else.
 "
-HOMEPAGE="http://antiyawn.com/uploads/humorsans.html"
+HOMEPAGE="https://antiyawn.com/uploads/humorsans.html"
 COPYRIGHT="2009, Michael Ciuffo, with Reserved Font Name Humor-Sans"
 LICENSE="SIL Open Font License v1.1"
 REVISION="2"

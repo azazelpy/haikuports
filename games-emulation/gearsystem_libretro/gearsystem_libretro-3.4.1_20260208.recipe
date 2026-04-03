@@ -2,7 +2,7 @@ SUMMARY="A port of Gearsystem, a Sega 8bit emulator to the libretro API"
 DESCRIPTION="Gearsystem is a Sega Master System / Game Gear / SG-1000 emulator \
 written in C++. It features highly accurate CPU emulation, accurate \
 instruction and memory timing."
-HOMEPAGE="http://www.ignaciosanchez.me/projects/gearsystem/"
+HOMEPAGE="https://www.ignaciosanchez.me/projects/gearsystem/"
 COPYRIGHT="2012-2021 Ignacio Sánchez, the libretro team"
 LICENSE="GNU GPL v3"
 REVISION="1"

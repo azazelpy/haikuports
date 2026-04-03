@@ -16,7 +16,7 @@ Improvements over the original Ken's Labyrinth:
 - Uses OpenGL to provide hardware accelerated, anti-aliased graphics with trilinear interpolation in true colour (where available).
 - Multiple simultaneous sound effects in stereo.
 - Many bug fixes."
-HOMEPAGE="http://icculus.org/LAB3D/"
+HOMEPAGE="https://icculus.org/LAB3D/"
 COPYRIGHT="1992-1993 Ken Silverman
 	2002-2014 Jan Lönnberg"
 LICENSE="GNU GPL v2"

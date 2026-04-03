@@ -1,7 +1,7 @@
 SUMMARY="REminiscence, a port of the Flashback game engine to the Libretro API"
 DESCRIPTION="REminiscence is a port of the Flashback game engine to Libretro.\
 It allows you to play the glorious Adeline Software classic on modern systems."
-HOMEPAGE="http://cyxdown.free.fr/reminiscence/"
+HOMEPAGE="https://cyxdown.free.fr/reminiscence/"
 COPYRIGHT="2005-2020 Gregory Montoir, the libretro team"
 LICENSE="GNU GPL v3"
 REVISION="1"

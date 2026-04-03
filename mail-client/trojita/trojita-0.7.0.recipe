@@ -13,7 +13,7 @@ big ERP systems.
 Plays well with the rest of the ecosystem. We don't like reinventing \
 wheels, but when the existing wheels quite don't fit the tracks, we're \
 not afraid of making them work."
-HOMEPAGE="http://trojita.flaska.net/"
+HOMEPAGE="https://trojita.flaska.net/"
 COPYRIGHT="2006-2020 Trojitá developers"
 LICENSE="GNU GPL v2"
 REVISION="4"

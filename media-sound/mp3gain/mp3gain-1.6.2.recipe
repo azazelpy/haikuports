@@ -6,7 +6,7 @@ determine how loud the file actually sounds to the human ear.
 MP3Gain can adjust the volume in a completely lossless way by modifying the \
 mp3 file directly, without decoding and re-encoding. This works with all mp3 \
 players, i.e. no support for a special tag is required."
-HOMEPAGE="http://mp3gain.sourceforge.net/"
+HOMEPAGE="https://mp3gain.sourceforge.net/"
 COPYRIGHT="1995-1997 Michael Hipp
 	1999 Mark Taylor
 	1999 Takehiro TOMINAGA

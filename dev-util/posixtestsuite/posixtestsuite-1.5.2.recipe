@@ -3,7 +3,7 @@ DESCRIPTION="
 The Open POSIX Test Suite is a test suite for POSIX 2001 APIs, not tied to \
 specific implementations.
 "
-HOMEPAGE="http://posixtest.sourceforge.net/"
+HOMEPAGE="https://posixtest.sourceforge.net/"
 COPYRIGHT="2002-2004 Intel Corporation. All rights reserved.
 	2004, QUALCOMM Inc. All rights reserved.
 	2004-2005 Bull S.A..  All rights reserved."

@@ -2,7 +2,7 @@ SUMMARY="A 3D lightcycle game using OpenGL"
 DESCRIPTION="gltron was inspired by the film tron - actually, more by all the games that where \
 inspired by the film tron :-) It's a game for one to four players, the objective is not to drive \
 into a wall."
-HOMEPAGE="http://gltron.org/"
+HOMEPAGE="https://gltron.org/"
 COPYRIGHT="1999 Andreas Umbach"
 LICENSE="GNU GPL v2"
 REVISION="1"

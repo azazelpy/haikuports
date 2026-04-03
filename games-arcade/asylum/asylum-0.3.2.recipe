@@ -3,7 +3,7 @@ DESCRIPTION="SDL Asylum is a C port of the computer game Asylum, which was \
 written by Andy Southgate in 1994 for the Acorn Archimedes and is now public \
 domain. It has been tested on Linux and Cygwin, but it should be possible to \
 run it on other platforms which support the SDL graphics library."
-HOMEPAGE="http://sdl-asylum.sourceforge.net/"
+HOMEPAGE="https://sdl-asylum.sourceforge.net/"
 COPYRIGHT="1993 Andy Southgate"
 LICENSE="GNU GPL v3"
 REVISION="2"

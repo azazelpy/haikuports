@@ -1,7 +1,7 @@
 SUMMARY="A pipe connecting game"
 DESCRIPTION="Pipepanic is a pipe connecting game using libSDL. Connect as many \
 different shaped pipes together as possible within the time given."
-HOMEPAGE="http://www.users.waitrose.com/~thunor/pipepanic/"
+HOMEPAGE="https://www.users.waitrose.com/~thunor/pipepanic/"
 COPYRIGHT="2006 TheGreenKnight"
 LICENSE="GNU GPL v2"
 REVISION="8"

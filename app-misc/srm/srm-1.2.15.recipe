@@ -1,7 +1,7 @@
 SUMMARY="Secure file deletion for posix systems"
 DESCRIPTION="A command-line compatible rm which destroys file contents \
 before unlinking."
-HOMEPAGE="http://srm.sourceforge.net/"
+HOMEPAGE="https://srm.sourceforge.net/"
 COPYRIGHT="2000 Matthew D. Gauthier"
 LICENSE="MIT (no promotion)"
 REVISION="1"

@@ -1,7 +1,7 @@
 SUMMARY="Croatian dictionary for aspell program/library"
 DESCRIPTION="Croatian dictionary for the GNU Aspell program, an open source \
 spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2004 Denis Lackovic, Kevin Atkinson"
 LICENSE="GNU LGPL v2.1"
 REVISION="1"

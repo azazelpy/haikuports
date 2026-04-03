@@ -17,7 +17,7 @@ DepositFiles, Vimeo.com, blip.tv, Facebook video, Escapist magazine and many \
 more
 
 For a complete list, check http://rg3.github.io/youtube-dl/supportedsites.html"
-HOMEPAGE="http://humdingerb.github.io/ubertuber/"
+HOMEPAGE="https://humdingerb.github.io/ubertuber/"
 COPYRIGHT="2011-2021 Humdinger"
 LICENSE="MIT"
 REVISION="2"

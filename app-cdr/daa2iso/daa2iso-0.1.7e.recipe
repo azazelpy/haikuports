@@ -2,7 +2,7 @@ SUMMARY="A tool for converting DAA/GBI images to ISO format"
 DESCRIPTION="DAA2ISO is an open source command-line/GUI tool for converting \
 single and multipart DAA and GBI images to the original ISO format.
 DAA/GBI files are 'Direct Access Archive' used by PowerISO and gBurner"
-HOMEPAGE="http://aluigi.org/mytoolz.htm#daa2iso"
+HOMEPAGE="https://aluigi.org/mytoolz.htm#daa2iso"
 COPYRIGHT="2008-2009 Luigi Auriemma"
 LICENSE="GNU GPL v2"
 REVISION="4"

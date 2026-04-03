@@ -4,7 +4,7 @@ and Unix. You can think of it as being a stripped-down C64 emulator that only \
 emulates the processor and the sound chip of the C64. \
 SIDPlayer can be used as a stand-alone player or, under Haiku, as a plug-in \
 for CL-Amp and SoundPlay."
-HOMEPAGE="http://sidplayer.cebix.net/"
+HOMEPAGE="https://sidplayer.cebix.net/"
 COPYRIGHT="2003 Christian Bauer"
 LICENSE="GNU GPL v2"
 REVISION="2"

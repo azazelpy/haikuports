@@ -1,7 +1,7 @@
 SUMMARY="Tidies the layout and correct errors in HTML and XML documents"
 DESCRIPTION="Tidy tidies HTML and XML. It can tidy your documents by itself, \
 and developers can easily integrate its features into even more powerful tools."
-HOMEPAGE="http://www.html-tidy.org/"
+HOMEPAGE="https://www.html-tidy.org/"
 COPYRIGHT="1998-2022 World Wide Web Consortium"
 LICENSE="MIT"
 REVISION="4"

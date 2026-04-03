@@ -5,7 +5,7 @@ guarantee the best possible encoding. In comparison, ZX7 provides a highly \
 efficient compression algorithm that always generate perfectly optimal \
 LZ77/LZSS encoding. Technically it means compressing within space and time \
 O(n) only."
-HOMEPAGE="http://www.worldofspectrum.org/infoseekid.cgi?id=0027996"
+HOMEPAGE="https://www.worldofspectrum.org/infoseekid.cgi?id=0027996"
 COPYRIGHT="2012-2013 Einar Saukas"
 LICENSE="BSD (3-clause)"
 REVISION="1"

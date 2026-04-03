@@ -61,7 +61,7 @@ Supported output file formats:
 * Test, debugging output (all, default)
 * VOBJ proprietary versatile object format (all)
 * Wozmon monitor format (6502)"
-HOMEPAGE="http://sun.hasenbraten.de/vasm/"
+HOMEPAGE="https://sun.hasenbraten.de/vasm/"
 COPYRIGHT="2002-2025 Volker Barthelmann
 	2002-2025 Frank Wille
 	2013-2021 Esben Norby

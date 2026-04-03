@@ -1,6 +1,6 @@
 SUMMARY="A module player for Unix"
 DESCRIPTION="mikmod supports many formats, including mod, s3m, it, and xm."
-HOMEPAGE="http://mikmod.sourceforge.net"
+HOMEPAGE="https://mikmod.sourceforge.net"
 COPYRIGHT="1998-2017 Jean-Paul Mikkers, Jake Stine, Steve McIntyre,
 Frank Loemker, Andrew Zabolotny."
 LICENSE="GNU LGPL v2"

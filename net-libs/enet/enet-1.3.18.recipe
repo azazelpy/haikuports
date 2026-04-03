@@ -7,7 +7,7 @@ ENet omits certain higher level networking features such as authentication, \
 lobbying, server discovery, encryption, or other similar tasks that are \
 particularly application specific so that the library remains flexible, \
 portable, and easily embeddable."
-HOMEPAGE="http://enet.bespin.org"
+HOMEPAGE="https://enet.bespin.org"
 COPYRIGHT="2002-2010 Lee Salzman"
 LICENSE="MIT"
 REVISION="1"

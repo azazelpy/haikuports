@@ -1,6 +1,6 @@
 SUMMARY="The common library for tuxmath and tuxtype"
 DESCRIPTION="t4k_common, a library of code shared between tuxmath and tuxtype"
-HOMEPAGE="http://tux4kids.alioth.debian.org/"
+HOMEPAGE="https://tux4kids.alioth.debian.org/"
 COPYRIGHT="2007 Free Software Foundation, Inc."
 LICENSE="GNU GPL v2"
 REVISION="3"

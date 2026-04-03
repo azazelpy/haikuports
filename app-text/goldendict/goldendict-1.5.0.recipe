@@ -5,7 +5,7 @@ supporting multiple dictionary formats \
 featuring perfect article rendering with the complete markup, illustrations \
 and other content retained, and allowing you to type in words without any \
 accents or correct case."
-HOMEPAGE="http://goldendict.org/"
+HOMEPAGE="https://goldendict.org/"
 COPYRIGHT="2008-2016 Konstantiv Isakov"
 LICENSE="GNU GPL v3"
 REVISION="1"

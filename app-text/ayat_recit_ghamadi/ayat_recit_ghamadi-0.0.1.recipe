@@ -1,6 +1,6 @@
 SUMMARY="Quran recitation from Sheikh Saad Al-Gamdi"
 DESCRIPTION="Ayat data recitation from Sheikh Saad Al-Gamdi"
-HOMEPAGE="http://quran.ksu.edu.sa/ayat/"
+HOMEPAGE="https://quran.ksu.edu.sa/ayat/"
 COPYRIGHT="2014-2019 King Saud University"
 LICENSE="Creative Commons Attribution 3.0"
 REVISION="2"

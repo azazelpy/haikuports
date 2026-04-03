@@ -3,7 +3,7 @@ DESCRIPTION="It has been successfully used to port libinput, libevdev, \
 Wayland and more software to FreeBSD. \
 It may be useful for porting other software that uses epoll as well. \
 Sadly, this library contains some very ugly hacks and workarounds.."
-HOMEPAGE="http://github.com/jiixyj/epoll-shim/"
+HOMEPAGE="https://github.com/jiixyj/epoll-shim/"
 COPYRIGHT="2016 Jan Kokemüller"
 LICENSE="MIT"
 REVISION="1"

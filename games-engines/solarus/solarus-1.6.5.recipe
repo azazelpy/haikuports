@@ -5,7 +5,7 @@ DESCRIPTION="A lightweight, free and open-source game engine for Action-RPGs
 * Specifically designed with 16-bit classic Action-RPGs in mind.
 * Available on multiple platforms.
 * Completely free and open-source, under GPL v3 License."
-HOMEPAGE="http://solarus-games.org"
+HOMEPAGE="https://solarus-games.org"
 COPYRIGHT="2006-2021 Christopho and the Solarus team"
 LICENSE="GNU GPL v3"
 REVISION="1"

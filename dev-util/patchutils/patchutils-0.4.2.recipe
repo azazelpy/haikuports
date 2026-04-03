@@ -18,7 +18,7 @@ only alters any given file once.
 contains a given regular expression.
 - Recountdiff fixes up counts and offsets in a unified diff.
 - Unwrapdiff fixes word-wrapped unified diffs."
-HOMEPAGE="http://cyberelk.net/tim/patchutils/"
+HOMEPAGE="https://cyberelk.net/tim/patchutils/"
 COPYRIGHT="2001-2015 Tim Waugh"
 LICENSE="GNU GPL v2"
 REVISION="2"

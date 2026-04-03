@@ -6,7 +6,7 @@ allow or not pegs of the same color. Or you may select one of the 5 \
 predefined levels of difficulty. ColorCode has also a rather intelligent \
 built in MasterMind solver - so you can let the computer guess for you \
 (nope, he's not cheating - really)."
-HOMEPAGE="http://colorcode.laebisch.com/"
+HOMEPAGE="https://colorcode.laebisch.com/"
 COPYRIGHT="2009-2011 Dirk Laebisch"
 LICENSE="GNU GPL v3"
 REVISION="2"

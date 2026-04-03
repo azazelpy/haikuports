@@ -6,7 +6,7 @@ and as a server program for remote program invocation and control. SockHop's \
 primary design goals are ease of use, flexibility, and scalability \
 Using SockHop, writing and debugging a program that runs on many machines \
 at once is not much harder than writing a \"regular\" multithreaded program."
-HOMEPAGE="http://haikuarchives.github.io/SockHop/"
+HOMEPAGE="https://haikuarchives.github.io/SockHop/"
 COPYRIGHT="1999 Jeremy Friesner"
 LICENSE="GNU GPL v2"
 REVISION="1"

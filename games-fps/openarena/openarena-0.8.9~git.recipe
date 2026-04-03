@@ -2,7 +2,7 @@ SUMMARY="Open-source replacement for Quake 3 Arena"
 DESCRIPTION="OpenArena is a free and open-source first-person shooter (FPS) computer game based \
 heavily on the Quake III Arena-style deathmatch. The OpenArena project was established on August \
 19, 2005, the day after the id Tech 3 GPL source code was released."
-HOMEPAGE="http://openarena.ws/"
+HOMEPAGE="https://openarena.ws/"
 COPYRIGHT="OpenArena Team"
 LICENSE="GNU GPL v2"
 REVISION="5"

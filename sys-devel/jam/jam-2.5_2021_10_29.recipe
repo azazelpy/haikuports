@@ -11,7 +11,7 @@ The main differences between Jam and Make are:
 thus portable among distinct compilers.
 - Jamfiles are a lot simpler than Makefiles to write and understand, while \
 providing the same functionality, and much, much more."
-HOMEPAGE="http://www.perforce.com/jam/jam.html"
+HOMEPAGE="https://www.perforce.com/jam/jam.html"
 COPYRIGHT="1993-2003 Christopher Seiwald
 	2005-2021 Haiku, Inc."
 LICENSE="Jam"

@@ -5,7 +5,7 @@ UNIX manuals. It is small, ISO C, ISC-licensed, and quite fast. The main \
 component of the toolset is the mandoc utility program, based on the libmandoc \
 validating compiler, to format output for UTF-8 and ASCII UNIX terminals, \
 HTML 5, PostScript, and PDF."
-HOMEPAGE="http://mandoc.bsd.lv/"
+HOMEPAGE="https://mandoc.bsd.lv/"
 # Copyrights should be updated on every new release
 # http://mandoc.bsd.lv/cgi-bin/cvsweb/LICENSE
 COPYRIGHT="2008-2012, 2014 Kristaps Dzonsons

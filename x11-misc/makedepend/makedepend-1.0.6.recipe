@@ -1,6 +1,6 @@
 SUMMARY="Create dependencies in makefiles"
 DESCRIPTION="create dependencies in makefiles"
-HOMEPAGE="http://xorg.freedesktop.org/releases/individual/util/"
+HOMEPAGE="https://xorg.freedesktop.org/releases/individual/util/"
 COPYRIGHT="1993, 1994, 1998  The Open Group
 	1992 Network Computing Devices, Inc."
 LICENSE="MIT"

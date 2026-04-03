@@ -1,6 +1,6 @@
 SUMMARY="The classic Bomber game"
 DESCRIPTION="The same old bomber game. It's just that Mr.Bomberman looks meh."
-HOMEPAGE="http://www.linuxmotors.com/SDL_bomber/"
+HOMEPAGE="https://www.linuxmotors.com/SDL_bomber/"
 COPYRIGHT="1999-2012 Dave Ashley"
 LICENSE="GNU GPL v2"
 REVISION="2"

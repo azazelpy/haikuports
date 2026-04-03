@@ -1,7 +1,7 @@
 SUMMARY="ZX Spectrum emulator utilities"
 DESCRIPTION="Several tools to manage files in ZX spectrum emulator formats:
 disk and tape images, machine state snapshots, and a few other things."
-HOMEPAGE="http://fuse-emulator.sourceforge.net/fuse.php"
+HOMEPAGE="https://fuse-emulator.sourceforge.net/fuse.php"
 COPYRIGHT="2003-2018 Philip Kendall and FUSE contributors"
 LICENSE="GNU GPL v2"
 REVISION="1"

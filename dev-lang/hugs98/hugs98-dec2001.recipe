@@ -2,7 +2,7 @@ SUMMARY="A Haskell interpreter and programming environment"
 DESCRIPTION="Hugs 98 is a functional programming system based on Haskell 98, \
 the de facto standard for non-strict functional programming languages. Hugs \
 98 provides an almost complete implementation of Haskell 98"
-HOMEPAGE="http://haskell.org/hugs/"
+HOMEPAGE="https://haskell.org/hugs/"
 COPYRIGHT="1994-2001 Mark P Jones, Alastair Reid, the Yale Haskell Group, \
 and the Oregon Graduate Institute of Science and Technology"
 LICENSE="BSD (3-clause)"

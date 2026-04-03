@@ -5,7 +5,7 @@ While in some ways similar to an editor which permits scripted edits (such as \
 ed), sed works by making only one pass over the input(s), and is consequently \
 more efficient. But it is sed's ability to filter text in a pipeline which \
 particularly distinguishes it from other types of editors."
-HOMEPAGE="http://www.gnu.org/software/sed"
+HOMEPAGE="https://www.gnu.org/software/sed"
 COPYRIGHT="1989-2009 Free Software Foundation, Inc."
 LICENSE="GNU GPL v3"
 REVISION="6"

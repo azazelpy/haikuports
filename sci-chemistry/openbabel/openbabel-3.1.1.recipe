@@ -10,7 +10,7 @@ data from molecular modeling, chemistry, solid-state materials, biochemistry, or
 * Organic chemistry, inorganic chemistry, solid-state materials, nuclear chemistry
 * Downloaded over 700,000 times and used by over 40 related projects
 * How to cite Open Babel: The Open Babel and Pybel papers"
-HOMEPAGE="http://openbabel.org/"
+HOMEPAGE="https://openbabel.org/"
 COPYRIGHT="2023 The Open Babel Team"
 LICENSE="GNU GPL v2"
 REVISION="2"

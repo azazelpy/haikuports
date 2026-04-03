@@ -2,7 +2,7 @@ SUMMARY="GNU Java class library"
 DESCRIPTION="
 Free core class libraries for use with virtual machines and compilers for the \
 Java language"
-HOMEPAGE="http://www.gnu.org/software/classpath"
+HOMEPAGE="https://www.gnu.org/software/classpath"
 COPYRIGHT="1998-1999, 2001-2008 Free Software Foundation
 	1991 AT&T
 	1993 Sun Microsystems, Inc. All rights reserved

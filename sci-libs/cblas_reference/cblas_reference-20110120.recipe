@@ -1,6 +1,6 @@
 SUMMARY="C interface to Legacy BLAS"
 DESCRIPTION="C wrapper interface to the F77 reference BLAS implementation."
-HOMEPAGE="http://www.netlib.org/blas/"
+HOMEPAGE="https://www.netlib.org/blas/"
 COPYRIGHT="1998 Keita Teranishi
 	1999 Jeff Horner
 	2003 R. Clint Whaley"

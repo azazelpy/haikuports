@@ -4,7 +4,7 @@ interchanging personal (\"Business Card\") data by applications on many \
 platforms. The two small programs in this package will convert between this \
 format and BeOS 'Person' files, making it possible to share contact data \
 between BeOS and other platforms."
-HOMEPAGE="http://goodeveca.net/beos/"
+HOMEPAGE="https://goodeveca.net/beos/"
 COPYRIGHT="2002 Peter J. Goodeve"
 LICENSE="VCard"
 REVISION="1"

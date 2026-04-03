@@ -3,7 +3,7 @@ DESCRIPTION="Tux Racer lets you take on the role of Tux the Linux Penguin \
 as he races down steep, snow-covered mountains. Enter cups and compete to \
 win the title! Tux Racer includes a variety of options for gameplay, including \
 the ability to race courses in fog, at night, and under high winds."
-HOMEPAGE="http://tuxracer.sourceforge.net"
+HOMEPAGE="https://tuxracer.sourceforge.net"
 COPYRIGHT="1999-2001 Jasmin F. Patry"
 LICENSE="GNU GPL v2"
 REVISION="1"

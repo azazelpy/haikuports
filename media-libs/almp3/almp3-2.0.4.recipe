@@ -2,7 +2,7 @@ SUMMARY="Allegro wrapper for the mpglib MP3 decoder"
 DESCRIPTION="AllegroMP3 (or \"almp3\" for short) is a wrapper for the MP3 \
 decoder in mpg123 that allows using it in Allegro. It uses an internal copy of \
 mpg123 that is optimized for the x86 platform in SIMD assembly."
-HOMEPAGE="http://icculus.org/~eviltypeguy/pkg/almp3/"
+HOMEPAGE="https://icculus.org/~eviltypeguy/pkg/almp3/"
 COPYRIGHT="2001-2005 Javier Gonzalez"
 LICENSE="GNU LGPL v2.1"
 REVISION="4"

@@ -4,7 +4,7 @@ consists of the modules easysock (socket creation, reading/writing data and so \
 on), xml (xml helper functions), security (hash calculation functions), \
 lists/stack (for data structures), conf (configuration file handling) and \
 debug (debugging)."
-HOMEPAGE="http://dev.ggzgamingzone.org/libraries/libggz/"
+HOMEPAGE="https://dev.ggzgamingzone.org/libraries/libggz/"
 COPYRIGHT="2003-2009 The GGZ Development Team"
 LICENSE="GNU LGPL v2.1"
 REVISION="2"

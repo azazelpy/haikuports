@@ -1,7 +1,7 @@
 SUMMARY="Numerical linear algebra package"
 DESCRIPTION="A library of Fortran 90 with subroutines for solving \
 the most commonly occurring problems in numerical linear algebra."
-HOMEPAGE="http://www.netlib.org/lapack/"
+HOMEPAGE="https://www.netlib.org/lapack/"
 COPYRIGHT="1992-2021 The LAPACK Project"
 LICENSE="BSD (3-clause)"
 REVISION="4"

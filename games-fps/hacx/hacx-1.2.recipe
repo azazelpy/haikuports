@@ -7,7 +7,7 @@ Can you handle it, hacker?
 This package contains the Hacx game data along with a script that will look for compatible \
 Doom source ports installed. If only one is found the game will run directly, \
 if there are more installed a pop-up to select the preferred one will be shown."
-HOMEPAGE="http://drnostromo.com/hacx/"
+HOMEPAGE="https://drnostromo.com/hacx/"
 COPYRIGHT="1997 - 2010 Banjo Software Inc. & contributors"
 LICENSE="Public Domain"
 REVISION="2"

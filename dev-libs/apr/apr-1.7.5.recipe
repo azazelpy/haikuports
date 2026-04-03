@@ -21,7 +21,7 @@ following:
 - shared memory
 - thread and process management
 - various data structures (tables, hashes, priority queues, etc.)"
-HOMEPAGE="http://apr.apache.org/"
+HOMEPAGE="https://apr.apache.org/"
 COPYRIGHT="2012 The Apache Software Foundation"
 LICENSE="Apache v2"
 REVISION="1"

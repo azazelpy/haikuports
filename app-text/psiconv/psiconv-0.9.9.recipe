@@ -11,7 +11,7 @@ The Psion 5MX uses mostly the same file formats as the Psion 5; the conversion \
 utilities seem to work, though you might get a few additional warnings. Other \
 Psion PDAs might be supported too, and even other machines running EPOC32. The \
 Psion Series 3 uses EPOC16, and are not supported."
-HOMEPAGE="http://frodo.looijaard.name/project/psiconv/"
+HOMEPAGE="https://frodo.looijaard.name/project/psiconv/"
 COPYRIGHT="1999-2005  Frodo Looijaard"
 LICENSE="GNU GPL v2"
 REVISION="3"

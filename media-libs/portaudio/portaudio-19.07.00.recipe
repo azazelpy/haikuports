@@ -1,6 +1,6 @@
 SUMMARY="Portable cross-platform audio I/O library"
 DESCRIPTION="PortAudio is a free, cross-platform, audio I/O library."
-HOMEPAGE="http://www.portaudio.com"
+HOMEPAGE="https://www.portaudio.com"
 COPYRIGHT="1999-2021 Ross Bencina and Phil Burk"
 LICENSE="MIT"
 REVISION="3"

@@ -1,7 +1,7 @@
 SUMMARY="A database engine"
 DESCRIPTION="LMDB is compact, fast, powerful, and robust and implements \
 a simplified variant of the BerkeleyDB (BDB) API."
-HOMEPAGE="http://symas.com/mdb/"
+HOMEPAGE="https://symas.com/mdb/"
 COPYRIGHT="2011-2021 Howard Chu, Symas Corp."
 LICENSE="OpenLDAP Public License"
 REVISION="3"

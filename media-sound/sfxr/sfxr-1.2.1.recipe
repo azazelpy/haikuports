@@ -3,7 +3,7 @@ DESCRIPTION="The original purpose was to provide a simple means of getting basic
 a game.  The idea was that a person could just hit a few buttons in this application and get some \
 largely randomized effects that were custom in the sense that the user could accept/reject each \
 proposed sound."
-HOMEPAGE="http://www.drpetter.se/project_sfxr.html"
+HOMEPAGE="https://www.drpetter.se/project_sfxr.html"
 COPYRIGHT="2007 Tomas Pettersson"
 LICENSE="MIT"
 REVISION="1"

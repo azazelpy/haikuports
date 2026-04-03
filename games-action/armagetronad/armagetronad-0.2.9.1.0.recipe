@@ -5,7 +5,7 @@ arcade game slung into the 21st century. Highlights include a customizable \
 playing arena, HUD, unique graphics, and AI bots. For the more advanced player \
 there are new game modes and a wide variety of physics 	settings to tweak as \
 well."
-HOMEPAGE="http://www.armagetronad.org/"
+HOMEPAGE="https://www.armagetronad.org/"
 COPYRIGHT="2007-2021 OSS Armagetronad Team"
 LICENSE="GNU GPL v2"
 REVISION="1"

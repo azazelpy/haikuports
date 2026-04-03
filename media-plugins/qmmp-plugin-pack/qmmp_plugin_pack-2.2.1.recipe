@@ -5,7 +5,7 @@ DESCRIPTION="Plugin List:
  * Sample Rate Converter - resampler based on libsamplerate library
  * Goom - audio visualization based on goom project
  * FFVideo - video playback engine based on FFmpeg library"
-HOMEPAGE="http://qmmp.ylsoftware.com/"
+HOMEPAGE="https://qmmp.ylsoftware.com/"
 COPYRIGHT="2006-2024 Qmmp Development Team"
 LICENSE="GNU GPL v2"
 REVISION="2"

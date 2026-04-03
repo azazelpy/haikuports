@@ -5,7 +5,7 @@ SCSI (e.g. Fibre Channel (FCP), Serial Attached SCSI (SAS) and the SCSI \
 Parallel Interface(SPI)) many other devices use SCSI command sets. \
 ATAPI CD/DVD drives and SATA disks that connect via a translation layer or \
 a bridge device are examples of devices that use SCSI command sets."
-HOMEPAGE="http://sg.danny.cz/sg/sg3_utils.html"
+HOMEPAGE="https://sg.danny.cz/sg/sg3_utils.html"
 COPYRIGHT="2016 Douglas Gilbert
 	2016 sg3_utils Contributors"
 LICENSE="GNU GPL v2

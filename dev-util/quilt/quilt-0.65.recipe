@@ -2,7 +2,7 @@ SUMMARY="Manage large numbers of patches"
 DESCRIPTION="Quilt allows you to easily manage large numbers of patches by \
 keeping track of the changes each patch makes. Patches can be applied, \
 un-applied, refreshed, and more."
-HOMEPAGE="http://savannah.nongnu.org/projects/quilt"
+HOMEPAGE="https://savannah.nongnu.org/projects/quilt"
 COPYRIGHT="2003-2016 Andreas Gruenbacher, Gerd Knorr, Martin Quinson, Peter Braam, Tom Wang et al"
 LICENSE="GNU GPL v2"
 REVISION="1"

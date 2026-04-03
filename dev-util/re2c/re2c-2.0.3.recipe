@@ -2,7 +2,7 @@ SUMMARY="Tool for generating recognizers from regular expressions"
 DESCRIPTION="re2c is a lexer generator for C/C++ and Go. Unlike full-featured \
 table-based lexers, re2c generates code that is believed to be as good \
 (and fast) as a carefully tuned hand-crafted C/C++ lexer."
-HOMEPAGE="http://re2c.org/"
+HOMEPAGE="https://re2c.org/"
 COPYRIGHT="2003-2016 Peter Bumbulis, Brian Young, Dan Nuffer, Marcus Boerger, \
 Hartmut Kaiser, Emmanuel Mogenet, Ulya Trofimovich"
 LICENSE="Public Domain"

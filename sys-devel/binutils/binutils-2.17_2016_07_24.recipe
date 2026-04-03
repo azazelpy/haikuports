@@ -1,5 +1,5 @@
 SUMMARY="The GNU assembler, linker and binary utilities"
-HOMEPAGE="http://www.gnu.org/software/binutils"
+HOMEPAGE="https://www.gnu.org/software/binutils"
 commit="20a46bd5f9af3618ab03662921b8d30e00916c13"
 SOURCE_URI="https://github.com/haiku/buildtools/archive/$commit.tar.gz"
 SOURCE_FILENAME="$portName-$portVersion.tar.gz"

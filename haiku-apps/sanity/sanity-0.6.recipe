@@ -2,7 +2,7 @@ SUMMARY="A GUI frontend for SANE"
 DESCRIPTION="A graphical Haiku scanner application, using SANE.
 SanityTranslator allows applications to use scanner devices through the \
 translation kit."
-HOMEPAGE="http://philippe.houdoin.free.fr/phil/beos/sanity/index-en.html"
+HOMEPAGE="https://philippe.houdoin.free.fr/phil/beos/sanity/index-en.html"
 COPYRIGHT="2001-2015 Philippe Houdoin"
 LICENSE="MIT"
 REVISION="8"

@@ -8,7 +8,7 @@ RoarAudio can also be used to connect multiple software components. An \
 example for such a setup is a common webradio setup where the used playback \
 software is connected to a streaming server in addition to a local soundcard. \
 RoarAudio has special features for such setups like meta data passing."
-HOMEPAGE="http://roaraudio.keep-cool.org/"
+HOMEPAGE="https://roaraudio.keep-cool.org/"
 COPYRIGHT="2008-2019 Philipp 'ph3-der-loewe' Schafft"
 LICENSE="GNU GPL v2
 	GNU GPL v3

@@ -10,7 +10,7 @@ Main features:
 * Time-line with variable tempo.
 * MIDI learning via Shift+MouseClick on many gui-cotrollers combined with a midi settings editor.
 * Unique human velocity, human time, pitch and swing functions."
-HOMEPAGE="http://hydrogen-music.org/"
+HOMEPAGE="https://hydrogen-music.org/"
 COPYRIGHT="2002-2008 Alessandro Cominu
 	2008-2023 The hydrogen development team"
 LICENSE="GNU GPL v2"

@@ -11,7 +11,7 @@ to this task, and without having to thottle the compression ratio due to the \
 memory usage. In such an environment, the server's memory usage can easily be \
 divided by 10 and the CPU usage by 3. In addition its high performance made it \
 fill a gap in network backup applications."
-HOMEPAGE="http://www.libslz.org/"
+HOMEPAGE="https://www.libslz.org/"
 COPYRIGHT="2013-2015 Willy Tarreau"
 LICENSE="MIT"
 REVISION="2"

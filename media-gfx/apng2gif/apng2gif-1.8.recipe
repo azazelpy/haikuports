@@ -1,7 +1,7 @@
 SUMMARY="Converts APNG animations into GIF format"
 DESCRIPTION="This program converts APNG animations into animated GIF format. \
 It performs the reverse of gif2apng."
-HOMEPAGE="http://apng2gif.sourceforge.net/"
+HOMEPAGE="https://apng2gif.sourceforge.net/"
 COPYRIGHT="2010-2017 Max Stepin"
 LICENSE="Zlib"
 REVISION="2"

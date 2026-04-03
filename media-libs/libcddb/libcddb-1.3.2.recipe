@@ -1,6 +1,6 @@
 SUMMARY="CDDB access library"
 DESCRIPTION="A library for accessing a CDDB server"
-HOMEPAGE="http://libcddb.sourceforge.net/"
+HOMEPAGE="https://libcddb.sourceforge.net/"
 COPYRIGHT="2003-2009 Kris Verbeeck"
 LICENSE="GNU LGPL v2"
 REVISION="3"

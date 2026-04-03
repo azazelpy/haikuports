@@ -4,7 +4,7 @@ internationalisation of makeindex.
 Xindy can be used to process indexes for documents marked up using (LA)TEX, Nroff family and \
 SGML-based languages. Xindy is highly configurable, both in markup terms and in terms of the \
 collating order of the text being processed."
-HOMEPAGE="http://www.xindy.org/"
+HOMEPAGE="https://www.xindy.org/"
 COPYRIGHT="2008–2014 Joachim Schrod"
 LICENSE="GNU GPL v2"
 REVISION="1"

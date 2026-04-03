@@ -5,7 +5,7 @@ Windows (GDI) and X-Windows (XLIB).
 The library contains functions to support both vector and image applications, \
 and the visualization surface can be either a window or a more abstract \
 surface, such as Image, Clipboard, Metafile, PS, and so on."
-HOMEPAGE="http://www.tecgraf.puc-rio.br/cd/"
+HOMEPAGE="https://www.tecgraf.puc-rio.br/cd/"
 COPYRIGHT="1994-2019 Tecgraf, PUC-Rio."
 LICENSE="MIT"
 REVISION="3"

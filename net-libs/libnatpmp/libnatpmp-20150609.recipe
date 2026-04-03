@@ -2,7 +2,7 @@ SUMMARY="NAT-PMP client library"
 DESCRIPTION="libnatpmp is a portable client library implementing the protocol \
 NAT-PMP. It is based on non blocking sockets and all call of the API are \
 asynchronous."
-HOMEPAGE="http://miniupnp.free.fr/libnatpmp.html"
+HOMEPAGE="https://miniupnp.free.fr/libnatpmp.html"
 COPYRIGHT="2007-2011 Thomas Bernard"
 LICENSE="BSD (3-clause)"
 REVISION="3"

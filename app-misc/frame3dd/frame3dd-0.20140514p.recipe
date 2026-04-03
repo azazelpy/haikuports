@@ -7,7 +7,7 @@ of two- and three- dimensional elastic structures using direct stiffness \
 and mass assembly. Frame3DD has its own text-file input format (.3dd), \
 but additionally supports matlab (.m) and spreadsheet (.csv) file formats, \
 and offers graphical output including mode shape animation via Gnuplot."
-HOMEPAGE="http://frame3dd.sourceforge.net/"
+HOMEPAGE="https://frame3dd.sourceforge.net/"
 COPYRIGHT="1992-2014 Henri P. Gavin."
 LICENSE="GNU GPL v3"
 REVISION="1"

@@ -11,7 +11,7 @@ images in a single file.
 The Ptex API provides cached file I/O and high-quality filtering - everything \
 that is needed to easily add Ptex support to a production-quality renderer or \
 texture authoring application."
-HOMEPAGE="http://ptex.us"
+HOMEPAGE="https://ptex.us"
 COPYRIGHT="2014 Disney Enterprises"
 LICENSE="PTEX SOFTWARE"
 REVISION="2"

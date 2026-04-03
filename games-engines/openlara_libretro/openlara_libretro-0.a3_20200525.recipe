@@ -2,7 +2,7 @@ SUMMARY="A port of OpenLara, a Tomb Raider engine, to the libretro architecture"
 DESCRIPTION="OpenLara is an open source implementation of the Tomb Raider \
 game engine, allowing you to play the original Tomb Raider on any platform \
 OpenLara is ported on. Original game files are required to play."
-HOMEPAGE="http://xproger.info/projects/OpenLara/"
+HOMEPAGE="https://xproger.info/projects/OpenLara/"
 COPYRIGHT="2016-2020 XProger, the libretro team"
 LICENSE="BSD (2-clause)"
 REVISION="1"

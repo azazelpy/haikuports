@@ -1,6 +1,6 @@
 SUMMARY="Generic game engine"
 DESCRIPTION="A generic game engine for 2D double-buffering animation"
-HOMEPAGE="http://sarrazip.com/dev/burgerspace.html"
+HOMEPAGE="https://sarrazip.com/dev/burgerspace.html"
 COPYRIGHT="1999-2019 Pierre Sarrazin"
 LICENSE="GNU GPL v2"
 REVISION="1"

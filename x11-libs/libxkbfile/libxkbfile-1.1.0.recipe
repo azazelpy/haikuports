@@ -1,7 +1,7 @@
 SUMMARY="X Keyboard File manipulation library"
 DESCRIPTION="libxkbfile provides an interface to read and manipulate \
 description files for XKB, the X11 keyboard configuration extension."
-HOMEPAGE="http://xorg.freedesktop.org/releases/individual/lib/"
+HOMEPAGE="https://xorg.freedesktop.org/releases/individual/lib/"
 COPYRIGHT="1994-1996 Silicon Graphics Computer Systems, Inc."
 LICENSE="MIT (no promotion)"
 REVISION="2"

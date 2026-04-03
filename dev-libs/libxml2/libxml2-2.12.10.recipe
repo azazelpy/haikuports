@@ -7,7 +7,7 @@ information enclosed between angle brackets. HTML is the most well-known \
 markup language.
 Though the library is written in C a variety of language bindings make it \
 available in other environments."
-HOMEPAGE="http://www.xmlsoft.org/"
+HOMEPAGE="https://www.xmlsoft.org/"
 COPYRIGHT="1998-2012 Daniel Veillard.  All Rights Reserved."
 LICENSE="MIT"
 REVISION="2"

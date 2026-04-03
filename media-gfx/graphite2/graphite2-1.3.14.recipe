@@ -1,7 +1,7 @@
 SUMMARY="Graphite text processing engine"
 DESCRIPTION="Graphite2 is a library providing rendering capabilities for \
 complex non-Roman writing systems."
-HOMEPAGE="http://graphite.sil.org/"
+HOMEPAGE="https://graphite.sil.org/"
 COPYRIGHT="2010-2018 SIL International"
 LICENSE="GNU LGPL v2.1"
 REVISION="4"

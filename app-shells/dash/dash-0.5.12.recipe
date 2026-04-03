@@ -3,7 +3,7 @@ DESCRIPTION="Dash is a POSIX-compliant implementation of /bin/sh that aims to \
 be as small as possible. It does this without sacrificing speed where \
 possible. In fact, it is significantly faster than bash (the GNU Bourne-Again \
 Shell) for most tasks."
-HOMEPAGE="http://gondor.apana.org/~herbert/dash/"
+HOMEPAGE="https://gondor.apana.org/~herbert/dash/"
 COPYRIGHT="1989-1994 The Regents of the University of California
 	1997 Christos Zoulas
 	1997-2005 Herbert Xu"

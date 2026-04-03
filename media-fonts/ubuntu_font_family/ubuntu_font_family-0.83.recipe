@@ -5,7 +5,7 @@ font for the current releases of  Ubuntu, one of the most popular Linux-based \
 operating systems. It was designed by Dalton Maag in 2010 and now it covers \
 200-250 languages. The Ubuntu Font Family is included in Google Fonts too.
 "
-HOMEPAGE="http://font.ubuntu.com"
+HOMEPAGE="https://font.ubuntu.com"
 COPYRIGHT="2011 Canonical Ltd."
 LICENSE="Ubuntu Font License 1.0"
 REVISION="1"

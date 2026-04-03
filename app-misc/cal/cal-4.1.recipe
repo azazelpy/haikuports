@@ -2,7 +2,7 @@ SUMMARY="Display a monthly or yearly calendar, with optional appointments"
 DESCRIPTION="By default, cal will display a calendar for the current month \
 with the current day marked. By specifing certain arguments, cal will \
 display a calendar for a whole year or a specified month and year."
-HOMEPAGE="http://unicorn.us.com/cal.html"
+HOMEPAGE="https://unicorn.us.com/cal.html"
 COPYRIGHT="1993-2014 Alex Matulich, Unicorn Research Corporation."
 LICENSE="BSD (4-clause)"
 REVISION="1"

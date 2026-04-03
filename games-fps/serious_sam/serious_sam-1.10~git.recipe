@@ -3,7 +3,7 @@ DESCRIPTION="The Serious Engine lets you run the Serious Sam Classic: The First 
 and the Serious Sam Classic: The Second Encounter games. In addition, custom game mods \
 are supported also. Croteam pledged Serious Engine to go open source under the \
 GPLv2 on March 11, 2016."
-HOMEPAGE="http://www.croteam.com"
+HOMEPAGE="https://www.croteam.com"
 COPYRIGHT="2001-2016 Croteam, 2016 Ryan C. Gordon, 2017 ptitSeb, 2018 EXL"
 LICENSE="GNU GPL v2"
 REVISION="4"

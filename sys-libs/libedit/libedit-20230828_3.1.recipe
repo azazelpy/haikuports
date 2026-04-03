@@ -3,7 +3,7 @@ DESCRIPTION="This is an autotool- and libtoolized port of the NetBSD Editline li
 (libedit). This Berkeley-style licensed command line editor library provides \
 generic line editing, history, and tokenization functions, similar to those \
 found in GNU Readline."
-HOMEPAGE="http://thrysoee.dk/editline/"
+HOMEPAGE="https://thrysoee.dk/editline/"
 COPYRIGHT="1992-2023 The NetBSD Foundation, Inc."
 LICENSE="BSD (3-clause)"
 REVISION="1"

@@ -5,7 +5,7 @@ You can modify the file and search through it. \
 You have also copy&paste and save to file functions. \
 Truncating or appending to the file is allowed. \
 Modifications are shown in bold."
-HOMEPAGE="http://rigaux.org/hexedit.html"
+HOMEPAGE="https://rigaux.org/hexedit.html"
 COPYRIGHT="1998-2013 Pixel (Pascal Rigaux)"
 LICENSE="GNU GPL v2"
 REVISION="3"

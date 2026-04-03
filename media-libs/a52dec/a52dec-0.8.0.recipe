@@ -4,7 +4,7 @@ including digital television and DVD. It is also known as AC-3 or AC3.
 
 a52dec is a test program for liba52. It decodes ATSC A/52 streams, and also \
 includes a demultiplexer for MPEG-1 and MPEG-2 program streams."
-HOMEPAGE="http://liba52.sourceforge.net/
+HOMEPAGE="https://liba52.sourceforge.net/
 	https://git.adelielinux.org/community/a52dec/"
 COPYRIGHT="1999-2002 Aaron Holtzman & Michel Lespinasse
 	2022 Zach van Rijn"

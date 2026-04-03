@@ -7,7 +7,7 @@ Features:
 * Unique code analysis that detect various kinds of bugs in your code.
 * Both command line interface and graphical user interface are available.
 * Cppcheck has a strong focus on detecting undefined behaviour."
-HOMEPAGE="http://cppcheck.sourceforge.io/"
+HOMEPAGE="https://cppcheck.sourceforge.io/"
 COPYRIGHT="2007-2025 the Cppcheck team"
 LICENSE="GNU GPL v3"
 REVISION="1"

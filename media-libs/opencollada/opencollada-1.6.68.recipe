@@ -4,7 +4,7 @@ digital assets among various graphics software applications that might \
 otherwise store their assets in incompatible file formats. COLLADA documents \
 that describe digital assets are XML files, usually identified with a .dae \
 (digital asset exchange) filename extension."
-HOMEPAGE="http://www.opencollada.org/"
+HOMEPAGE="https://www.opencollada.org/"
 COPYRIGHT="2013-2018 The Khronos Group Inc."
 LICENSE="MIT"
 REVISION="2"

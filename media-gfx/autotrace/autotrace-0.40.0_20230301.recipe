@@ -3,7 +3,7 @@ DESCRIPTION="AutoTrace is a program that can convert bitmaps into \
 close vectors. It tries to replicate the image as close as possible while \
 still being usable to edit manually. It is made to compete with other \
 commercial products that do the same."
-HOMEPAGE="http://autotrace.sourceforge.net"
+HOMEPAGE="https://autotrace.sourceforge.net"
 COPYRIGHT="2000-2020 AutoTrace contributors"
 LICENSE="GNU GPL v2"
 REVISION="1"

@@ -24,7 +24,7 @@ Digital Alpha UNIX, IRIX (mips), Mac OS X (ppc), and for other OS variants \
 such as AmigaOS/MorphOS. It is designed to be run as an XMMS, with \
 Cjukebox/Musicus, or a Audacious media player input plugin A built-in cmdline \
 interface also exists."
-HOMEPAGE="http://zakalwe.fi/uade/"
+HOMEPAGE="https://zakalwe.fi/uade/"
 COPYRIGHT="2002-2009 UADE Team"
 LICENSE="GNU GPL v2"
 REVISION="1"

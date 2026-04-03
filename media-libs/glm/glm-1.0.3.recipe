@@ -13,7 +13,7 @@ This library works perfectly with OpenGL but it also ensures interoperability wi
 party libraries and SDK. It is a good candidate for software rendering (raytracing / \
 rasterisation), image processing, physics simulations and any development context that requires a \
 simple and convenient mathematics library."
-HOMEPAGE="http://glm.g-truc.net"
+HOMEPAGE="https://glm.g-truc.net"
 COPYRIGHT="2005-2014 G-Truc Creation"
 LICENSE="MIT"
 REVISION="1"

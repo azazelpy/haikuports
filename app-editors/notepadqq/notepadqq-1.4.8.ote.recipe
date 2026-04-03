@@ -2,7 +2,7 @@ SUMMARY="Multiplatform Notepad++-like editor"
 DESCRIPTION="Notepadqq is designed from developers, for developers. With its \
 more than 100 supported languages, it is the ideal text editor for your daily \
 tasks."
-HOMEPAGE="http://notepadqq.altervista.org/"
+HOMEPAGE="https://notepadqq.altervista.org/"
 COPYRIGHT="2012-2019 Notepadqq Project"
 LICENSE="GNU LGPL v3"
 REVISION="1"

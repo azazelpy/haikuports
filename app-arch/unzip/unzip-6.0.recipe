@@ -2,7 +2,7 @@ SUMMARY="Extraction utility for zip archives"
 DESCRIPTION="UnZip is an extraction utility for archives compressed in \
 .zip format (zipfiles). UnZip can list or extract files from an archive \
 or test its integrity."
-HOMEPAGE="http://www.info-zip.org/UnZip.html"
+HOMEPAGE="https://www.info-zip.org/UnZip.html"
 COPYRIGHT="1995-2014 Greg Roelofs"
 LICENSE="Info-ZIP"
 REVISION="5"

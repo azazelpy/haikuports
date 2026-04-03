@@ -2,7 +2,7 @@ SUMMARY="DotGNU Portable .NET suite"
 DESCRIPTION="DotGNU Portable.NET is a portable suite of tools (including a C# \
 compiler, assembler, and runtime engine) for non-Microsoft platforms.  It is \
 part of the DotGNU meta-project"
-HOMEPAGE="http://www.dotgnu.org/pnet.html"
+HOMEPAGE="https://www.dotgnu.org/pnet.html"
 COPYRIGHT="2001-2006 Southern Storm Software, Pty Ltd.
 	1984-2002 Free Software Foundation, Inc.
 	2003 Gopal.V

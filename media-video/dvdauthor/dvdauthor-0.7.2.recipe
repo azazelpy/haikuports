@@ -1,6 +1,6 @@
 SUMMARY="DVD authoring tools"
 DESCRIPTION="Tools for generating DVD files to be played on standalone DVD players."
-HOMEPAGE="http://dvdauthor.sourceforge.net/"
+HOMEPAGE="https://dvdauthor.sourceforge.net/"
 COPYRIGHT="2002-2005, 2007, 2010, 2012, 2016 Scott Smith, Lawrence D'Oliveiro"
 LICENSE="GNU GPL v2"
 REVISION="8"

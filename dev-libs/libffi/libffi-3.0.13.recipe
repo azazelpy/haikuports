@@ -4,7 +4,7 @@ user a C programming language interface used to call natively compiled \
 functions. Libffi is typically used as a bridging technology between compiled \
 and interpreted language implementations. It can also be used to implement \
 plugins."
-HOMEPAGE="http://sourceware.org/libffi"
+HOMEPAGE="https://sourceware.org/libffi"
 COPYRIGHT="1996-2013 Anthony Green, Red Hat, Inc and others."
 LICENSE="MIT"
 REVISION="4"

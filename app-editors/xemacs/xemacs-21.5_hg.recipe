@@ -1,7 +1,7 @@
 SUMMARY="The famous XEmacs editor"
 DESCRIPTION="A highly customizable open source text editor and application \
 development system."
-HOMEPAGE="http://xemacs.org/"
+HOMEPAGE="https://xemacs.org/"
 COPYRIGHT="1998-2000 Hrvoje Niksic
 	2000-2001 Michael Sperber
 	2001 Ben Wing

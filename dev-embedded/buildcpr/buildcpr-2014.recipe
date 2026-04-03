@@ -1,7 +1,7 @@
 SUMMARY="Tool to create Amstrad CPC cartridges"
 DESCRIPTION="This utility will take any binary file up to 512k and make a \
 cartridge image from it (.CPR) which can be used with any CPC+ emulator."
-HOMEPAGE="http://www.cpctech.org.uk/"
+HOMEPAGE="https://www.cpctech.org.uk/"
 COPYRIGHT="2014 Kevin Thacker"
 LICENSE="MIT"
 SOURCE_URI="http://www.genesis8bit.fr/frontend/emu-uti/buildcpr.zip"

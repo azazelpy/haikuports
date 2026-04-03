@@ -12,7 +12,7 @@ No more endless tinkering with formatting details, \"finger painting\" font \
 attributes or futzing around with page boundaries. You just write. On screen, \
 LyX looks like any word processor; its printed output - or richly \
 cross-referenced PDF, just as readily produced - looks like nothing else."
-HOMEPAGE="http://www.lyx.org"
+HOMEPAGE="https://www.lyx.org"
 COPYRIGHT="the lyx community"
 LICENSE="GNU GPL v2"
 REVISION="1"

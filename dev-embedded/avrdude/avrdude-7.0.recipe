@@ -2,7 +2,7 @@ SUMMARY="A tool to up/download to AVR microcontrollers"
 DESCRIPTION="AVRDUDE is an utility to download/upload/manipulate the ROM and \
 EEPROM contents of AVR microcontrollers using the in-system programming \
 technique (ISP)."
-HOMEPAGE="http://www.nongnu.org/avrdude/"
+HOMEPAGE="https://www.nongnu.org/avrdude/"
 COPYRIGHT="2003-2022 Brian S. Dean"
 LICENSE="GNU GPL v2"
 REVISION="2"

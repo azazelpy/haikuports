@@ -15,7 +15,7 @@ features like Undo/Redo.
 
 KolourPaint is opensource software written in C++ using the Qt and KDE \
 libraries."
-HOMEPAGE="http://www.kolourpaint.org/"
+HOMEPAGE="https://www.kolourpaint.org/"
 COPYRIGHT="2010-2025 KDE Organisation"
 LICENSE="GNU LGPL v2"
 REVISION="1"

@@ -3,7 +3,7 @@ DESCRIPTION="Bam uses Lua to describe the build process. It's takes its \
 inspiration for the script files from scons. While scons focuses on being \
 100% correct when building, bam makes a few sacrifices to acquire fast. \
 full and incremental build times."
-HOMEPAGE="http://matricks.github.io/bam/"
+HOMEPAGE="https://matricks.github.io/bam/"
 COPYRIGHT="2009 Magnus Auvinen"
 LICENSE="Zlib"
 REVISION="2"

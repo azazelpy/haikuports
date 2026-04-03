@@ -11,7 +11,7 @@ The awk utility interprets a special-purpose programming language that \
 makes it possible to handle simple data-reformatting jobs with just a \
 few lines of code.
 "
-HOMEPAGE="http://www.gnu.org/s/gawk"
+HOMEPAGE="https://www.gnu.org/s/gawk"
 COPYRIGHT="1983-2023 Free Software Foundation, Inc."
 LICENSE="GNU GPL v3"
 REVISION="1"

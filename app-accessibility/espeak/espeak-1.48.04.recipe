@@ -7,7 +7,7 @@ This allows many languages to be provided in a small size. \
 The speech is clear, and can be used at high speeds, \
 but is not as natural or smooth as larger synthesizers \
 which are based on human speech recordings."
-HOMEPAGE="http://espeak.sourceforge.net/"
+HOMEPAGE="https://espeak.sourceforge.net/"
 COPYRIGHT="2005-2014 Jonathan Duddington"
 LICENSE="GNU GPL v3"
 REVISION="7"

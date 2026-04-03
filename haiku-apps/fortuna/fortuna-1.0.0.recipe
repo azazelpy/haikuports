@@ -5,7 +5,7 @@ open it. Yeah, sure, there is already a fortune program, but it only shows \
 from the command line, you'll get a lot of repeats, it's quite a bit of work \
 to install more, and you have to muck around with your UserBootScript. Lots of \
 messing around. Then again, you can use Fortuna, which has none of this."
-HOMEPAGE="http://darkwyrm.beemulated.net/apps/fortuna.htm"
+HOMEPAGE="https://darkwyrm.beemulated.net/apps/fortuna.htm"
 COPYRIGHT="2006 DarkWyrm"
 LICENSE="MIT"
 REVISION="3"

@@ -11,7 +11,7 @@ weights, along with an italic style for each weight. The framework also offers \
 the Roboto Condensed variant in regular and bold weights, along with an italic \
 style for each weight.
 "
-HOMEPAGE="http://www.google.com/fonts/specimen/Roboto"
+HOMEPAGE="https://www.google.com/fonts/specimen/Roboto"
 COPYRIGHT="2013 Christian Robertson"
 LICENSE="Apache v2"
 REVISION="1"

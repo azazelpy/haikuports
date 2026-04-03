@@ -5,7 +5,7 @@ the TrueType font data. It allows programmers to use multiple TrueType fonts \
 without having to code a font rendering routine themselves. With the power of \
 outline fonts and antialiasing, high quality text output can be obtained \
 without much effort."
-HOMEPAGE="http://www.libsdl.org/projects/SDL_ttf/release-1.2.html"
+HOMEPAGE="https://www.libsdl.org/projects/SDL_ttf/release-1.2.html"
 COPYRIGHT="1997-2012 Sam Lantinga"
 LICENSE="Zlib"
 REVISION="10"

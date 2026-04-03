@@ -1,7 +1,7 @@
 SUMMARY="Audio and Video Tools for Motion JPEG and MPEG"
 DESCRIPTION="Programs for MJPEG recording and playback and simple cut-and-paste \
 editting and MPEG compression of audio and video."
-HOMEPAGE="http://mjpeg.sourceforge.net"
+HOMEPAGE="https://mjpeg.sourceforge.net"
 LICENSE="GNU GPL v2"
 COPYRIGHT="2000-2003 Fabrice Bellard
 	2003-2012 the FFmpeg developers"

@@ -2,7 +2,7 @@ SUMMARY="Simple Direct Media Layer graphics extension"
 DESCRIPTION="SGE provides many graphics operations such as drawing of lines, \
 circles and primitives. It also allows for the rotation and scaling of \
 surfaces, pixel operations and much more."
-HOMEPAGE="http://www.etek.chalmers.se/~e8cal1/sge/"
+HOMEPAGE="https://www.etek.chalmers.se/~e8cal1/sge/"
 COPYRIGHT="1999-2003 Anders Lindstrom"
 LICENSE="GNU LGPL v2.1"
 REVISION="6"

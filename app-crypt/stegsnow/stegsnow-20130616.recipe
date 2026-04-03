@@ -2,7 +2,7 @@ SUMMARY="Hides information in text files using trailing whitespace"
 DESCRIPTION="SNOW (Steganographic Nature Of Whitespace) is a steganography \
 tool which conceals messages in ASCII text by appending spaces to the end of \
 lines. Optional encryption is supported to further secure the message."
-HOMEPAGE="http://www.darkside.com.au/snow/"
+HOMEPAGE="https://www.darkside.com.au/snow/"
 COPYRIGHT="1998-2013 Matthew Kwan"
 LICENSE="Apache v2"
 REVISION="2"

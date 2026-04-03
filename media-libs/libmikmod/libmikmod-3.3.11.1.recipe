@@ -1,6 +1,6 @@
 SUMMARY="A library for playing MOD files"
 DESCRIPTION="libmikmod supports many formats, including mod, s3m, it, and xm."
-HOMEPAGE="http://mikmod.sourceforge.net"
+HOMEPAGE="https://mikmod.sourceforge.net"
 COPYRIGHT="1998-2004 Jean-Paul Mikkers, Jake Stine, Frank Loemker, Steve \
 McIntyre, Peter Amstutz, and Miodrag Vallat."
 LICENSE="GNU LGPL v2.1"

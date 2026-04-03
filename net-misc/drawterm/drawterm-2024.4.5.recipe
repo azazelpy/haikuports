@@ -2,7 +2,7 @@ SUMMARY="A tool for connecting to Plan 9 cpu servers"
 DESCRIPTION="drawterm is a utility that allows a user to connect to a \
 Plan9 CPU server. This version of drawterm includes additional support for \
 TLS and DP9IK, used by the 9front fork of Plan9."
-HOMEPAGE="http://git.9front.org/plan9front/drawterm/HEAD/info.html"
+HOMEPAGE="https://git.9front.org/plan9front/drawterm/HEAD/info.html"
 COPYRIGHT="2005 Russ Cox, 2021 Plan 9 Foundation, 2023 9front authors"
 LICENSE="MIT"
 REVISION="1"

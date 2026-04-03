@@ -1,7 +1,7 @@
 SUMMARY="Prints out location of specified executables that are in your PATH"
 DESCRIPTION="GNU 'which' is an utility that is used to find which executable \
 (or alias or shell function) is executed when entered on the shell prompt."
-HOMEPAGE="http://savannah.gnu.org/projects/which"
+HOMEPAGE="https://savannah.gnu.org/projects/which"
 COPYRIGHT="Free Software Foundation"
 LICENSE="GNU GPL v2"
 REVISION="6"

@@ -1,7 +1,7 @@
 SUMMARY="A Quran Study Software"
 DESCRIPTION="Al-Anvar is a cross-platform Quran Study Software. It uses \
 \"Tanzil.net\" and \"Zekr.org\" database as its database."
-HOMEPAGE="http://al-anvar.sourceforge.net/"
+HOMEPAGE="https://al-anvar.sourceforge.net/"
 COPYRIGHT="2012-2018 S. Hosein Hoseini"
 LICENSE="GNU GPL v3"
 REVISION="2"

@@ -1,6 +1,6 @@
 SUMMARY="Library to convert wmf files"
 DESCRIPTION="A library for reading vector images in Microsoft's Windows Metafile Format (WMF)"
-HOMEPAGE="http://wvware.sourceforge.net/libwmf.html
+HOMEPAGE="https://wvware.sourceforge.net/libwmf.html
 	https://github.com/caolanm/libwmf"
 COPYRIGHT="2018-2021 Caolán McNamara
 	2000-2001 Martin Vermeer

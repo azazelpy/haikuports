@@ -9,7 +9,7 @@ PDF. It supports the following features.
    6. Creating encrypted PDF files.
    7. Using various character set (ISO8859-1~16, MSCP1250~8, KOI8-R).
    8. Supporting CJK fonts and encodings."
-HOMEPAGE="http://www.libharu.org/"
+HOMEPAGE="https://www.libharu.org/"
 COPYRIGHT="2000-2006 Takeshi Kanno
 	2007-2009 Antony Dovgal et al."
 LICENSE="Zlib"

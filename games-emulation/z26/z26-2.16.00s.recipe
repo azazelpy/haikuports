@@ -2,7 +2,7 @@ SUMMARY="A fully-featured Atari 2600 emulator"
 DESCRIPTION="z26 is an Atari 2600 emulator which supports a lot of carts and a \
 whole lot of peripherals, including mindlink, Trak-Ball, Light Gun and much more!\
 It also supports multiload files, and a whole lot of other features."
-HOMEPAGE="http://whimsey.com/z26/"
+HOMEPAGE="https://whimsey.com/z26/"
 COPYRIGHT="1997-2004 John Saeger"
 LICENSE="GNU GPL v2"
 REVISION="2"

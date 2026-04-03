@@ -1,7 +1,7 @@
 SUMMARY="Automatically Tuned Linear Algebra Software"
 DESCRIPTION="A software library for linear algebra. It provides a mature open \
 source implementation of BLAS APIs for C and Fortran77."
-HOMEPAGE="http://math-atlas.sourceforge.net/"
+HOMEPAGE="https://math-atlas.sourceforge.net/"
 COPYRIGHT="2011-2016 The ATLAS Project"
 LICENSE="BSD (3-clause)"
 REVISION="1"

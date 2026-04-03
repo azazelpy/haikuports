@@ -2,7 +2,7 @@ SUMMARY="XML-FO to PDF formatter"
 DESCRIPTION="A fast, free, high-quality, multi-platform XSL formatter that \
 aims to excel at DocBook formatting and that integrates easily with other \
 programs and with scripting languages."
-HOMEPAGE="http://xmlroff.org"
+HOMEPAGE="https://xmlroff.org"
 COPYRIGHT="2001-2002 Sun Microsystems
 	2007-2010 Meneith Consulting
 	2011-2012 Mentea"

@@ -9,7 +9,7 @@ dictionary. Aspell will also do its best to respect the current locale \
 setting. Other advantages over Ispell include support for using multiple \
 dictionaries at once and intelligently handling personal dictionaries when \
 more than one Aspell process is open at once."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2000-2006 Kevin Atkinson"
 LICENSE="GNU LGPL v2"
 REVISION="1"

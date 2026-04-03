@@ -5,7 +5,7 @@ specialised messaging middleware products. ZeroMQ sockets provide an \
 abstraction of asynchronous message queues, multiple messaging patterns, \
 message filtering (subscriptions), seamless access to multiple transport \
 protocols and more."
-HOMEPAGE="http://www.zeromq.org/"
+HOMEPAGE="https://www.zeromq.org/"
 COPYRIGHT="2007-2014 iMatix Corporation
 	2009-2011 250bpm s.r.o.
 	2010-2011 Miru Limited

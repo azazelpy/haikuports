@@ -11,7 +11,7 @@ DESCRIPTION="\
  * Add or remove braces on single-statement if/do/while/for statements
  * Supports embedded SQL 'EXEC SQL' stuff
  * Highly configurable - 454 configurable options!"
-HOMEPAGE="http://uncrustify.sourceforge.net/"
+HOMEPAGE="https://uncrustify.sourceforge.net/"
 COPYRIGHT="2005-2016 Ben Gardner"
 LICENSE="GNU GPL v2"
 REVISION="1"

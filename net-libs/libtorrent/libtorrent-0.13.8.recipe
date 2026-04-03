@@ -1,7 +1,7 @@
 SUMMARY="BitTorrent library written in C++ for *nix"
 DESCRIPTION="libtorrent is a C++ implementation of the BitTorrent protocol \
 with the goals of being efficient and easy to use."
-HOMEPAGE="http://libtorrent.rakshasa.no/"
+HOMEPAGE="https://libtorrent.rakshasa.no/"
 COPYRIGHT="2005-2019 Jari Sundell"
 LICENSE="GNU LGPL v2"
 REVISION="2"

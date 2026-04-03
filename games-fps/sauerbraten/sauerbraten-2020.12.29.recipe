@@ -3,7 +3,7 @@ DESCRIPTION="Cube 2: Sauerbraten is a free multiplayer & singleplayer first pers
 
 Much like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also \
 to allow map/geometry editing to be done cooperatively in-game."
-HOMEPAGE="http://sauerbraten.org/"
+HOMEPAGE="https://sauerbraten.org/"
 COPYRIGHT="2020 Cube 2: Sauerbraten team"
 LICENSE="Zlib"
 REVISION="1"

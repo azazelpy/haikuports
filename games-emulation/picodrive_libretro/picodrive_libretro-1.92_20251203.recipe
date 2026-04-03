@@ -1,7 +1,7 @@
 SUMMARY="A port of PicoDrive, a Sega 16bit emulator to the libretro API"
 DESCRIPTION="PicoDrive is a Megadrive / Genesis / Sega CD / Mega CD / 32X \
 emulator, focusing on performance."
-HOMEPAGE="http://notaz.gp2x.de/pico.php"
+HOMEPAGE="https://notaz.gp2x.de/pico.php"
 COPYRIGHT="2005-2018 notaz, the libretro team"
 LICENSE="GNU LGPL v2.1"
 REVISION="1"

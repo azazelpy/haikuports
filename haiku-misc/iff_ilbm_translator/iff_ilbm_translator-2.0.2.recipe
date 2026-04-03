@@ -2,7 +2,7 @@ SUMMARY="Amiga IFF ILBM image translator add-on"
 DESCRIPTION="IFF_ILBMTranslator is a translator add-on for reading and writing \
 the Amiga's IFF ILBM (interleaved bitmap) format. Images with 1-8 and 24 \
 bitplanes are supported, as are the EHB, HAM, and HAM8 formats."
-HOMEPAGE="http://edmundv.home.xs4all.nl/sw/"
+HOMEPAGE="https://edmundv.home.xs4all.nl/sw/"
 COPYRIGHT="1997-1999 Edmund Vermeulen, Tim Stack"
 LICENSE="Public Domain"
 REVISION="1"

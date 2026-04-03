@@ -5,7 +5,7 @@ mathematics, graphics, interactive content, slides, etc.
 Its rendering engine uses high-quality typesetting algorithms so as to \
 produce professionally looking documents, which can either be printed out \
 or presented from a laptop."
-HOMEPAGE="http://www.texmacs.org/"
+HOMEPAGE="https://www.texmacs.org/"
 COPYRIGHT="Free Software Foundation"
 LICENSE="GNU GPL v3"
 REVISION="2"

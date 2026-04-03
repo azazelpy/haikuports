@@ -5,7 +5,7 @@ extensions functions and some of Saxon's evaluate and expressions extensions.
 People can either embed the library in their application or use xsltproc the \
 command line processing tool. This library is free software and can be reused \
 in commercial applications."
-HOMEPAGE="http://www.xmlsoft.org/"
+HOMEPAGE="https://www.xmlsoft.org/"
 COPYRIGHT="2001-2012 Daniel Veillard"
 LICENSE="MIT"
 REVISION="1"

@@ -1,6 +1,6 @@
 SUMMARY="A graphics and text mode web browser"
 DESCRIPTION="Links is a multi-platform web browser you can run in Terminal."
-HOMEPAGE="http://links.twibright.com/"
+HOMEPAGE="https://links.twibright.com/"
 COPYRIGHT="1999-2021 Mikulas Patocka
 	2000-2021 Petr Kulhavy, Karel Kulhavy, Martin Pergel"
 LICENSE="GNU GPL v2"

@@ -4,7 +4,7 @@ intersections about a point, Voronoi diagrams, furthest-site Delaunay \
 triangulations, and furthest-site Voronoi diagrams.  Qhull works with 2-d, \
 3-d, 4-d, 5-d, and higher dimensions. It computes volumes, surface areas, and \
 approximations."
-HOMEPAGE="http://www.qhull.org/"
+HOMEPAGE="https://www.qhull.org/"
 COPYRIGHT="2009-2020 Sony Pictures Imageworks Inc."
 LICENSE="BSD (3-clause)"
 REVISION="3"

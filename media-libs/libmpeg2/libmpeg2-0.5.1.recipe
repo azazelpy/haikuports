@@ -15,7 +15,7 @@ motion compensation and the inverse cosine transform stages) we always have a \
 generic C routine to fall back on.
 - Reuseability: libmpeg2 doesn't include any project-specific code, but it \
 should still include enough features to be used by very diverse projects."
-HOMEPAGE="http://libmpeg2.sourceforge.net"
+HOMEPAGE="https://libmpeg2.sourceforge.net"
 COPYRIGHT="2000-2003 Michel Lespinasse
 	1999-2000 Aaron Holtzman"
 LICENSE="GNU GPL v2"

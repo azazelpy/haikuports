@@ -3,7 +3,7 @@ DESCRIPTION="tin is a full-screen easy to use Usenet newsreader. \
 It can read news locally (e.g., /var/spool/news) or remotely \
 (rtin or tin -r option) via an NNTP (Network News Transport Protocol) \
 server."
-HOMEPAGE="http://tin.org/"
+HOMEPAGE="https://tin.org/"
 COPYRIGHT="2003-2020 Urs Janssen"
 LICENSE="BSD (3-clause)"
 REVISION="1"

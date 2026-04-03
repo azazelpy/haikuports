@@ -1,7 +1,7 @@
 SUMMARY="Qt-based audio player with winamp/xmms skins support"
 DESCRIPTION="This program is an audio-player, written with the help of the Qt library. \
 The user interface is similar to winamp or xmms."
-HOMEPAGE="http://qmmp.ylsoftware.com/"
+HOMEPAGE="https://qmmp.ylsoftware.com/"
 COPYRIGHT="2006-2025 Qmmp Development Team"
 LICENSE="GNU GPL v2"
 REVISION="1"

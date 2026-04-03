@@ -12,7 +12,7 @@ techniques will be emulated correctly.
 enhanced density. The emulator not only understands .atr and .xfd files, \
 but comes with a mini-boot loader that allows you to boot from binary load \
 files (.exe and .com)."
-HOMEPAGE="http://xl-project.com/"
+HOMEPAGE="https://xl-project.com/"
 COPYRIGHT="2004-2015 Thomas Richter"
 LICENSE="TPL"
 REVISION="5"

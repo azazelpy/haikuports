@@ -6,7 +6,7 @@ Eric A. Welsh uploaded an initial set of unencumbered patch files on \
 the 11th March 2004. See the missing pat list below and feel free to \
 contribute any GUS patches OR free and open wav files that can be \
 turned into patches or SoundFonts."
-HOMEPAGE="http://freepats.zenvoid.org"
+HOMEPAGE="https://freepats.zenvoid.org"
 COPYRIGHT="Eric A. Welsh, Walt Gregg"
 LICENSE="GNU GPL v2"
 REVISION="1"

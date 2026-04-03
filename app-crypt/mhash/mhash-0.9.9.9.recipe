@@ -3,7 +3,7 @@ DESCRIPTION="Libmhash is a library that provides a uniform interface to \
 several hash algorithms. It supports the basics for message authentication \
 by following rfc2104 (HMAC). It also includes some key generation algorithms \
 which are based on hash algorithms."
-HOMEPAGE="http://mhash.sourceforge.net/"
+HOMEPAGE="https://mhash.sourceforge.net/"
 COPYRIGHT="1998 Nikos Mavroyanopoulos
 	1999, 2000 Sascha Schumman, Nikos Mavroyanopoulos"
 LICENSE="GNU LGPL v2"

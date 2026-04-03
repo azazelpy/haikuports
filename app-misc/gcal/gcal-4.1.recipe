@@ -5,7 +5,7 @@ and proleptic Julian and Gregorian calendar sheets, respectively for one month, 
 three months, or a whole year. It also displays eternal holiday lists for many \
 countries around the globe, and features a very powerful creation of fixed date \
 lists that can be used for reminding purposes."
-HOMEPAGE="http://www.gnu.org/software/gcal/"
+HOMEPAGE="https://www.gnu.org/software/gcal/"
 COPYRIGHT="1994-2017 Free Software Foundation Inc."
 LICENSE="GNU GPL v3"
 REVISION="1"

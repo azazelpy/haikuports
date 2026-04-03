@@ -16,7 +16,7 @@ don't route mail to local users).
 * replace sendmail with any other script to which all job output should be piped
 * various crontab syntax extensions, including @daily and @reboot and more \
 finer-grained frequency specifiers. See manpages for details."
-HOMEPAGE="http://www.jimpryor.net/linux/dcron.html"
+HOMEPAGE="https://www.jimpryor.net/linux/dcron.html"
 COPYRIGHT="1994 Matthew Dillon
 	2009-2011 James Pryor"
 LICENSE="GNU GPL v2"

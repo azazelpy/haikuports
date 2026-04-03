@@ -1,7 +1,7 @@
 SUMMARY="A simple GUI framework for SDL"
 DESCRIPTION="GUIlib is a very simple GUI library for SDL. It provides some general widgets \
 like button, scrollbar, and image."
-HOMEPAGE="http://www.libsdl.org/projects/GUIlib/"
+HOMEPAGE="https://www.libsdl.org/projects/GUIlib/"
 COPYRIGHT="Public Domain"
 LICENSE="Public Domain"
 REVISION="3"

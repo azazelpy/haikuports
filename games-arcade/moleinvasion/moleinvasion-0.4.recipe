@@ -1,7 +1,7 @@
 SUMMARY="A 2D platform adventure game for TUX"
 DESCRIPTION="Mole Invasion is a 2D platform adventure game for TUX, \
 getting to kill the evil moles from the different scenarios."
-HOMEPAGE="http://moleinvasion.tuxfamily.org/"
+HOMEPAGE="https://moleinvasion.tuxfamily.org/"
 COPYRIGHT="2004-2008 Guinns(coding)
 	2004-2008 Skeespin(gfx)
 	2004-2008 Bohwaz(music)"

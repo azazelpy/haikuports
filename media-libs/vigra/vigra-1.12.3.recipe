@@ -7,7 +7,7 @@ computation, superpixels) are implemented for arbitrary high dimensions. \
 By using template techniques similar to those in the C++ Standard Template \
 Library, you can easily adapt any VIGRA component to the needs of your \
 application, without thereby giving up execution speed."
-HOMEPAGE="http://ukoethe.github.io/vigra/"
+HOMEPAGE="https://ukoethe.github.io/vigra/"
 COPYRIGHT="1998 Ullrich Koethe"
 LICENSE="MIT"
 REVISION="1"

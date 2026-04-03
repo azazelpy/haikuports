@@ -2,7 +2,7 @@ SUMMARY="High-performance event loop/event model with lots of features"
 DESCRIPTION="Libev is modelled (very losely) after libevent and the Event perl \
 module, but is faster, scales better and is more correct, and also more  \
 featureful. And also smaller."
-HOMEPAGE="http://software.schmorp.de/pkg/libev"
+HOMEPAGE="https://software.schmorp.de/pkg/libev"
 COPYRIGHT="2007-2013 Marc Alexander Lehmann"
 LICENSE="GNU GPL v2"
 REVISION="1"

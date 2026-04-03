@@ -1,6 +1,6 @@
 SUMMARY="Standard commands to read man pages"
 DESCRIPTION="Standard commands to read man pages."
-HOMEPAGE="http://primates.ximian.com/~flucifredi/man/"
+HOMEPAGE="https://primates.ximian.com/~flucifredi/man/"
 COPYRIGHT="1989-2012 Free Software Foundation, Inc."
 LICENSE="GNU GPL v2"
 REVISION="6"

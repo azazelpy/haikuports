@@ -10,7 +10,7 @@ FileMaker and Oracle Forms. Its development is motivated by the lack of Rapid \
 Application Development (RAD) tools for database systems that are sufficiently \
 powerful, inexpensive, open standards driven and portable across many operating \
 systems and hardware platforms."
-HOMEPAGE="http://kexi-project.org/"
+HOMEPAGE="https://kexi-project.org/"
 COPYRIGHT="2002-2019 The Kexi Team"
 LICENSE="GNU LGPL v2
 	GNU GPL v2"

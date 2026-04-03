@@ -6,7 +6,7 @@ away with no strings attached to it, so that it can evolve with \
 input from and under control by its users. \
 In other words, IBM releases Postfix only once. I will be around \
 to guide its development for a limited time."
-HOMEPAGE="http://www.postfix.org/"
+HOMEPAGE="https://www.postfix.org/"
 COPYRIGHT="1990-2013, Oracle
 	1990-1995, The Regents of the University of California
 	"

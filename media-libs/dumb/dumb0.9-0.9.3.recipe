@@ -1,6 +1,6 @@
 SUMMARY="A Dynamic Universal Music Library"
 DESCRIPTION="DUMB is an IT, XM, S3M and MOD player library"
-HOMEPAGE="http://dumb.sourceforge.net/"
+HOMEPAGE="https://dumb.sourceforge.net/"
 COPYRIGHT="2001-2005 Ben Davis, Robert J Ohannessian and Julien Cugniere"
 LICENSE="DUMB-0.9.3"
 REVISION="2"

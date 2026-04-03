@@ -4,7 +4,7 @@ liboauth provides functions to escape and encode stings according to \
 OAuth specifications and offers high-level functionality built on top to sign \
 requests or verify signatures using either NSS or OpenSSL for calculating \
 the hash/signatures."
-HOMEPAGE="http://liboauth.sourceforge.net/
+HOMEPAGE="https://liboauth.sourceforge.net/
 	https://github.com/x42/liboauth/"
 COPYRIGHT="2007-2014 Robin Gareus"
 LICENSE="GNU GPL v2

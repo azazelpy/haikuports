@@ -5,7 +5,7 @@ your preferences will magically be saved wherever is the right place to put \
 them. It is also a set of two regular (static) libraries that will allow your \
 application to run without libprefs being available, but will utilize it if it \
 is."
-HOMEPAGE="http://ftp.icm.edu.pl/pub/beos/contrib/libraries/"
+HOMEPAGE="https://ftp.icm.edu.pl/pub/beos/contrib/libraries/"
 COPYRIGHT="1998 Jon Watte"
 LICENSE="Public Domain"
 REVISION="6"

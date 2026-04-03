@@ -1,6 +1,6 @@
 SUMMARY="Platform support library used by libCEC and binary add-ons for Kodi"
 DESCRIPTION="This library provides platform specific support for other libraries"
-HOMEPAGE="http://libcec.pulse-eight.com/"
+HOMEPAGE="https://libcec.pulse-eight.com/"
 COPYRIGHT="2011-2015 Pulse-Eight Limited"
 LICENSE="GNU GPL v2"
 REVISION="3"

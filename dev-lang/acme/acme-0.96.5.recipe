@@ -5,7 +5,7 @@ ACME supports the standard assembler stuff like global/local/anonymous labels, \
 offset assembly, conditional assembly and looping assembly. \
 It can include other source files as well as binaries while assembling. \
 Calculations can be done in integer or float mode."
-HOMEPAGE="http://sourceforge.net/p/acme-crossass/"
+HOMEPAGE="https://sourceforge.net/p/acme-crossass/"
 COPYRIGHT="2012-2020 Marco Baye"
 LICENSE="GNU GPL v2"
 REVISION="1"

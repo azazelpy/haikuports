@@ -11,7 +11,7 @@ included to match python interfaces.
 
 Note: Despite the infrequent updates, this repo is not dead/abandoned - just \
 stable!  We use it every day at Imageworks."
-HOMEPAGE="http://opensource.imageworks.com/"
+HOMEPAGE="https://opensource.imageworks.com/"
 COPYRIGHT="2008-present Contributors to the Pystring project"
 LICENSE="BSD (3-clause)"
 REVISION="1"

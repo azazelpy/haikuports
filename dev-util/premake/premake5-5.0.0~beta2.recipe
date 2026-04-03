@@ -2,7 +2,7 @@ SUMMARY="Powerfully simple build configuration"
 DESCRIPTION="Describe your software project with a full-featured scripting \
 language and let Premake write the build scripts for you. With one file your \
 project can support both IDE-addicted Windows coders and Linux command-line junkies!"
-HOMEPAGE="http://industriousone.com/premake"
+HOMEPAGE="https://industriousone.com/premake"
 COPYRIGHT="2003-2022 Jason Perkins and individual contributors"
 LICENSE="BSD (3-clause)"
 REVISION="2"

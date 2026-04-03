@@ -8,7 +8,7 @@ clone from WinHTTrack, with some completions and simplifications of the \
 interface of management and settings.
 
 HTTraQt it was written by me in free from work time and other hobbies."
-HOMEPAGE="http://httraqt.sourceforge.net/"
+HOMEPAGE="https://httraqt.sourceforge.net/"
 COPYRIGHT="Eduard Kalinowski"
 LICENSE="GNU GPL v3"
 REVISION="1"

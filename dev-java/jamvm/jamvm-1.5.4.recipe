@@ -2,7 +2,7 @@ SUMMARY="A very small Java Virtual Machine"
 DESCRIPTION="JamVM is a new Java Virtual Machine which conforms to the JVM \
 specification version 2 (blue book). In comparison to most other VM's (free \
 and commercial) it is extremely small."
-HOMEPAGE="http://jamvm.sourceforge.net/"
+HOMEPAGE="https://jamvm.sourceforge.net/"
 COPYRIGHT="2003-2010 Robert Lougher"
 LICENSE="GNU GPL v2"
 REVISION="1"

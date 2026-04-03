@@ -3,7 +3,7 @@ DESCRIPTION="This is open source software for reading and writing Data Matrix \
 barcodes on Linux, Unix, OS X, Windows, and mobile devices. At its core \
 libdmtx is a native shared library, allowing C/C++ programs to use \
 its capabilities without extra restrictions or overhead."
-HOMEPAGE="http://libdmtx.sourceforge.net/
+HOMEPAGE="https://libdmtx.sourceforge.net/
 	https://github.com/dmtx/dmtx-utils"
 COPYRIGHT="2009-2018 Mike Laughton, Vadim Misbakh-Soloviov and others"
 LICENSE="GNU GPL v2

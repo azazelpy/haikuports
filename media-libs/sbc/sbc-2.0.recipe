@@ -5,7 +5,7 @@ transfer date to Bluetooth audio output devcies likes headphones or \
 loudspeakers. It can be also used on the Internet. It was designed to obtain \
 a reasonably good audio quality at medium bit rates while keeping low \
 computational complexity, having Bluetooth bandwidth limitations and processing power in mind."
-HOMEPAGE="http://www.bluez.org"
+HOMEPAGE="https://www.bluez.org"
 COPYRIGHT="2004-2010 Marcel Holtmann
 	2008-2010 Nokia Corporation
 	2012-2013 Intel Corporation

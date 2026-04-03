@@ -1,7 +1,7 @@
 SUMMARY="Command-line tool to backup DVDs"
 DESCRIPTION="dvdbackup is a tool to rip video DVDs from the command line. It \
 is small, fast and easy to use."
-HOMEPAGE="http://dvdbackup.sourceforge.net/"
+HOMEPAGE="https://dvdbackup.sourceforge.net/"
 COPYRIGHT="2002 Olaf Beck
 	2008-2012 Benjamin Drung"
 LICENSE="GNU GPL v3"

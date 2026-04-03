@@ -2,7 +2,7 @@ SUMMARY="An X Color Management library"
 DESCRIPTION="libXcm is a reference implementation of the X Color Management \
 specification. This specification allows to attach colour regions to X windows \
 to communicate with colour servers."
-HOMEPAGE="http://www.oyranos.org/libxcm/"
+HOMEPAGE="https://www.oyranos.org/libxcm/"
 COPYRIGHT="2008 Tomas Carnecky
 	2008-2010 Kai-Uwe Behrmann"
 LICENSE="MIT"

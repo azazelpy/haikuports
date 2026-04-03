@@ -6,7 +6,7 @@ DESCRIPTION="
 	to the POSIX regular expression API. The PCRE library is free, even for
 	building proprietary software.
 	This package contains the native API."
-HOMEPAGE="http://www.pcre.org/"
+HOMEPAGE="https://www.pcre.org/"
 COPYRIGHT="1997-2011 University of Cambridge
 	2007-2011 Google Inc. All rights reserved."
 LICENSE="PCRE"

@@ -3,7 +3,7 @@ DESCRIPTION="Arduino is an open-source tool used for building electronics projec
 Arduino consists of a physical programmable circuit board (often referred to as a micro-controller) \
 and a development environment, or IDE (Integrated Development Environment) that runs on your computer, \
 used to write and upload computer code to the board."
-HOMEPAGE="http://arduino.cc"
+HOMEPAGE="https://arduino.cc"
 COPYRIGHT="2016 Arduino"
 LICENSE="GNU GPL v2"
 REVISION="2"

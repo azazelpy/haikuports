@@ -1,7 +1,7 @@
 SUMMARY="Polish dictionary for aspell program/library"
 DESCRIPTION="Polish language dictionary for the GNU Aspell program, an open \
 source spell checker."
-HOMEPAGE="http://aspell.net/"
+HOMEPAGE="https://aspell.net/"
 COPYRIGHT="2003-2006 Marek Futrega et al."
 LICENSE="GNU GPL v2
 	GNU LGPL v2.1
