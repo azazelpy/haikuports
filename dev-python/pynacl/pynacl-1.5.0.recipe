@@ -9,12 +9,12 @@ CHECKSUM_SHA256="8ac7448f09ab85811607bdd21ec2464495ac8b7c66d146bf545b0f08fb9220b
 SOURCE_DIR="PyNaCl-$portVersion"
 
 ARCHITECTURES="all !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
-	$portName = $portVersion
 	"
-REQUIRES="
 	haiku$secondaryArchSuffix
 	"
 

@@ -10,12 +10,12 @@ SOURCE_URI="https://pypi.io/packages/source/w/wrapt/wrapt-$portVersion.tar.gz"
 CHECKSUM_SHA256="d06730c6aed78cee4126234cf2d071e01b44b915e725a6cb439a879ec9754a3a"
 
 ARCHITECTURES="all !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
-	$portName = $portVersion
 	"
-REQUIRES="
 	haiku$secondaryArchSuffix
 	"
 

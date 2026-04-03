@@ -19,11 +19,10 @@ PATCHES="icecream-$portVersion.patchset"
 
 ARCHITECTURES="any"
 
-PROVIDES="
-	$portName = $portVersion
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
+
 	"
-REQUIRES="
-	haiku
 	"
 
 PYTHON_VERSIONS=(3.10)
