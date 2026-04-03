@@ -1,0 +1,144 @@
+SUMMARY="The Go Programming Language"
+DESCRIPTION="The Go Programming Language is an open source project to make \
+programmers more productive.
+
+Go is expressive, concise, clean, and efficient. Its concurrency \
+mechanisms make it easy to write programs that get the most out of multicore \
+and networked machines, while its novel type system enables flexible and \
+modular program construction. Go compiles quickly to machine code yet has the \
+convenience of garbage collection and the power of run-time reflection. It's a \
+fast, statically typed, compiled language that feels like a dynamically typed, \
+interpreted language.
+
+This version (1.25.1) fixes critical security vulnerabilities present in \
+Go 1.4.3, including dozens of CVEs affecting net/http, crypto, and other \
+core packages."
+HOMEPAGE="https://go.dev/"
+COPYRIGHT="2009-2025 The Go Authors"
+LICENSE="BSD (3-clause)"
+REVISION="1"
+
+# Primary source: Go 1.25.1 official source tarball
+SOURCE_URI="https://go.dev/dl/go1.25.1.src.tar.gz"
+CHECKSUM_SHA256="d010c109cee94d80efe681eab46bdea491ac906bf46583c32e9f0dbb0bd1a594"
+
+# Bootstrap compiler: Go 1.4.3 (required to build Go from source)
+# Per Go project requirements, a working Go compiler is needed to bootstrap
+# Go 1.4.3 is the minimum bootstrap version supported by the Go toolchain
+SOURCE_URI_2="https://dl.google.com/go/go1.4.3.src.tar.gz"
+CHECKSUM_SHA256_2="9947fc705b0b841b5938c48b22dc33e9647ec0752bae66e50278df4f23f64959"
+
+SOURCE_DIR="go"
+
+# Haiku-specific patches for Go 1.25.x
+# Patch source: korli/go fork (https://github.com/korli/go)
+# Branch: golang-1.25-haiku (based on Go 1.25.8)
+# Commit: ea5ff44861112efd62ab04498781051942813fad
+#
+# Haiku-specific fixes include:
+# - .comment section updates (don't link libresolv on Haiku)
+# - accept4 support removed (not yet implemented)
+# - GetRandom fix for Haiku
+#
+# No separate patchset needed - patches integrated in fork
+# PATCHES="golang-1.25.1.patchset"
+
+# Architecture restriction: x86_64 only
+# Go 1.18+ Haiku port maintained by korli (November 2025)
+# This port is specifically for x86_64 architecture; other architectures
+# would require additional platform-specific work not yet implemented
+ARCHITECTURES="x86_64"
+
+GLOBAL_WRITABLE_FILES="
+	non-packaged/lib/go directory keep-old
+	"
+
+PROVIDES="
+	golang$secondaryArchSuffix = $portVersion
+	cmd:go$secondaryArchSuffix = $portVersion
+	cmd:gofmt$secondaryArchSuffix = $portVersion
+	cmd:godoc$secondaryArchSuffix = $portVersion
+	"
+if [ -n "$secondaryArchSuffix" ]; then
+PROVIDES="$PROVIDES
+	cmd:go = $portVersion
+	cmd:gofmt = $portVersion
+	cmd:godoc = $portVersion
+	"
+fi
+
+REQUIRES="
+	haiku$secondaryArchSuffix
+	"
+
+# Build requirements:
+# - haiku_devel: Haiku development headers and libraries
+# - gcc: C compiler for building Go runtime and tools
+BUILD_REQUIRES="
+	haiku${secondaryArchSuffix}_devel
+	devel:gcc${secondaryArchSuffix}
+	"
+
+# Build prerequisites (commands needed during build):
+# - gcc: Compiler for Go runtime
+# - git: Required by Go build system for version tracking
+# - make: Build automation tool used by Go build scripts
+BUILD_PREREQUIRES="
+	cmd:gcc$secondaryArchSuffix
+	cmd:git
+	cmd:make
+	"
+
+BUILD()
+{
+	echo "$portVersion" > VERSION
+	
+	# Set Go environment variables for Haiku
+	export GOROOT_FINAL=$prefix/non-packaged/lib/go
+	export GOCACHE=/tmp/go-build
+	export GOMODCACHE=/tmp/go-mod
+	
+	# Haiku-specific build flags
+	# Disable ASLR for compatibility with Haiku's memory management
+	export DISABLE_ASLR=1
+	
+	# Bootstrap with Go 1.4.3 (minimum required version)
+	# This bootstrap compiler is used to compile the Go 1.25.1 toolchain
+	export GOROOT_BOOTSTRAP="$sourceDir/bootstrap"
+	mkdir -p "$GOROOT_BOOTSTRAP"
+	tar -xzf "$sourceDir/go1.4.3.src.tar.gz" -C "$GOROOT_BOOTSTRAP" --strip-components=1
+	
+	# Build the Go toolchain
+	cd src
+	./make.bash --no-clean
+	
+	cd ..
+	
+	# Set up GOPATH for building tools
+	export GOPATH=/tmp/go
+	export GOROOT="$sourceDir"
+}
+
+INSTALL()
+{
+	# Create installation directories
+	mkdir -p $prefix/non-packaged/lib/go/
+	mkdir -p $binDir
+	
+	# Copy Go installation files
+	cp -r src pkg doc bin include misc test api $prefix/non-packaged/lib/go/
+	
+	# Install binaries to bin directory
+	cp bin/* $binDir/
+	
+	# Create symlinks for common commands
+	ln -sf $prefix/non-packaged/lib/go/bin/go $binDir/go
+	ln -sf $prefix/non-packaged/lib/go/bin/gofmt $binDir/gofmt
+}
+
+TEST()
+{
+	# Run Go test suite
+	cd src
+	DISABLE_ASLR=1 ./all.bash
+}
