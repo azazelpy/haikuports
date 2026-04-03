@@ -26,7 +26,7 @@ REVISION="1"
 # Checksum should be verified on first download with: sha256sum kubernetes-1.35.3.tar.gz
 # GitHub source archives have stable checksums per tag
 SOURCE_URI="https://github.com/kubernetes/kubernetes/archive/refs/tags/v1.35.3.tar.gz"
-CHECKSUM_SHA256="PLACEHOLDER_UPDATE_ON_FIRST_BUILD"
+CHECKSUM_SHA256="4374809bf135137568135384209f160acdab7372f2608fa60ca3513782db4f03"
 SOURCE_FILENAME="kubernetes-1.35.3.tar.gz"
 SOURCE_DIR="kubernetes-1.35.3"
 
