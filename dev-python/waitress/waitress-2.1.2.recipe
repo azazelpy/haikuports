@@ -12,11 +12,10 @@ SOURCE_URI="https://files.pythonhosted.org/packages/source/w/waitress/waitress-$
 CHECKSUM_SHA256="780a4082c5fbc0fde6a2fcfe5e26e6efc1e8f425730863c04085769781f51eba"
 ARCHITECTURES="any"
 
-PROVIDES="
-	$portName = $portVersion
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
+
 	"
-REQUIRES="
-	haiku
 	"
 
 BUILD_REQUIRES="
