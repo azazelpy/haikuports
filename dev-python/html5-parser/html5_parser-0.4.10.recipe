@@ -19,12 +19,13 @@ CHECKSUM_SHA256="f9294418c0da95c2d5facc19d3dc32941093a6b8e3b3e4b36cc7b5a1697fbca
 SOURCE_DIR="html5-parser-$portVersion"
 
 ARCHITECTURES="all !x86_gcc2"
+
+# No main package PROVIDES → haikuporter skips base package creation
+# See: https://github.com/haikuports/haikuporter/pull/362
 SECONDARY_ARCHITECTURES="x86"
 
-PROVIDES="
 	html5_parser$secondaryArchSuffix = $portVersion
 	"
-REQUIRES="
 	haiku$secondaryArchSuffix
 	"
 
